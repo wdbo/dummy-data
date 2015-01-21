@@ -3,7 +3,7 @@
 ### 91. RESULTS OF OBSERVATION WITH THE UNAIDED EYE
 
 The student who has
-made the observations of the moon which are indicated in [Chapter III](03-Chapter-III.md) has
+made the observations of the moon which are indicated in [Chapter III](Chapter-III.md) has
 in hand data from which much may be learned about the earth's satellite.
 Perhaps the most striking feature brought out by them is the motion of
 the moon among the stars, always from west toward east, accompanied by
@@ -134,12 +134,12 @@ to be christened respectively the Harvest Moon and the Hunter's Moon.
 
 ### 94. SIZE AND MASS OF THE MOON
 
-It has been shown in [Chapter I](01-Chapter-I.md) how the
+It has been shown in [Chapter I](Chapter-I.md) how the
 distance of the moon from the earth may be measured and its diameter
 determined by means of angles, and without enlarging upon the details of
 these observations, we note as their result that the moon is a globe
 2,163 miles in diameter, and distant from the earth on the average about
-240,000 miles. But, as we have seen in [Chapter VII](07-Chapter-VII.md), this distance
+240,000 miles. But, as we have seen in [Chapter VII](Chapter-VII.md), this distance
 changes to the extent of a few thousand miles, sometimes less, sometimes
 greater, mainly on account of the elliptic shape of the moon's orbit
 about the earth, but also in part from the disturbing influence of other
@@ -181,7 +181,7 @@ called their _center of gravity_, and the earth and the moon both move
 in ellipses having this center of gravity at their common focus. Compare
 this with Kepler's First Law. These ellipses are similarly shaped, but
 of very different size, corresponding to Newton's third law of motion
-([Chapter IV](04-Chapter-IV.md)), so that the action of the earth in causing the small moon
+([Chapter IV](Chapter-IV.md)), so that the action of the earth in causing the small moon
 to move around a large orbit is just equal to the reaction of the moon
 in causing the larger earth to move in the smaller orbit. This is
 equivalent to saying that the dimensions of the two orbits are inversely

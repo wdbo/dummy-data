@@ -220,7 +220,7 @@ of its orbit thus marked. The orbit of the moon about the earth, `M M´`,
 is also shown, with the new moon, `M`, casting its shadow toward the
 earth and the full moon, `M´`, apparently immersed in the earth's
 shadow. But here appearances are deceptive, and the student who has
-made the observations set forth in [Chapter III](03-Chapter-III.md) has learned for himself
+made the observations set forth in [Chapter III](Chapter-III.md) has learned for himself
 a fact of which careful account must now be taken. The apparent paths of
 the moon and sun among the stars are great circles which lie near each
 other, but are not exactly the same; and since these great circles are
@@ -548,7 +548,7 @@ prominences and by the corona, an appendage of the sun which reaches out
 from his surface for millions of miles but is never seen save at an
 eclipse. Photographs of the corona are taken by astronomers at every
 opportunity, and reproductions of some of these may be found in 
-[Chapter X](10-Chapter-X.md).
+[Chapter X](Chapter-X.md).
 
 Annular eclipses and lunar eclipses are of comparatively little
 consequence, but any recorded eclipse may become of value in connection

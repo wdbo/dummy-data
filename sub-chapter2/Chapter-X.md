@@ -38,7 +38,7 @@ would be like determining the distance of a steeple a mile away by
 observing its direction first from one eye, then from the other; too
 short a base for the triangle. In one respect, however, we stand upon a
 better footing than in the case of the moon, for the mass of the earth
-has already been found ([Chapter IV](04-Chapter-IV.md)) as a fractional part of the sun's
+has already been found ([Chapter IV](Chapter-IV.md)) as a fractional part of the sun's
 mass, and we have only to invert the fraction in order to find that the
 sun's mass is 329,000 times that of the earth and moon combined, or
 333,000 times that of the earth alone.
@@ -371,7 +371,7 @@ photograph, very much distorted and foreshortened by the curvature of
 the sun's surface, are seen in a different part of the second picture,
 and are not only more conspicuous but show better their true shape.
 
-[![PLATE II. THE EQUATORIAL CONSTELLATIONS][img10]](Plate-II.jpg)
+[![PLATE II. THE EQUATORIAL CONSTELLATIONS][img8]](Plate-II.jpg)
 
 ### 120. THE SUN'S ROTATION
 
@@ -863,7 +863,7 @@ it seems altogether probable, in view of these combined activities, that
 a considerable addition to our store of knowledge concerning the sun may
 be expected in the not distant future.
 
-[img10]: assets/i219.jpg "PLATE II. THE EQUATORIAL CONSTELLATIONS"
+[img8]: assets/i219.jpg "PLATE II. THE EQUATORIAL CONSTELLATIONS"
 [fig65]: assets/i210.jpg "FIG. 65.--The sun's size.--YOUNG."
 [fig66]: assets/i215.jpg "FIG. 66.--The sun, August 11, 1894. Photographed at the Goodsell Observatory."
 [fig67]: assets/i216.jpg "FIG. 67.--The sun, August 14, 1894. Photographed at the Goodsell Observatory."

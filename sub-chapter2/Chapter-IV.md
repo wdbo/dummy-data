@@ -128,7 +128,7 @@ been learned from observation.
 #### EXERCISE 18.
 Uranus requires 84 years to make a revolution in its
 orbit. What is its mean distance from the sun? What are the mean
-distances of Mercury, Venus, and Mars? (See [Chapter III](03-Chapter-III.md) for their
+distances of Mercury, Venus, and Mars? (See [Chapter III](Chapter-III.md) for their
 periodic times.) Would it be possible for two planets at different
 distances from the sun to move around their orbits in the same time?
 
@@ -512,7 +512,7 @@ all the other planets, unless here and there an asteroid may prove an
 exception to the rule.
 
 ![FIG. 22.--A planet subject to great perturbations by Jupiter.][fig22]
-The precession ([Chapter V](05-Chapter-V.md)) is a striking illustration of a perturbation
+The precession ([Chapter V](Chapter-V.md)) is a striking illustration of a perturbation
 of slightly different character from the above, and another is found in
 connection with the plane of the moon's orbit. It will be remembered
 that the moon in its motion among the stars never goes far from the

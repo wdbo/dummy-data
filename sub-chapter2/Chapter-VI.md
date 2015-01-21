@@ -254,7 +254,7 @@ sun through the heavens and the change of seasons which is thus
 produced; although, as commonly employed, it is not quite the same as
 the time required by the earth to make one complete revolution in its
 orbit. This time of one revolution is called a sidereal year, while, as
-we have already seen in [Chapter V](05-Chapter-V.md), the year which measures the course of
+we have already seen in [Chapter V](Chapter-V.md), the year which measures the course of
 the seasons is shorter than this on account of the precession of the
 equinoxes. It is called a tropical year with reference to the circuit
 which the sun makes from one tropic to the other and back again.

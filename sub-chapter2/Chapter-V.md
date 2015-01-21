@@ -18,7 +18,7 @@ represent the direction of the vertical at these points, and the angles
 which these radii produced, make with the rays of starlight are each
 equal to the angular distance of the star from the zenith of the place
 at the moment the star crosses the meridian. We have already seen, in
-[Chapter II](02-Chapter-II.md), how these angles may be measured, and it is apparent from
+[Chapter II](Chapter-II.md), how these angles may be measured, and it is apparent from
 the figure that the difference between any two of these angles--e. g.,
 the angles at `1` and `2`--is equal to the angle at the center, `O`,
 between the points `1` and `2`. By measuring these angular distances of
@@ -62,11 +62,11 @@ the meridian--i. e., the north and south part of the distance.
 By co-operation between schools in the Northern and Southern States,
 using a good map to obtain the required distances, the diameter of the
 earth may be measured with the plumb-line apparatus described in 
-[Chapter II](02-Chapter-II.md) and determined within a small percentage of its true value.
+[Chapter II](Chapter-II.md) and determined within a small percentage of its true value.
 
 ### 45. THE MASS OF THE EARTH
 
-We have seen in [Chapter IV](04-Chapter-IV.md) the possibility
+We have seen in [Chapter IV](Chapter-IV.md) the possibility
 of determining the masses of the planets as fractional parts of the
 sun's mass, but nothing was there shown, or could be shown, about
 measuring these masses after the common fashion in kilogrammes or tons.
@@ -77,7 +77,7 @@ simple enough, their actual application is delicate and difficult.
 ![FIG. 26.--Illustrating the principles involved in weighing the earth.][fig26]
 In Fig. 26 we suppose a long plumb line to be suspended above the
 surface of the earth and to be attracted toward the center of the earth,
-`C`, by a force whose intensity is ([Chapter IV](04-Chapter-IV.md))
+`C`, by a force whose intensity is ([Chapter IV](Chapter-IV.md))
 
 \[F = k mE/R^{2}\]
 
@@ -173,7 +173,7 @@ the perpendicular to its orbit (obliquity of the ecliptic) just as the
 axis of the top is tipped away from the vertical line. In consequence of
 its rapid spin, the body of the earth bulges out at the equator (27
 miles), and the sun and moon, by virtue of their attraction (see 
-[Chapter IV](04-Chapter-IV.md)), lay hold of this protuberance and pull it down toward the plane of
+[Chapter IV](Chapter-IV.md)), lay hold of this protuberance and pull it down toward the plane of
 the earth's orbit, so that if it were not for the spin this force would
 straighten the axis up and set it perpendicular to the orbit plane. But
 here, as in the case of the top, the spin and the tipping force combine
@@ -284,7 +284,7 @@ makes the sun's warmth more effective when he is high up in the sky than
 when he is near the horizon, and more effective in summer than in
 winter.
 
-We have seen in [Chapter III](03-Chapter-III.md) that the sun's motion among the stars takes
+We have seen in [Chapter III](Chapter-III.md) that the sun's motion among the stars takes
 place along a path which carries it alternately north and south of the
 equator to a distance of 23.5°, and the stars show by their earlier
 risings and later settings, as we pass from the equator toward the north

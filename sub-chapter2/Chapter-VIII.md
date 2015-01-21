@@ -442,7 +442,7 @@ surface of a planet, or the sun's corona and, for the present at least,
 neither method of observing can exclude the other. For a remarkable case
 of discordance between the results of photographic and visual
 observations compare the pictures of the great nebula in the
-constellation Andromeda, which are given in # CHAPTER XIV. A partial
+constellation Andromeda, which are given in [Chapter XIV](Chapter-XIV.md). A partial
 explanation of these discordances and other similar ones is that the eye
 is most strongly affected by greenish-yellow light, while the
 photographic plate responds most strongly to violet light; the
@@ -733,7 +733,7 @@ The sun presents by far the most complex
 spectrum known, and Fig. 50 shows only a small number of the more
 conspicuous lines which appear in it. Spectra of stars, _per contra_,
 appear relatively simple, since their feeble light is insufficient to
-bring out faint details. In chapters [XIII](13-Chapter-XIII.md) and [XIV](14-Chapter-XIV.md) there are shown types
+bring out faint details. In chapters [XIII](Chapter-XIII.md) and [XIV](Chapter-XIV.md) there are shown types
 of the different kinds of spectra given by starlight, and these are to
 be interpreted by the principles above established. Thus the spectrum of
 the bright star β Aurigæ shows a continuous spectrum crossed by a few

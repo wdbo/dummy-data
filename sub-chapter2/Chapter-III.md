@@ -192,7 +192,7 @@ of the street, the others traveling near the middle of the road.
 
 The Copernican theory,
 enormously extended and developed through the Newtonian law of
-gravitation (see [Chapter IV](04-Chapter-IV.md)), has completely supplanted the older
+gravitation (see [Chapter IV](Chapter-IV.md)), has completely supplanted the older
 Ptolemaic doctrine, and an illustration of the simple manner in which it
 accounts for the apparently complicated motions of a planet among the
 stars is found in Figs. 14 and 15, the first of which represents the

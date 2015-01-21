@@ -8,7 +8,7 @@ moon, a dark body shining by reflected sunlight, and therefore
 presenting phases; although only two of them, Mercury and Venus, run
 through the complete series--new, first quarter, full, last
 quarter--which the moon presents. The way in which their orbits are
-grouped about the sun has been considered in [Chapter III](03-Chapter-III.md), and Figs. 16
+grouped about the sun has been considered in [Chapter III](Chapter-III.md), and Figs. 16
 and 17 of that chapter may be completed so as to represent all of the
 planets by drawing in Fig. 16 two circles with radii of 7.9 and 12.4
 centimeters respectively, to represent the orbits of the planets Uranus
@@ -444,12 +444,12 @@ by direct experiment the velocity with which light travels--186,337
 miles per second--and multiplying this number by the 498s. (= 8m. 18s.)
 we obtain a new determination of the sun's distance from the earth. The
 product of the two numbers is 92,795,826, in very fair agreement with
-the 93,000,000 miles found in [Chapter X](10-Chapter-X.md); but, as noted there, this
+the 93,000,000 miles found in [Chapter X](Chapter-X.md); but, as noted there, this
 method, like every other, has its weak side, and the result may be a
 good many thousands of miles in error.
 
 It is worthy of note in this connection that both methods of obtaining
-the sun's distance which were given in [Chapter X](10-Chapter-X.md) involve Kepler's Third
+the sun's distance which were given in [Chapter X](Chapter-X.md) involve Kepler's Third
 Law, while the result obtained from Jupiter's satellites is entirely
 independent of this law, and the agreement of the several results is
 therefore good evidence both for the truth of Kepler's laws and for the
@@ -519,7 +519,7 @@ recently as 1850.
 Although the rings appear oval in all of the pictures, this is mainly an
 effect of perspective, and they are in fact nearly circular with the
 planet at their center. The extreme diameter of the ring is 172,000
-miles, and from this number, by methods already explained ([Chapter IX](09-Chapter-IX.md)),
+miles, and from this number, by methods already explained ([Chapter IX](Chapter-IX.md)),
 the student should obtain the width of the rings, their distance from
 the ball of the planet, and the diameter of the ball. As to thickness,
 it is evident, from the disappearance of the ring when its edge is
@@ -627,7 +627,7 @@ east of Saturn, and thus give the observed difference of brightness.
 The two remaining large planets are
 interesting chiefly as modern additions to the known members of the
 sun's family. The circumstances leading to the discovery of Neptune have
-been touched upon in [Chapter IV](04-Chapter-IV.md), and for Uranus we need only note that
+been touched upon in [Chapter IV](Chapter-IV.md), and for Uranus we need only note that
 it was found by accident in the year 1781 by William Herschel, who for
 some time after the discovery considered it to be only a comet. It was
 the first planet ever discovered, all of its predecessors having been
@@ -920,8 +920,8 @@ a sufficient accumulation of water to support vegetable life.
 ### 154. THE CANALS
 
 In Fig. 98 the lower part of the disk of Mars shows
-certain faint dark lines which are generally called canals, and in Plate
-III there is given a map of Mars showing many of these canals running in
+certain faint dark lines which are generally called canals, and in 
+[Plate III](Plate-III.jpg) there is given a map of Mars showing many of these canals running in
 narrow, dusky streaks across the face of the planet according to a
 pattern almost as geometrical as that of a spider's web. This must not
 be taken for a picture of the planet's appearance in a telescope. No man
@@ -932,7 +932,7 @@ darker parts of the planet--and of the moon--as bodies of water, but
 this is now known to be an error in both cases. The curved surface of a
 planet can not be accurately reproduced upon the flat surface of paper,
 but is always more or less distorted by the various methods of
-"projecting" it which are in use. Compare the map of Mars in Plate III
+"projecting" it which are in use. Compare the map of Mars in [Plate III](Plate-III.jpg)
 with Fig. 99, in which the projection represents very well the
 equatorial parts of the planet, but enormously exaggerates the region
 around the poles.
@@ -961,7 +961,7 @@ overcome.
 
 ![FIG. 99.--A chart of Mars, 1898-'99.--CERULLI.][fig99]
 
-[![PLATE III. MAP OF MARS (AFTER SCHIAPARELLI)][img12]](Plate-III.jpg)
+[![PLATE III. MAP OF MARS (AFTER SCHIAPARELLI)][img10]](Plate-III.jpg)
 
 ### 155. SATELLITES
 
@@ -1087,8 +1087,8 @@ in the solar system, not one is found in which the necessary conditions
 of life are certainly fulfilled, and only two exist in which there is a
 reasonable probability that these conditions may be satisfied.
 
-[img11]: assets/i265.jpg "WILLIAM HERSCHEL (1738-1822)."
-[img12]: assets/i279.jpg "PLATE III. MAP OF MARS (AFTER SCHIAPARELLI)"
+[img09]: assets/i265.jpg "WILLIAM HERSCHEL (1738-1822)."
+[img10]: assets/i279.jpg "PLATE III. MAP OF MARS (AFTER SCHIAPARELLI)"
 [fig84]: assets/i243a.png "FIG. 84.--The inner planets and the moon."
 [fig85]: assets/i243b.png "FIG. 85.--The outer planets."
 [fig86]: assets/i247.jpg "FIG. 86.--Jupiter and his satellites."

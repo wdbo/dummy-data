@@ -472,7 +472,7 @@ usually be best to observe one of the stars of the table at the end of
 the book, and to obtain its right ascension as follows: The table gives
 the right ascension and declination of each star as they were at the
 beginning of the year 1900, but on account of the precession (see
-[Chapter V](05-Chapter-V.md)), these numbers all change slowly with the lapse of time, and
+[Chapter V](Chapter-V.md)), these numbers all change slowly with the lapse of time, and
 on the average the right ascension of each star of the table must be
 increased by one twentieth of a minute for each year after 1900--i. e.,
 in 1910 the right ascension of the first star of the table will be
