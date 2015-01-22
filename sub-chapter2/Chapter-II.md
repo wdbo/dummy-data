@@ -7,7 +7,7 @@ frequently as possible, the student should practice watching the stars
 by night, to become acquainted with the constellations and their
 movements. As an introduction to this study he may face toward the
 north, and compare the stars which he sees in that part of the sky with
-the map of the northern heavens, given on [Plate I](Plate-I.jpg), opposite page 124.
+the map of the northern heavens, given on [Plate I](Plate-I.jpg) [...].
 Turn the map around, upside down if necessary, until the stars upon it
 match the brighter ones in the sky. Note how the stars are grouped in
 such conspicuous constellations as the Big Dipper (Ursa Major), the
@@ -170,7 +170,7 @@ photographing Fig. 8?
 
 ### 14. FINDING THE STARS
 
-On [Plate I](Plate-I.jpg), opposite page 124, the pole of the
+On [Plate I](Plate-I.jpg) [...], the pole of the
 heavens is at the center of the map, near Polaris, and the heavy trail
 near the center of Fig. 8 is made by Polaris. See if you can identify
 from the map any of the stars whose trails show in the photograph. The
@@ -274,9 +274,9 @@ i. e., toward Polaris.
 
 [![FIG. 10.--From a photograph of the Pleiades.][fig10]](assets/i032-full.jpg)
 
-Find on [Plate II](Plate-II.jpg), opposite page 190, the Pleiades (Plēadēs),
-`R. A. = 3h. 42m.`, `Dec. = +23.8°`. Why do they not show on [Plate I](Plate-I.jpg),
-opposite page 124? In what direction are they from Polaris? This is one
+Find on [Plate II](Plate-II.jpg) [...], the Pleiades (Plēadēs),
+`R. A. = 3h. 42m.`, `Dec. = +23.8°`. Why do they not show on [Plate I](Plate-I.jpg)
+[...]? In what direction are they from Polaris? This is one
 of the finest star clusters in the sky, but it needs a telescope to
 bring out its richness. See how many stars you can count in it with the
 naked eye, and afterward examine it with an opera glass. Compare what
