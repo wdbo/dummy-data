@@ -123,7 +123,7 @@ ton, and the distance between the two positions of the ball, `1` and
 `2`, six feet, how many inches, `d`, would the plumb bob be pulled out
 of place?
 
-Find from the mass of the earth and the data of § 40 the mass of the sun
+Find from the mass of the earth and the data of [§ 40](Chapter-IV.md#40-weighing-the-planets) the mass of the sun
 in tons. Find also the mass of Mars. The computation can be very greatly
 abridged by the use of logarithms.
 

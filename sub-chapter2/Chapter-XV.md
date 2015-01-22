@@ -101,7 +101,7 @@ ideas of the sun's present mechanism are sound, then, as a necessary
 consequence of these, its past career must have been a process of
 condensation in which its component particles were year by year packed
 closer together by their own attraction for each other. As we have seen
-in § 126, this condensation necessarily developed heat, a part of which
+in [§ 126](Chapter-X.md#126-the-sun-as-a-machine), this condensation necessarily developed heat, a part of which
 was radiated away as fast as produced, while the remainder was stored
 up, and served to raise the temperature of the sun to what we find it
 now. At the present time this temperature is a chief obstacle to further
@@ -199,7 +199,7 @@ great extent which must have enveloped the sun like an atmosphere. A
 consideration of the planetary motions leads us to think that ... the
 sun's atmosphere formerly extended far beyond the orbits of all the
 planets and has shrunk by degrees to its present dimensions." This is
-not very different from the idea developed in § 228 from a consideration
+not very different from the idea developed in [§ 228](Chapter-XV.md#228-the-suns-development) from a consideration
 of the sun's radiant energy; but in Laplace's day the possibility of
 generating the sun's heat by contraction of its bulk was unknown, and he
 was compelled to assume a very high temperature for the primitive
@@ -278,7 +278,7 @@ with the outer parts of a large one.
 
 We should not leave the theory of Laplace without
 noting the light it casts upon one point otherwise obscure--the meaning
-of Bode's law (§ 134). This law, stated in mathematical form, makes a
+of Bode's law ([§ 134](Chapter-XI.md#134-distances-of-the-planets-from-the-sun)). This law, stated in mathematical form, makes a
 geometrical series, and similar geometrical series apply to the
 distances of the satellites of Jupiter and Saturn from these planets.
 Now, Roche has shown by the application of physical laws to the
@@ -306,7 +306,7 @@ as to the present condition of things in earth and moon, derives from
 these, by a strict process of mathematical reasoning, far-reaching
 conclusions of great interest and importance. The key to these
 conclusions lies in recognition of the fact that through the influence
-of the tides (§ 42) there is now in progress and has been in progress
+of the tides ([§ 42](Chapter-IV.md#42-the-shape-of-a-planet)) there is now in progress and has been in progress
 for a very long time, a gradual transfer of motion (moment of momentum)
 from the earth to the moon. The earth's motion of rotation is being
 slowly destroyed by the friction of the tides, as the motion of a
@@ -317,7 +317,7 @@ of years ago.
 
 Fig. 24 has been used to illustrate the action of the moon in raising
 tides upon the earth, but in accordance with the third law of motion
-(§ 36) this action must be accompanied by an equal and contrary reaction
+([§ 36](Chapter-IV.md#36-the-third-law-of-motion)) this action must be accompanied by an equal and contrary reaction
 whose nature may readily be seen from the same figure. The moon moves
 about its orbit from west to east and the earth rotates about its axis
 in the same direction, as shown by the curved arrow in the figure. The
@@ -384,7 +384,7 @@ These two processes, slowing down the rotation and pushing away the
 disturbing body, are inseparable--one requires the other; and it is
 worth noting in this connection that when for any reason the tide ceases
 to flow, and the tidal wave takes up a permanent position, as it has in
-the moon (§ 99), its work is ended, for when there is no motion of the
+the moon ([§ 99](Chapter-IX.md#99-cause-of-librations)), its work is ended, for when there is no motion of the
 wave there can be no friction to further reduce the rate of rotation of
 the one body, and no reaction to that friction to push away the other.
 But this permanent and stationary tidal wave in the moon, or elsewhere,
@@ -479,7 +479,7 @@ of the satellite by _q_, then
 \[Roche's limit = 2.44 r ∛q\]
 
 Thus in the case of earth and moon we find from the densities given in
-§ 95, _q_ = 1.65, and with _r_ = 3,963 miles we obtain 11,400 miles as
+[§ 95](Chapter-IX.md#95-density-of-the-moon), _q_ = 1.65, and with _r_ = 3,963 miles we obtain 11,400 miles as
 the nearest approach which the moon could make to the earth without
 being broken up by the difference of the earth's attractions for its
 opposite sides.
@@ -647,7 +647,7 @@ comparatively young stars, and, as we shall see a little later, the
 shortness of their light periods in some measure confirms this
 conclusion drawn from their spectra.
 
-We have noted in § 196 that the sun's near neighbors are prevailingly
+We have noted in [§ 196](Chapter-XIII.md#196-distance-of-sirian-and-solar-stars) that the sun's near neighbors are prevailingly
 stars with spectra of the second type, while the Milky Way is mainly
 composed of first-type stars, and from this we may now conclude that in
 our particular part of the entire celestial space the stars are, as a

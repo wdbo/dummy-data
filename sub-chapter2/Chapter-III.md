@@ -85,7 +85,7 @@ clear days by different members of the class.
 #### EXERCISE 10.
 The right ascension of the sun may be found by observing
 with the sidereal clock the time of its transit over the meridian. Use
-the equation in § 20, and substitute in place of `U` the value of the
+the equation in [§ 20](Chapter-II.md#20-time), and substitute in place of `U` the value of the
 clock correction found from observations of stars on a preceding or
 following night. If the clock gains or loses _with respect to sidereal
 time_, take this into account in the value of`U`.

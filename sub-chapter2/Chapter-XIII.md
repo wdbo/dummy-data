@@ -61,7 +61,7 @@ while the other brighter ones are known as _lucid stars_.
 
 The telescopic stars show among themselves an even
 greater range of brightness than do the lucid ones, and the system of
-magnitudes (§ 9) has accordingly been extended to include them, the
+magnitudes ([§ 9](Chapter-II.md#9-magnitudes-of-the-stars)) has accordingly been extended to include them, the
 faintest star visible in the greatest telescope of the present time
 being of the sixteenth or seventeenth magnitude, while, as we have
 already learned, stars on the dividing line between the telescopic and
@@ -368,7 +368,7 @@ unit. To express them in miles the numbers in the table must be
 multiplied by 93,000,000,000,000. The nearest star, α Centauri, is
 25,000,000,000,000 miles away. But there is another unit in more common
 use--i. e., the distance traveled over by light in the period of one
-year. We have already found (§ 141) that it requires light 8m. 18s. to
+year. We have already found ([§ 141](Chapter-XI.md#141-eclipses-of-the-satellites)) that it requires light 8m. 18s. to
 come from the sun to the earth, and it is a simple matter to find from
 this datum that in a year light moves over a space equal to 63,368 radii
 of the earth's orbit. This distance is called a _light year_, and the
@@ -395,7 +395,7 @@ majority of the stars lie far beyond the limits of the figure.
 
 It is evident that these stars are too far apart
 for their mutual attractions to have much influence one upon another,
-and that we have here a case in which, according to § 34, each star is
+and that we have here a case in which, according to [§ 34](Chapter-IV.md#34-newtons-laws-of-motion), each star is
 free to keep unchanged its state of rest or motion with unvarying
 velocity along a straight line. Their very name, _fixed stars_, implies
 that they are at rest, and so astronomers long believed. Hipparchus (125
@@ -482,7 +482,7 @@ orbit.
 It is only within the last 25 years
 that anything whatever has been accomplished in determining these
 stellar motions of approach or recession, but within that time much
-progress has been made by applying the Doppler principle (§ 89) to the
+progress has been made by applying the Doppler principle ([§ 89](Chapter-VIII.md#89-the-doppler-principle)) to the
 study of stellar spectra, and at the present time nearly every great
 telescope in the world is engaged upon work of this kind. The shifting
 of the lines of the spectrum toward the violet or toward the red end of
@@ -808,7 +808,7 @@ the star is known that this can be converted into the required linear
 units, radii of the earth's orbit, by dividing the angular major axis by
 the parallax; 47 = 35" ÷ 0.75".
 
-Our list of distances (§ 189) contains four double stars whose periodic
+Our list of distances ([§ 189](Chapter-XIII.md#189-the-sun-and-his-neighbors)) contains four double stars whose periodic
 times and major axes have been fairly well determined, and we find in
 the accompanying table the information which they give about the masses
 of double stars and the size of the orbits in which they move:
@@ -982,7 +982,7 @@ of a mass ten times as great as that of the sun.
 
 ### 204. VARIABLE STARS
 
-Attention has already been drawn (§ 23) to the
+Attention has already been drawn ([§ 23](Chapter-III.md#23-star-maps)) to the
 fact that some stars shine with a changing brightness--e. g., Algol, the
 most famous of these _variable stars_, at its maximum of brightness
 furnishes three times as much light as when at its minimum, and other

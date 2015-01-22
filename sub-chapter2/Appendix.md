@@ -109,7 +109,7 @@ completeness, may serve as a useful guide to supplementary reading:
 
 ## A LIST OF STARS FOR TIME OBSERVATIONS
 
-See § 20.
+See [§ 20](Chapter-II.md#20-time).
 
 |NAME.           |  Magnitude.   | Right Ascension. | Declination.|
 |                |               |     h. m.        |      °      |

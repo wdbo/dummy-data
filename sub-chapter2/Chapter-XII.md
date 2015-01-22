@@ -768,7 +768,7 @@ sun nearly on line toward the bright star Sirius, and were all of them,
 at the beginning of the year 1900, standing nearly motionless inside of
 a space not bigger than the sun and distant from the sun about 150 radii
 of the earth's orbit. The great rapidity with which they swept through
-that part of their orbit near the sun (see § 162) is being compensated
+that part of their orbit near the sun (see [§ 162](Chapter-XII.md#162-elements-of-a-comets-orbit)) is being compensated
 by the present extreme slowness of their motions, so that the comets of
 1668 and 1882, whose passages through the solar system were separated by
 an interval of more than two centuries, now stand together near the
@@ -827,13 +827,13 @@ has suffered.
 
 ### 179. THE DEVELOPMENT OF A COMET
 
-We saw in § 174 that the sun's action
+We saw in [§ 174](Chapter-XII.md#174-breaking-up-a-meteor-swarm) that the sun's action
 upon a meteor swarm tends to break it up into a long stream, and the
 same tendency to break up is true of comets whose attenuated substance
 presents scant resistance to this force. According to the mathematical
 analysis of Roche, if the comet stood still the sun's tidal force would
 tend first to draw it out on line with the sun, just as the earth's
-tidal force pulled the moon out of shape (§ 42), and then it would cause
+tidal force pulled the moon out of shape ([§ 42](Chapter-V.md#42-the-shape-of-a-planet)), and then it would cause
 the lighter part of the comet's substance to flow away from both ends of
 this long diameter. This destructive action of the sun is not limited to
 comets and meteor streams, for it tends to tear the earth and moon to
@@ -1028,7 +1028,7 @@ stones in the comet, meteors too massive to be consumed in their flight
 through the air, might work a very different effect, and by their
 bombardment play sad havoc with parts of the earth's surface, although
 any such result as the wrecking of the earth, or the destruction of all
-life upon it, does not seem probable. The 40 meteors of § 169 may stand
+life upon it, does not seem probable. The 40 meteors of [§ 169](Chapter-XII.md#169-great-meteors) may stand
 for a collision with a small comet. Consult the Bible (Joshua x, 11) for
 an example of what might happen with a larger one.
 

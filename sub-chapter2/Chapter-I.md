@@ -90,12 +90,11 @@ present case the measured angles may be improved a little by adding
 sum falls short of 180°, as in the following example:
 
 |           | Measured angles. | Correction. | Corrected angles. |
-|-----------|------------------|-------------|-------------------|
 |           |   °              |    °        |     °             |
+|-----------|:----------------:|:-----------:|:-----------------:|
 | A         |  73.4            |  + 0.1      |    73.5           |
 | B         |  49.3            |  + 0.1      |    49.4           |
 | C         |  57.0            |  + 0.1      |    57.1           |
-|           | -----            |             |   -----           |
 | Sum       | 179.7            |             |   180.0           |
 | Defect    | + 0.3            |             |                   |
 

@@ -123,7 +123,7 @@ the screw eye through which the observer looks.
 The whole apparatus may be constructed by any person of ordinary
 mechanical skill at a very small cost, and it or something equivalent
 should be provided for every class beginning observational astronomy. To
-use the apparatus for the experiment of § 10, it should be leveled, and
+use the apparatus for the experiment of [§ 10](#10-observing-the-stars), it should be leveled, and
 the board with the screw eyes, attached as in Fig. 7, should be turned
 until the observer, looking through the screw eye, sees Polaris exactly
 behind the wire. Use a bicycle lamp to illumine the wire by night. The
@@ -444,7 +444,7 @@ cheapest kind is quite sufficient.
 #### EXERCISE 9.
 Set such a clock to sidereal time by means of the transit
 of a star over your meridian. For this experiment it is presupposed that
-a meridian line has been marked out on the ground as in § 19, and the
+a meridian line has been marked out on the ground as in [§ 19](#19-the-meridian-line), and the
 simplest mode of performing the experiment required is for the observer,
 having chosen a suitable star in the southern part of the sky, to place
 his eye accurately over the northern end of the meridian line and to

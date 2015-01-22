@@ -218,7 +218,7 @@ volume of water, and similarly in other cases the density is found by
 dividing the mass or weight of the body by the mass or weight of an
 equal volume of water.
 
-We know the mass of the earth (§ 45), and knowing the mass of a cubic
+We know the mass of the earth ([§ 45](Chapter-V.md#45-the-mass-of-the-earth)), and knowing the mass of a cubic
 foot of water, it is easy, although a trifle tedious, to compute what
 would be the mass of a volume of water equal in size to the earth. The
 quotient obtained by dividing one of these masses by the other (mass of
@@ -380,7 +380,7 @@ we shall not now enter; but the equality having once been established,
 the mechanism by which it is preserved is simple enough.
 
 The attraction of the earth for the moon has very slightly pulled the
-latter out of shape (§ 42), so that the particular diameter, which
+latter out of shape ([§ 42](Chapter-IV.md#42-the-shape-of-a-planet)), so that the particular diameter, which
 points toward the earth, is a little longer than any other, and thus
 serves as a handle which the earth lays hold of and pulls down into its
 lowest possible position--i. e., the position in which it points toward
@@ -522,7 +522,7 @@ Apennines. Note how long and sharp are the shadows.
 Upon the earth the sun casts no shadows so
 sharp and black as those of Fig. 60, because his rays are here scattered
 and reflected in all directions by the dust and vapors of the
-atmosphere (§ 51), so that the place from which direct sunlight is cut
+atmosphere ([§ 51](Chapter-V.md#51-the-twilight)), so that the place from which direct sunlight is cut
 off is at least partially illumined by this reflected light. The shadows
 of Fig. 60 show that upon the moon it must be otherwise, and suggest
 that if the moon has any atmosphere whatever, its density must be

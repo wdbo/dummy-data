@@ -45,7 +45,7 @@ sun's mass is 329,000 times that of the earth and moon combined, or
 
 If we could rely implicitly upon this number we might make it determine
 for us the distance of the sun through the law of gravitation as
-follows: It was suggested in § 38 that Newton proved Kepler's three laws
+follows: It was suggested in [§ 38](Chapter-IV.md#38-the-motion-of-a-planet) that Newton proved Kepler's three laws
 to be imperfect corollaries from the law of gravitation, requiring a
 little amendment to make them strictly correct, and below we give in the
 form of an equation Kepler's statement of the Third Law together with

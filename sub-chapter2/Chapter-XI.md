@@ -365,7 +365,7 @@ illustration of the great mass of Jupiter. Satellite I is a little
 farther from Jupiter than is the moon from the earth, but under the
 influence of a greater attraction it makes the circuit of its orbit in
 1.77 days, instead of taking 29.53 days, as does the moon. Determine
-from the figure by the method employed in § 111 how much more massive is
+from the figure by the method employed in [§ 111](Chapter-X.md#111-the-suns-distance-from-the-earth) how much more massive is
 Jupiter than the earth.
 
 Small as these satellites seem in Fig. 86, they are really bodies of
@@ -1074,7 +1074,7 @@ insist that if such were the case, life would necessarily exist upon the
 planet.
 
 On Mars we encounter the fundamental difficulty of temperature already
-noted in § 152. If in some unknown way the temperature is maintained
+noted in [§ 152](Chapter-XI.md#152-the-polar-caps). If in some unknown way the temperature is maintained
 sufficiently high for the polar caps to be real snow, thawing and
 forming again with the progress of the seasons, the necessary conditions
 of life would seem to be fulfilled here and life if once introduced upon

@@ -661,7 +661,7 @@ to the presence of many different substances in the source of light, and
 unless great care is taken in assigning the exact position of these
 lines in the spectrum, confusion and wrong identifications are sure to
 result. For the measurement of the required wave length a tenth meter
-(§ 75) is the unit employed, and a scale of wave lengths expressed in
+([§ 75](Chapter-VIII.md#75-radiant-energy)) is the unit employed, and a scale of wave lengths expressed in
 this unit is presented in Fig. 50. The accuracy with which some of these
 wave lengths are determined is truly astounding; a ten-billionth of an
 inch! These numerical wave lengths save all necessity for referring to

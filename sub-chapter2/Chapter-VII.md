@@ -151,7 +151,7 @@ come through most freely, and the attentive observer may often see at a
 clear sunset something which corresponds exactly to the bending of the
 sunlight into the shadow cone; just before the sun reaches the horizon
 its disk is distorted from a circle into an oval whose horizontal
-diameter is longer than the vertical one (see § 50).
+diameter is longer than the vertical one (see [§ 50](Chapter-V.md#50-refraction)).
 
 ##### QUERY
 At a total lunar eclipse what would be the effect upon the
@@ -247,7 +247,7 @@ moon will cast its shadow in the plane of the ecliptic, and this shadow,
 falling upon the earth, produced the total solar eclipse of May 28,
 1900.
 
-`N´ N´´` is called the line of nodes of the moon's orbit (§ 39), and the
+`N´ N´´` is called the line of nodes of the moon's orbit ([§ 39](Chapter-IV.md#39-perturbations)), and the
 two positions of the earth in its orbit, diametrically opposite each
 other, at which `N´ N´´` points exactly toward the sun, we shall call
 the _nodes_ of the lunar orbit. Strictly speaking, the nodes are those
@@ -436,7 +436,7 @@ illustrated in Fig. 35. This period of 18 years and 11 days is called
 _saros_, an ancient word which means cycle or repetition, and since
 every eclipse is repeated after the lapse of a saros, we may find the
 dates of all the eclipses of 1918 by adding 11 days to the dates given
-in the table of eclipses for 1900 (§ 67), and it is to be especially
+in the table of eclipses for 1900 ([§ 67](Chapter-VII.md#67-relation-of-the-lunar-nodes-to-eclipses)), and it is to be especially
 noted that each eclipse of 1918 will be like its predecessor of 1900 in
 character--lunar, solar, partial, total, etc. The eclipses of any year
 may be predicted by a similar reference to those which occurred eighteen
@@ -444,7 +444,7 @@ years earlier. Consult a file of old almanacs.
 
 The exact length of a saros is 223 lunar months, each of which is a
 little more than 29.5 days long, and if we multiply the exact value of
-this last number (see § 60) by 223, we shall find for the product
+this last number (see [§ 60](Chapter-VI.md#60-day-month-and-year)) by 223, we shall find for the product
 6,585.32 days, which is equal to 18 years 11.32 days when there are four
 leap years included in the 18, or 18 years 10.32 days when the number of
 leap years is five; and in applying the saros to the prediction of

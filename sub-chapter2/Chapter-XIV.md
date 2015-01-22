@@ -82,7 +82,7 @@ even the hydrogen lines themselves are lacking, but the spectrum is
 always rich in violet and ultraviolet light.
 
 Since with increasing temperature a body emits a continually increasing
-proportion of energy of short wave length (§ 118), the richness of these
+proportion of energy of short wave length ([§ 118](Chapter-X.md#118-determining-the-suns-temperature)), the richness of these
 spectra in such energy points to a very high temperature in these stars,
 probably surpassing in some considerable measure that of the sun. Stars
 with this type of spectrum are more numerous than all others combined,
@@ -512,14 +512,14 @@ uniformity in distribution is even more markedly true of the telescopic
 stars.
 
 The rate of increase in the number of stars from one magnitude to the
-next, as shown in § 187, is proof of another kind of irregularity in
+next, as shown in [§ 187](Chapter-XIII.md#187-classification-by-magnitudes), is proof of another kind of irregularity in
 their distribution. It is not difficult to show, mathematically, that if
 in distant regions of space the stars were on the average as numerous
 and as bright as they are in the regions nearer to the sun, then the
 stars of any particular magnitude ought to be four times as numerous as
 those of the next brighter magnitude--e. g., four times as many
 sixth-magnitude stars as there are fifth-magnitude ones. But, as we have
-already seen in § 187, by actual count there are only three times as
+already seen in [§ 187](Chapter-XIII.md#187-classification-by-magnitudes), by actual count there are only three times as
 many, and from the discrepancy between these numbers, an actual
 threefold increase instead of a fourfold one, we must conclude that on
 the whole the stars near the sun are either bigger or brighter or more
