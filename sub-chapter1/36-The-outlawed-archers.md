@@ -1,5 +1,4 @@
-## THE OUTLAWED ARCHERS.
-
+## The outlawed archers
 
 Many years ago there dwelt in the forest of Inglewood, in the North
 country, three yeomen, who had been outlawed for killing the king's
