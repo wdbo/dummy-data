@@ -101,7 +101,7 @@ back to the same position at the same hour and minute every night.
 
 This experiment, and many others, may be
 conveniently and accurately made with no other apparatus than a plumb
-line, and a device for sighting past it. In Figs. 6 and 7 there is
+line, and a device for sighting past it. In Figs. [6](Chapter-II.md#fig6) and [7](Chapter-II.md#fig7) there is
 shown a simple form of such apparatus, consisting essentially of a board
 which rests in a horizontal position upon the points of three screws
 that pass through it. This board carries a small box, to one side of
@@ -115,8 +115,8 @@ baseboard the apparatus may be readily leveled, so that the wire shall
 swing freely in the center of the hole without touching the cover of the
 box. Guy wires, shown in the figure, are applied so as to stiffen the
 whole apparatus. A board with a screw eye at each end may be pivoted to
-the upright, as in Fig. 6, for measuring altitudes; or to the box, as in
-Fig. 7, for observing the time at which a star in its diurnal motion
+the upright, as in [Fig. 6](Chapter-II.md#fig6), for measuring altitudes; or to the box, as in
+[Fig. 7](Chapter-II.md#fig7), for observing the time at which a star in its diurnal motion
 passes through the plane determined by the plumb line and the center of
 the screw eye through which the observer looks.
 
@@ -124,7 +124,7 @@ The whole apparatus may be constructed by any person of ordinary
 mechanical skill at a very small cost, and it or something equivalent
 should be provided for every class beginning observational astronomy. To
 use the apparatus for the experiment of [§ 10](#10-observing-the-stars), it should be leveled, and
-the board with the screw eyes, attached as in Fig. 7, should be turned
+the board with the screw eyes, attached as in [Fig. 7](Chapter-II.md#fig7), should be turned
 until the observer, looking through the screw eye, sees Polaris exactly
 behind the wire. Use a bicycle lamp to illumine the wire by night. The
 apparatus is now adjusted, and the observer has only to wait for the
@@ -152,7 +152,7 @@ For any student who uses a
 camera. Upon some clear and moonless night point the camera, properly
 focused, at Polaris, and expose a plate for three or four hours. Upon
 developing the plate you should find a series of circular trails such as
-are shown in Fig. 8, only longer. Each one of these is produced by a
+are shown in [Fig. 8](Chapter-II.md#fig8), only longer. Each one of these is produced by a
 star moving slowly over the plate, in consequence of its changing
 position in the sky. The center indicated by these curved trails is
 called the pole of the heavens. It is that part of the sky toward which
@@ -166,13 +166,13 @@ concerned, there is no method by which the pupil can tell for himself
 that the motion of the stars is an apparent rather than a real one, and,
 following the custom of astronomers, we shall habitually speak as if it
 were a real movement of the stars. How long was the plate exposed in
-photographing Fig. 8?
+photographing [Fig. 8](Chapter-II.md#fig8)?
 
 ### 14. FINDING THE STARS
 
 On [Plate I](Plate-I.jpg) [...], the pole of the
 heavens is at the center of the map, near Polaris, and the heavy trail
-near the center of Fig. 8 is made by Polaris. See if you can identify
+near the center of [Fig. 8](Chapter-II.md#fig8) is made by Polaris. See if you can identify
 from the map any of the stars whose trails show in the photograph. The
 brighter the star the bolder and heavier its trail.
 
@@ -204,7 +204,7 @@ from the pole each star, when at the lowest point of its circular path,
 dips for a time below the horizon and is lost to view, and the farther
 it is away from the pole the longer does it remain invisible, until, in
 the case of stars 90° away from the pole, we find them hidden below the
-horizon for twelve hours out of every twenty-four (see Fig. 9). The sun
+horizon for twelve hours out of every twenty-four (see [Fig. 9](Chapter-II.md#fig9)). The sun
 is such a star, and in its rising and setting acts precisely as does
 every other star at a similar distance from the pole--only, as we shall
 find later, each star keeps always at (nearly) the same distance from
@@ -242,7 +242,7 @@ the geographer expresses by the old ones.
 Imagine the earth swollen up until it fills the whole sky; the earth's
 equator would meet the sky along a line (a great circle) everywhere 90°
 distant from the pole, and this line is called the _celestial equator_.
-Trace its position along the middle of the map opposite page 190 and
+Trace its position along the middle of the map [*[of Plate II](Plate-II.jpg)*] and
 notice near what stars it runs. Every meridian of the swollen earth
 would touch the sky along an hour circle--i. e., a great circle passing
 through the pole and therefore perpendicular to the equator. Note that
@@ -280,7 +280,7 @@ Find on [Plate II](Plate-II.jpg) [...], the Pleiades (Plēadēs),
 of the finest star clusters in the sky, but it needs a telescope to
 bring out its richness. See how many stars you can count in it with the
 naked eye, and afterward examine it with an opera glass. Compare what
-you see with Fig. 10. Find Antares, `R. A. = 16h. 23m.`, `Dec. = -26.2°`. How
+you see with [Fig. 10](Chapter-II.md#fig10). Find Antares, `R. A. = 16h. 23m.`, `Dec. = -26.2°`. How
 far is it, in degrees, from the pole? Is it visible in your sky? If so,
 what is its color?
 
@@ -309,7 +309,7 @@ corresponding celestial meridian.
 An eye placed at the center of the earth and capable of looking through
 its solid substance would see your geographical meridian against the
 background of the sky exactly covering your celestial meridian and
-passing from one pole through your zenith to the other pole. In Fig. 11
+passing from one pole through your zenith to the other pole. In [Fig. 11](Chapter-II.md#fig11)
 the inner circle represents the terrestrial meridian of a certain
 place, `O`, as seen from the center of the earth, `C`, and the outer
 circle represents the celestial meridian of `O` as seen from `C`, only
@@ -366,7 +366,7 @@ changed?
 ![FIG. 12.--Diurnal path of Polaris.][fig12]
 Determine your latitude by taking the altitude of Polaris
 when it is at some one of the four points of its diurnal path, shown in
-Fig. 12. When it is at `1` it is said to be at upper culmination, and
+[Fig. 12](Chapter-II.md#fig12). When it is at `1` it is said to be at upper culmination, and
 the star ζ Ursæ Majoris in the handle of the Big Dipper will be
 directly below it. When at `2` it is at western elongation, and the star
 Castor is near the meridian. When it is at `3` it is at lower
@@ -379,7 +379,7 @@ altitude observed when Polaris is at the positions marked `1` and `3`
 must be corrected for the star's distance from the pole, which may be
 assumed equal to `1.3°`.
 
-The plumb-line apparatus described at page 12 is shown in Fig. 6
+The plumb-line apparatus described [*in chapter II*] is shown in [Fig. 6](Chapter-II.md#fig6)
 slightly modified, so as to adapt it to measuring the altitudes of
 stars. Note that the board with the screw eye at one end has been
 transferred from the box to the vertical standard, and has a screw eye
@@ -408,7 +408,7 @@ measured with your apparatus.
 ### 19. THE MERIDIAN LINE
 
 To establish a true north and south line upon
-the ground, use the apparatus as described at page 13, and when Polaris
+the ground, use the apparatus as described [*in chapter II*], and when Polaris
 is at upper or lower culmination drive into the ground two stakes in
 line with the star and the plumb line. Such a meridian line is of great
 convenience in observing the stars and should be laid out and
@@ -458,7 +458,7 @@ clock or the amount by which its hands must be set back or forward in
 order to indicate true sidereal time.
 
 A more accurate mode of performing the experiment consists in using the
-plumb-line apparatus carefully adjusted, as in Fig. 7, so that the line
+plumb-line apparatus carefully adjusted, as in [Fig. 7](Chapter-II.md#fig7), so that the line
 joining the wire to the center of the screw eye shall be parallel to the
 meridian line. Observe the time by the clock at which the star
 disappears behind the wire as seen through the center of the screw eye.
@@ -554,8 +554,8 @@ The Right Ascension
     circle and the hour circle of a certain point on the equator which is
     called the _Vernal Equinox_. From spherical geometry we learn that this
     angle is to be measured either at the pole where the two hour circles
-    intersect, as is done in the star map opposite page 124, or along the
-    equator, as is done in the map opposite page 190. Right ascension is
+    intersect, as is done in the star map [*[of Plate I](Plate-I.jpg)*], or along the
+    equator, as is done in the map opposite [*[of Plate II](Plate-II.jpg)*]. Right ascension is
     always measured from the vernal equinox in the direction opposite to
     that in which the stars appear to travel in their diurnal motion--i. e.,
     from west toward east.
@@ -597,6 +597,12 @@ Will your answer to the preceding question be true for a star? What is
 the altitude of the sun after sunset? In what direction is the north
 pole from the zenith? From the vernal equinox? Where are the points in
 which the meridian and equator respectively intersect the horizon?
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [fig6]: assets/i026a.jpg "FIG. 6. The plumb-line apparatus."
 [fig7]: assets/i026b.jpg "FIG. 7. The plumb-line apparatus."

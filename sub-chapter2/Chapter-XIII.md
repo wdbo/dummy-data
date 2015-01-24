@@ -17,7 +17,7 @@ changed in some degree as they grew old with the passing centuries.
 The division of the sky into constellations dates back to the most
 primitive times, long before the Christian era, and the crooked and
 irregular boundaries of these constellations, shown by the dotted lines
-in Fig. 120, such as no modern astronomer would devise, are an
+in [Fig. 120](Chapter-XIII.md#fig120), such as no modern astronomer would devise, are an
 inheritance from antiquity, confounded and made worse in its descent to
 our day. The boundaries assigned to constellations near the south pole
 are much more smooth and regular, since this part of the sky, invisible
@@ -190,7 +190,7 @@ Now, in order to separate the true from
 the false in this last mode of thinking about the stars, we need some
 knowledge of their real distances from the earth, and in seeking it we
 encounter what is perhaps the most delicate and difficult problem in the
-whole range of observational astronomy. As shown in Fig. 121, the
+whole range of observational astronomy. As shown in [Fig. 121](Chapter-XIII.md#fig121), the
 principles involved in determining these distances are not fundamentally
 different from those employed in determining the moon's distance from
 the earth. Thus, the ellipse at the left of the figure represents the
@@ -249,7 +249,7 @@ base line.
 ### 189. THE SUN AND HIS NEIGHBORS
 
 The distances of the sun's nearer
-neighbors among the stars are shown in Fig. 122, where the two circles
+neighbors among the stars are shown in [Fig. 122](Chapter-XIII.md#fig122), where the two circles
 having the sun at their center represent distances from it equal
 respectively to 1,000,000 and 2,000,000 times the distance between earth
 and sun. In the figure the direction of each star from the sun
@@ -360,7 +360,7 @@ the stars in the diagram to identify them.
 
 ### 190. LIGHT YEARS
 
-The radius of the inner circle in Fig. 122, 1,000,000
+The radius of the inner circle in [Fig. 122](Chapter-XIII.md#fig122), 1,000,000
 times the earth's distance from the sun, is a convenient unit in which
 to express the stellar distances, and in the preceding table the
 distances of the stars from the sun are expressed in terms of this
@@ -376,7 +376,7 @@ distance of the same star, α Centauri, expressed in terms of this
 unit, is 4.26 years--i. e., it takes light that long to come from the
 star to the earth.
 
-In Fig. 122 the stellar magnitudes of the stars are indicated by the
+In [Fig. 122](Chapter-XIII.md#fig122) the stellar magnitudes of the stars are indicated by the
 size of the dots--the bigger the dot the brighter the star--and a mere
 inspection of the figure will serve to show that within a radius of 30
 light years from the sun bright stars and faint ones are mixed up
@@ -385,7 +385,7 @@ member of this swarm of stars, whose distances apart, each from its
 nearest neighbor, are of the same order of magnitude as those which
 separate the sun from the three or four stars nearest it.
 
-Fig. 122 is not to be supposed complete. Doubtless other stars will be
+[Fig. 122](Chapter-XIII.md#fig122) is not to be supposed complete. Doubtless other stars will be
 found whose distance from the sun is less than 2,000,000 radii of the
 earth's orbit, but it is not probable that they will ever suffice to
 more than double or perhaps treble the number here shown. The vast
@@ -442,11 +442,11 @@ from us by so much as the moon's angular diameter. The most rapid known
 proper motion is that of a telescopic star midway between the equator
 and the south pole, which changes its position at the rate of nearly 9"
 per annum, and the next greatest is that of another telescopic star, in
-the northern sky, No. 28 of Fig. 122. It is not until we reach the tenth
+the northern sky, No. 28 of [Fig. 122](Chapter-XIII.md#fig122). It is not until we reach the tenth
 place in a list of large proper motions that we find a bright lucid
-star, No. 1 of Fig. 122. It is a significant fact that for the most part
-the stars with large proper motions are precisely the ones shown in Fig.
-122, which is designed to show stars near the earth. This connection
+star, No. 1 of [Fig. 122](Chapter-XIII.md#fig122). It is a significant fact that for the most part
+the stars with large proper motions are precisely the ones shown in [Fig. 122](Chapter-XIII.md#fig122), 
+which is designed to show stars near the earth. This connection
 between nearness and rapidity of proper motions is indeed what we should
 expect to find, since a given amount of real motion of the star along
 its orbit will produce a larger angular displacement, proper motion, the
@@ -464,7 +464,7 @@ south, east, and west--so that some of them are doubtless directed
 nearly toward or from the sun; others are square to the line joining sun
 and star; while the vast majority occupy some position intermediate
 between these two. Now, our relation to these real motions of the stars
-is well illustrated in Fig. 112, where the observer finds in some of the
+is well illustrated in [Fig. 112](Chapter-XII.md#fig112), where the observer finds in some of the
 shooting stars a tremendous proper motion across the sky, but sees
 nothing of their rapid approach to him, while others appear to stand
 motionless, although, in fact, they are moving quite as rapidly as are
@@ -490,7 +490,7 @@ the spectrum indicates with certainty the approach or recession of the
 star, but this shifting, which must be determined by comparing the
 star's spectrum with that of some artificial light showing corresponding
 lines, is so small in amount that its accurate measurement is a matter
-of extreme difficulty, as may be seen from Fig. 123. This cut shows
+of extreme difficulty, as may be seen from [Fig. 123](Chapter-XIII.md#fig123). This cut shows
 along its central line a part of the spectrum of Polaris, between wave
 lengths 4,450 and 4,600 tenth meters, while above and below are the
 corresponding parts of the spectrum of an electric spark whose light
@@ -504,7 +504,8 @@ line is always pushed a very little toward the direction of shorter wave
 lengths, showing that this star is approaching the earth. This spectrum
 was photographed for the express purpose of determining the star's
 motion in the line of sight, and with it there should be compared Figs.
-124 and 125, which show in the upper part of each a photograph obtained
+[124](Chapter-XIII.md#fig124) and [Fig. 125](Chapter-XIII.md#fig125), 
+which show in the upper part of each a photograph obtained
 without comparison spectra by allowing the star's light to pass through
 some prisms placed just in front of the telescope. The lower section of
 each figure shows an enlargement of the original photograph, bringing
@@ -558,9 +559,9 @@ that the five stars probably lie in a plane which is turned nearly
 edgewise toward us, and that in this plane they are moving about twice
 as fast as the earth moves around the sun, and are at a distance from us
 represented by a parallax of less than 0.02"--i. e., six times as great
-as the outermost circle in Fig. 122. A most extraordinary system of
+as the outermost circle in [Fig. 122](Chapter-XIII.md#fig122). A most extraordinary system of
 stars which, although separated from each other by distances as great as
-the whole breadth of Fig. 122, yet move along in parallel paths which it
+the whole breadth of [Fig. 122](Chapter-XIII.md#fig122), yet move along in parallel paths which it
 is difficult to regard as the result of chance, and for which it is
 equally difficult to frame an explanation.
 
@@ -568,7 +569,7 @@ equally difficult to frame an explanation.
 
 The stars α and η of the Great Dipper do not share in this motion, and
 must ultimately part company with the other five, to the complete
-destruction of the Dipper's shape. Fig. 126 illustrates this change of
+destruction of the Dipper's shape. [Fig. 126](Chapter-XIII.md#fig126) illustrates this change of
 shape, the upper part of the figure (_a_) showing these seven stars as
 they were grouped at a remote epoch in the past, while the lower
 section (_c_) shows their position for an equally remote epoch in the
@@ -591,7 +592,7 @@ farther off, since their proper motions are smaller.
 
 To rightly appreciate the extreme slowness with which proper motions
 alter the constellations, the student should bear in mind that the
-changes shown in passing from one section of Fig. 126 to the next
+changes shown in passing from one section of [Fig. 126](Chapter-XIII.md#fig126) to the next
 represent the effect of the present proper motions of the stars
 accumulated for a period of 200,000 years. Will the stars continue to
 move in straight paths for so long a time?
@@ -634,15 +635,15 @@ part of the stars belong to one of two well-marked classes, called
 respectively Sirian and solar stars, which are readily distinguished
 from each other by the kind of spectrum they furnish. Thus β
 Aurigæ belongs to the Sirian class, as does every other star which has a
-spectrum like that of Fig. 124, while Pollux is a solar star presenting
-in Fig. 125 a spectrum like that of the sun, as do the other stars of
+spectrum like that of [Fig. 124](Chapter-XIII.md#fig124), while Pollux is a solar star presenting
+in [Fig. 125](Chapter-XIII.md#fig125) a spectrum like that of the sun, as do the other stars of
 this class.
 
-Two thirds of the sun's near neighbors, shown in Fig. 122, have spectra
+Two thirds of the sun's near neighbors, shown in [Fig. 122](Chapter-XIII.md#fig122), have spectra
 of the solar type, and in general stars of this class are nearer to us
 than are the stars with spectra unlike that of the sun. The average
 distance of a solar star of the first magnitude is very approximately
-represented by the outer circle in Fig. 122, 2,000,000 times the
+represented by the outer circle in [Fig. 122](Chapter-XIII.md#fig122), 2,000,000 times the
 distance of the sun from the earth; while the corresponding distance for
 a Sirian star of the first magnitude is represented by the number
 4,600,000.
@@ -747,7 +748,7 @@ is called _position angle_.
 The sun's nearest neighbor, α Centauri, is
 such a double star, whose position angle and distance have been measured
 by successive generations of astronomers for more than a century, and
-Fig. 127 shows the result of plotting their observations. Each black dot
+[Fig. 127](Chapter-XIII.md#fig127) shows the result of plotting their observations. Each black dot
 that lies on or near the circumference of the long ellipse stands for
 an observed direction and distance of the fainter of the two stars from
 the brighter one, which is represented by the small circle at the
@@ -760,19 +761,19 @@ but probably smaller size, since the dimensions of the two orbits are
 inversely proportional to the masses of the two bodies, but it is
 customary to neglect this motion of the larger star and to give to the
 smaller one an orbit whose diameter is equal to the sum of the diameters
-of the two real orbits. This practice, which has been followed in Fig.
-127, gives correctly the relative positions of the two stars, and makes
+of the two real orbits. This practice, which has been followed in [Fig. 127](Chapter-XIII.md#fig127), 
+gives correctly the relative positions of the two stars, and makes
 one orbit do the work of two.
 
 [![FIG. 127.--The orbit of α Centauri.--SEE.][fig127]](assets/i348-full.jpg)
-In Fig. 127 the bright star does not fall anywhere near the focus of the
+In [Fig. 127](Chapter-XIII.md#fig127) the bright star does not fall anywhere near the focus of the
 ellipse marked out by the smaller one, and from this we infer that the
 figure does not show the true shape of the orbit, which is certainly
 distorted, foreshortened, by the fact that we look obliquely down upon
 its plane. It is possible, however, by mathematical analysis, to find
 just how much and in what direction that plane should be turned in order
 to bring the focus of the ellipse up to the position of the principal
-star, and thus give the true shape and size of the orbit. See Fig. 128
+star, and thus give the true shape and size of the orbit. See [Fig. 128](Chapter-XIII.md#fig128)
 for a case in which the true orbit is turned exactly edgewise toward the
 earth, and the small star, which really moves in an ellipse like that
 shown in the figure, appears to oscillate to and fro along a straight
@@ -790,7 +791,7 @@ star in this orbit is 81 years, a little less than the period of Uranus.
 ### 200. MASSES OF DOUBLE STARS
 
 If we apply to this orbit Kepler's Third
-Law in the form given it at page 179, we shall find:
+Law in the form given it at [*[§ 111](#111-the-suns-distance-from-the-earth)]*], we shall find:
 
 \[a^3 / T^2 = (23.5)^3 / (81)^2 = k (M + m)\]
 
@@ -915,7 +916,7 @@ double stars, invisible as such in even the most powerful telescope,
 and producing no perturbations such as have been considered above, but
 showing in their spectrum that two or more bodies must be present in the
 source of light which to the eye is indistinguishable from a single
-star. In Fig. 129 we suppose `A` and `B` to be the two components of a
+star. In [Fig. 129](Chapter-XIII.md#fig129) we suppose `A` and `B` to be the two components of a
 double star, each moving in its own orbit about their common center of
 gravity, `C`, whose distance from the earth is several million times
 greater than the distance between the stars themselves. Under such
@@ -1024,7 +1025,7 @@ regular variables, having a period of 68.8154 hours, during six sevenths
 of which time it shines with unchanging luster as a star of the 2.3
 magnitude, but during the remaining 9 hours of each period it runs down
 to the 3.5 magnitude, and comes back again, as is shown by a curve in
-Fig. 130. The horizontal scale here represents hours, reckoned from the
+[Fig. 130](Chapter-XIII.md#fig130). The horizontal scale here represents hours, reckoned from the
 time of the star's minimum brightness, and the vertical scale shows
 stellar magnitudes. Such a diagram is called the star's light curve, and
 we may read from it that at any time between 5h. and 32h. after the time
@@ -1034,7 +1035,7 @@ the time of minimum? What is the magnitude 43 days after a minimum?
 
 ![FIG. 130.--The light curve of Algol.][fig130]
 
-The arrows shown in Fig. 130 are a feature not usually found with light
+The arrows shown in [Fig. 130](Chapter-XIII.md#fig130) are a feature not usually found with light
 curves, but in this case each one represents a spectroscopic
 determination of the motion of Algol in the line of sight. These
 observations extended over a period of more than two years, but they are
@@ -1057,7 +1058,7 @@ itself has a diameter somewhat greater than that of the sun, but is of
 low density, so that its mass is less than half that of the sun, while
 the dark star is a very little smaller than the sun and has about a
 quarter of its mass. The distance between the two stars, dark and
-bright, is 3,200,000 miles. Fig. 129, which is drawn to scale, shows the
+bright, is 3,200,000 miles. [Fig. 129](Chapter-XIII.md#fig129), which is drawn to scale, shows the
 relative positions and sizes of these stars as well as the orbits in
 which they move.
 
@@ -1079,20 +1080,20 @@ are bright and where the variation of brightness follows a very
 different course. Capella would be such a variable if its orbit plane
 were directed exactly toward the earth, and the fact that its light is
 not variable shows conclusively that such is not the position of the
-orbit. Fig. 131 represents the light curve of one of the best-known
+orbit. [Fig. 131](Chapter-XIII.md#fig131) represents the light curve of one of the best-known
 variable systems of this second type, that of β Lyræ, whose
 period is 12 days 21.8 hours, and the student should read from the curve
 the magnitude of the star for different times during this interval.
 According to Myers, this light curve and the spectroscopic observations
 of the star point to the existence of a binary star of very remarkable
 character, such as is shown, together with its orbit and a scale of
-miles, in Fig. 132. Note the tide which each of these stars raises in
+miles, in [Fig. 132](Chapter-XIII.md#fig132). Note the tide which each of these stars raises in
 the other, thus changing their shapes from spheres into ellipsoids. The
 astonishing dimensions of these stars are in part compensated by their
 very low density, which is less than that of air, so that their masses
 are respectively only 10 times and 21 times that of the sun! But these
 dimensions and masses perhaps require confirmation, since they depend
-upon spectroscopic observations of doubtful interpretation. In Fig. 132
+upon spectroscopic observations of doubtful interpretation. In [Fig. 132](Chapter-XIII.md#fig132)
 what relative positions must the stars occupy in their orbit in order
 that their combined light should give β Lyræ its maximum
 brightness? What position will furnish a minimum brightness?
@@ -1132,12 +1133,12 @@ a variable star with a period of 11 years.
 The discovery of new variables is of frequent occurrence, and may be
 expected to become more frequent when the sky is systematically explored
 for them by the ingenious device suggested by Pickering and illustrated
-in Fig. 133. A given region of the sky--e. g., the Northern Crown--is
+in [Fig. 133](Chapter-XIII.md#fig133). A given region of the sky--e. g., the Northern Crown--is
 photographed repeatedly upon the same plate, which is shifted a little
 at each new exposure, so that the stars shall fall at new places upon
 it. The finally developed plate shows a row of images corresponding to
 each star, and if the star's light is constant the images in any given
-row will all be of the same size, as are most of those in Fig. 133; but
+row will all be of the same size, as are most of those in [Fig. 133](Chapter-XIII.md#fig133); but
 a variable star such as is shown by the arrowhead reveals its presence
 by the broken aspect of its row of dots, a minimum brilliancy being
 shown by smaller and a maximum by larger ones. In this particular case,
@@ -1221,6 +1222,12 @@ with respect both to the motion they indicate and the intrinsic nature
 of the stars themselves. The varying aspect of the spectra suggested at
 one time the sun's chromosphere, at another time the conditions that are
 present in nebulæ, etc.
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [fig120]: assets/i326.jpg "FIG. 120.--Illustrating the division of the sky into constellations."
 [fig121]: assets/i332.png "FIG. 121.--Determining a star's parallax."

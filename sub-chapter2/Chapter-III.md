@@ -23,7 +23,7 @@ the maps as accurately as may be, and note the peculiarity of color
 which some stars present. For the most part their color is a very pale
 yellow, but occasionally one may be found of a decidedly ruddy
 hue--e. g., Aldebaran or Antares. Such a star map, not quite complete,
-is shown in Fig. 13.
+is shown in [Fig. 13](Chapter-III.md#fig13).
 
 So, too, a sharp eye may detect that some stars do not remain always of
 the same magnitude, but change their brightness from night to night,
@@ -37,7 +37,7 @@ these _variable stars_, as they are called.
 
 Whenever the moon is visible
 note its position among the stars by allineations, and plot it on the
-key map opposite page 190. Keep a record of the day and hour
+key map opposite [*[of Plate II](Plate-II.jpg)*]. Keep a record of the day and hour
 corresponding to each such observation. You will find, if the work is
 correctly done, that the positions of the moon all fall near the curved
 line shown on the map. This line is called the ecliptic.
@@ -94,7 +94,7 @@ time_, take this into account in the value of`U`.
 To determine the sun's declination, measure its altitude
 at the time it crosses the meridian. Use either the method of Exercise
 4, or that used with Polaris in Exercise 8. The student should be able
-to show from Fig. 11 that the declination is equal to the sum of the
+to show from [Fig. 11](Chapter-II.md#fig11) that the declination is equal to the sum of the
 altitude and the latitude of the place diminished by 90°, or in an
 equation
 
@@ -195,13 +195,13 @@ enormously extended and developed through the Newtonian law of
 gravitation (see [Chapter IV](Chapter-IV.md)), has completely supplanted the older
 Ptolemaic doctrine, and an illustration of the simple manner in which it
 accounts for the apparently complicated motions of a planet among the
-stars is found in Figs. 14 and 15, the first of which represents the
+stars is found in Figs. [14](Chapter-III.md#fig14) and [15](Chapter-III.md#fig15), the first of which represents the
 apparent motion of the planet Mars through the constellations Aries and
 Pisces during the latter part of the year 1894, while the second shows
 the true motions of Mars and the earth in their orbits about the sun
-during the same period. The straight line in Fig. 14, with cross ruling
+during the same period. The straight line in [Fig. 14](Chapter-III.md#fig14), with cross ruling
 upon it, is a part of the ecliptic, and the numbers placed opposite it
-represent the distance, in degrees, from the vernal equinox. In Fig. 15
+represent the distance, in degrees, from the vernal equinox. In [Fig. 15](Chapter-III.md#fig15)
 the straight line represents the direction from the sun toward the
 vernal equinox, and the angle which this line makes with the line
 joining earth and sun is called the earth's longitude. The imaginary
@@ -210,33 +210,33 @@ the pupil should note that the longitude and length of the radius vector
 taken together show the direction and distance of the earth from the
 sun--i. e., they fix the relative positions of the two bodies. The same
 is nearly true for Mars and would be wholly true if the orbit of Mars
-lay in the same plane with that of the earth. How does Fig. 14 show that
+lay in the same plane with that of the earth. How does [Fig. 14](Chapter-III.md#fig14) show that
 the orbit of Mars does not lie exactly in the same plane with the orbit
 of the earth?
 
 #### EXERCISE 13.
-Find from Fig. 15 what ought to have been the apparent
+Find from [Fig. 15](Chapter-III.md#fig15) what ought to have been the apparent
 course of Mars among the stars during the period shown in the two
-figures, and compare what you find with Fig. 14. The apparent position
+figures, and compare what you find with [Fig. 14](Chapter-III.md#fig14). The apparent position
 of Mars among the stars is merely its direction from the earth, and this
-direction is represented in Fig. 14 by the distance of the planet from
+direction is represented in [Fig. 14](Chapter-III.md#fig14) by the distance of the planet from
 the ecliptic and by its longitude.
 
 ![FIG. 15.--The real motion of a planet.][fig15]
 
-The longitude of Mars for each date can be found from Fig. 15 by
+The longitude of Mars for each date can be found from [Fig. 15](Chapter-III.md#fig15) by
 measuring the angle between the straight line `S V` and the line drawn
 from the earth to Mars. Thus for October 12th we may find with the
 protractor that the angle between the line `S V` and the line joining
-the earth to Mars is a little more than 30°, and in Fig. 14 the position
+the earth to Mars is a little more than 30°, and in [Fig. 14](Chapter-III.md#fig14) the position
 of Mars for this date is shown nearly opposite the cross line
 corresponding to 30° on the ecliptic. Just how far below the ecliptic
-this position of Mars should fall can not be told from Fig. 15, which
+this position of Mars should fall can not be told from [Fig. 15](Chapter-III.md#fig15), which
 from necessity is constructed as if the orbits of Mars and the earth lay
 in the same plane, and Mars in this case would always appear to stand
-exactly on the ecliptic and to oscillate back and forth as shown in Fig.
-14, but without the up-and-down motion there shown. In this way plot in
-Fig. 14 the longitudes of Mars as seen from the earth for other dates
+exactly on the ecliptic and to oscillate back and forth as shown in [Fig. 14](Chapter-III.md#fig14), 
+but without the up-and-down motion there shown. In this way plot in
+[Fig. 14](Chapter-III.md#fig14) the longitudes of Mars as seen from the earth for other dates
 and observe how the forward motion of the two planets in their orbits
 accounts for the apparently capricious motion of Mars to and fro among
 the stars.
@@ -256,7 +256,7 @@ generally, that every planet moves in a plane passing through the sun,
 and for the six planets visible to the naked eye these planes nearly
 coincide, so that the six orbits may all be shown without much error as
 lying in the flat surface of one map. It is, however, more convenient to
-use two maps, such as Figs. 16 and 17, one of which shows the group of
+use two maps, such as Figs. [16](Chapter-III.md#fig16) and [17](Chapter-III.md#fig17), one of which shows the group of
 planets, Mercury, Venus, the earth, and Mars, which are near the sun,
 and on this account are sometimes called the inner planets, while the
 other shows the more distant planets, Jupiter and Saturn, together with
@@ -272,7 +272,7 @@ confusing the diagrams.
 
 ### 29. JUPITER AND SATURN
 
-In Fig. 16 the sun at the center is encircled
+In [Fig. 16](Chapter-III.md#fig16) the sun at the center is encircled
 by the orbits of the three planets, and inclosing all of these is a
 circular border showing the directions from the sun of the
 constellations which lie along the zodiac. The student must note
@@ -358,8 +358,8 @@ in every year?
 
 ### 30. MERCURY, VENUS, AND MARS
 
-Fig. 17, which represents the orbits of
-the inner planets, differs from Fig. 16 only in the method of fixing the
+[Fig. 17](Chapter-III.md#fig17), which represents the orbits of
+the inner planets, differs from [Fig. 16](Chapter-III.md#fig16) only in the method of fixing the
 positions of the planets in their orbits at any given date. The motion
 of these planets is so rapid, on account of their proximity to the sun,
 that it would not do to mark their positions as was done for Jupiter and
@@ -440,7 +440,7 @@ they are where your work puts them.
 The "evening star" is a term loosely applied to any
 planet which is visible in the western sky soon after sunset. It is easy
 to see that such a planet must be farther toward the east in the sky
-than is the sun, and in either Fig. 16 or Fig. 17 any planet which
+than is the sun, and in either [Fig. 16](Chapter-III.md#fig16) or [Fig. 17](Chapter-III.md#fig17) any planet which
 viewed from the position of the earth lies to the left of the sun and
 not more than 50° away from it will be an evening star. If to the right
 of the sun it is a morning star, and may be seen in the eastern sky
@@ -459,7 +459,7 @@ nearest to the earth?
 The earth always comes to the same longitude on the same day of each
 year. Why is not this true of the other planets?
 
-The student should remember that in one respect Figs. 16 and 17 are not
+The student should remember that in one respect Figs. [16](Chapter-III.md#fig16) and [17](Chapter-III.md#fig17) are not
 altogether correct representations, since they show the orbits as all
 lying in the same plane. If this were strictly true, every planet would
 move, like the sun, always along the ecliptic; but in fact all of the
@@ -469,6 +469,12 @@ side then to the other; but not even Mars, which is the most erratic in
 this respect, ever gets more than eight degrees away from the ecliptic,
 and for the most part all of them are much closer to the ecliptic than
 this limit.
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [fig13]: assets/i045.png "FIG. 13.--Star map of the region about Orion."
 [fig14]: assets/i050.png "FIG. 14.--The apparent motion of a planet."

@@ -8,9 +8,10 @@ moon, a dark body shining by reflected sunlight, and therefore
 presenting phases; although only two of them, Mercury and Venus, run
 through the complete series--new, first quarter, full, last
 quarter--which the moon presents. The way in which their orbits are
-grouped about the sun has been considered in [Chapter III](Chapter-III.md), and Figs. 16
-and 17 of that chapter may be completed so as to represent all of the
-planets by drawing in Fig. 16 two circles with radii of 7.9 and 12.4
+grouped about the sun has been considered in [Chapter III](Chapter-III.md), and 
+Figs. [16](Chapter-III.md#fig16) and [17](Chapter-III.md#fig17)
+of that chapter may be completed so as to represent all of the
+planets by drawing in [Fig. 16](Chapter-III.md#fig16) two circles with radii of 7.9 and 12.4
 centimeters respectively, to represent the orbits of the planets Uranus
 and Neptune, which are more remote from the sun than Saturn, and by
 introducing a little inside the orbit of Jupiter about 500 ellipses of
@@ -22,8 +23,8 @@ other classes, a group of medium-sized ones--Mercury, Venus, Earth, and
 Mars--called inner planets by reason of their nearness to the sun; and
 the outer planets--Jupiter, Saturn, Uranus, Neptune--each of which is
 much larger and more massive than any planet of the inner group. Compare
-in Figs. 84 and 85 their relative sizes. The earth, _E_, is introduced
-into Fig. 85 as a connecting link between the two figures.
+in Figs. [84](Chapter-XI.md#fig84) and [85](Chapter-XI.md#fig85) their relative sizes. The earth, _E_, is introduced
+into [Fig. 85](Chapter-XI.md#fig85) as a connecting link between the two figures.
 
 Some of these planets, like the earth, are attended by one or more
 moons, technically called satellites, which also shine by reflected
@@ -114,7 +115,7 @@ less degree; while Mars, Jupiter, and Saturn are comparatively easy
 objects for telescopic study, and our knowledge of them, while far from
 complete, is considerably greater than for the other planets.
 
-Figs. 84 and 85 show the relative sizes of the planets composing the
+Figs. [84](Chapter-XI.md#fig84) and [85](Chapter-XI.md#fig85) show the relative sizes of the planets composing the
 inner and outer groups respectively, and furnish the numerical data
 concerning their diameters, masses, densities, etc., which are of most
 importance in judging of their physical condition. Each planet, save
@@ -132,7 +133,7 @@ removed, in order that it should float just submerged.
 
 Commencing our consideration of the individual planets
 with Jupiter, which is by far the largest of them, exceeding both in
-bulk and mass all the others combined, we have in Fig. 86 four
+bulk and mass all the others combined, we have in [Fig. 86](Chapter-XI.md#fig86) four
 representations of Jupiter and his family of satellites as they may be
 seen in a very small telescope--e. g., an opera glass--save that the
 little dots which here represent the satellites are numbered _1_, _2_,
@@ -143,17 +144,17 @@ The chief interest of these pictures lies in the satellites, but,
 reserving them for future consideration, we note that the planet itself
 resembles in shape the full moon, although in respect of brightness it
 sends to us less than 1/6000 part as much light as the moon. From a
-consideration of the motion of Jupiter and the earth in Fig. 16, show
+consideration of the motion of Jupiter and the earth in [Fig. 16](Chapter-III.md#fig16), show
 that Jupiter can not present any such phases as does the moon, but that
 its disk must be at all times nearly full. As seen from Saturn, what
 kind of phases would Jupiter present?
 
 ### 137. THE BELTS
 
-Even upon the small scale of Fig. 86 we detect the most
+Even upon the small scale of [Fig. 86](Chapter-XI.md#fig86) we detect the most
 characteristic feature of Jupiter's appearance in the telescope, the two
 bands extending across his face parallel to the line of the satellites,
-and in Fig. 87 these same dark bands may be recognized amid the
+and in [Fig. 87](Chapter-XI.md#fig87) these same dark bands may be recognized amid the
 abundance of detail which is here brought out by a large telescope.
 Photography does not succeed as a means of reproducing this detail, and
 for it we have to rely upon the skill of the artist astronomer. The
@@ -244,7 +245,7 @@ although classed with the earth as a planet, is in its essential
 character much more like the sun.
 
 #### Appearance
-The formations which we see in Fig. 87 look like clouds.
+The formations which we see in [Fig. 87](Chapter-XI.md#fig87) look like clouds.
 They gather and disappear, and the only element of permanence about them
 is their tendency to group themselves along zones of latitude. If we
 measure the light reflected from the planet we find that its albedo is
@@ -274,7 +275,7 @@ force of gravity at the visible surface of Jupiter may be found from its
 mass and dimensions to be 2.6 times as great as at the surface of the
 earth, and the pressure exerted upon its atmosphere by this force ought
 to compress the lower strata into something more dense than we find in
-the planet. Some idea of this compression may be obtained from Fig. 88,
+the planet. Some idea of this compression may be obtained from [Fig. 88](Chapter-XI.md#fig88),
 where the line marked _E_ shows approximately how the density of the air
 increases as we move from its upper strata down toward the surface of
 the earth through a distance of 16 miles, the density at any level being
@@ -324,7 +325,7 @@ The satellites bear much the same
 relation to Jupiter that the moon bears to the earth, revolving about
 the planet in accordance with the law of gravitation, and conforming to
 Kepler's three laws, as do the planets in their courses about the sun.
-Observe in Fig. 86 the position of satellite No. _1_ on the four dates,
+Observe in [Fig. 86](Chapter-XI.md#fig86) the position of satellite No. _1_ on the four dates,
 and note how it oscillates back and forth from left to right of Jupiter,
 apparently making a complete revolution in about two days, while No. _4_
 moves steadily from left to right during the entire period, and has
@@ -356,7 +357,7 @@ the number by Professor Barnard, who, observing with the largest
 telescope then extant, found very close to Jupiter a tiny object only
 1/600 part as bright as the other satellites, but, like them, revolving
 around Jupiter, a permanent member of his system. This is called the
-fifth satellite, and Fig. 89 shows the orbits of these satellites around
+fifth satellite, and [Fig. 89](Chapter-XI.md#fig89) shows the orbits of these satellites around
 Jupiter, which is here represented on the same scale as the orbits
 themselves. The broken line just inside the orbit of I represents the
 size of the moon's orbit. The cut shows also the periodic times of the
@@ -368,8 +369,8 @@ influence of a greater attraction it makes the circuit of its orbit in
 from the figure by the method employed in [§ 111](Chapter-X.md#111-the-suns-distance-from-the-earth) how much more massive is
 Jupiter than the earth.
 
-Small as these satellites seem in Fig. 86, they are really bodies of
-considerable size, as appears from Fig. 90, where their dimensions are
+Small as these satellites seem in [Fig. 86](Chapter-XI.md#fig86), they are really bodies of
+considerable size, as appears from [Fig. 90](Chapter-XI.md#fig90), where their dimensions are
 compared with those of the earth and moon, save that the fifth satellite
 is not included. This one is so small as to escape all attempts at
 measuring its diameter, but, judging from the amount of light it
@@ -405,7 +406,7 @@ tidal forces impressed upon them.
 
 ### 141. ECLIPSES OF THE SATELLITES
 
-It may be seen from Fig. 89 that in
+It may be seen from [Fig. 89](Chapter-XI.md#fig89) that in
 their motion around the planet Jupiter's satellites must from time to
 time pass through his shadow and be eclipsed, and that the shadows of
 the satellites will occasionally fall upon the planet, producing to an
@@ -474,19 +475,19 @@ correctly understood and described by Huyghens, whose Latin text we
 translate into--"It is surrounded by a ring, thin, flat, nowhere
 touching it, and making quite an angle with the ecliptic."
 
-Compare with this description Fig. 91, which shows some of the
+Compare with this description [Fig. 91](Chapter-XI.md#fig91), which shows some of the
 appearances presented by the ring at different positions of Saturn in
 its orbit. It was their varying aspects that led Huyghens to insert the
 last words of his description, for, if the plane of the ring coincided
 with the plane of the earth's orbit, then at all times the ring must be
 turned edgewise toward the earth, as shown in the middle picture of the
-group. Fig. 92 shows the sun and the orbit of the earth placed near the
+group. [Fig. 92](Chapter-XI.md#fig92) shows the sun and the orbit of the earth placed near the
 center of Saturn's orbit, across whose circumference are ruled some
 oblique lines representing the plane of the ring, the right end always
 tilted up, no matter where the planet is in its orbit. It is evident
 that an observer upon the earth will see the _N_ side of the ring when
 the planet is at _N_ and the _S_ side when it is at _S_, as is shown in
-the first and third pictures of Fig. 91, while midway between these
+the first and third pictures of [Fig. 91](Chapter-XI.md#fig91), while midway between these
 positions the edge of the ring will be presented to the earth.
 
 ![FIG. 92.--Aspects of the ring in their relation to Saturn's orbital motion.][fig92]
@@ -495,7 +496,7 @@ The last occasion of this kind was in October, 1891, and with the large
 telescope of the Washburn Observatory the writer at that time saw
 Saturn without a trace of a ring surrounding it. The ring is so thin
 that it disappears altogether when turned edgewise. The names of the
-zodiacal constellations are inserted in Fig. 92 in their proper
+zodiacal constellations are inserted in [Fig. 92](Chapter-XI.md#fig92) in their proper
 direction from the sun, and from these we learn that the ring will
 disappear, or be exceedingly narrow, whenever Saturn is in the
 constellation Pisces or near the boundary line between Leo and Virgo. It
@@ -505,7 +506,7 @@ will be its appearance in 1907 at the date marked in the figure?
 
 ### 143. NATURE OF THE RING
 
-It is apparent from Figs. 91 and 93 that
+It is apparent from Figs. [91](Chapter-XI.md#fig91) and [93](Chapter-XI.md#fig93) that
 Saturn's ring is really made up of two or more rings lying one inside of
 the other and completely separated by a dark space which, though narrow,
 is as clean and sharp as if cut with a knife. Also, the inner edge of
@@ -670,7 +671,7 @@ if we count the moon as an independent body, which resemble each other
 in being all small, dense, and solid bodies, which by comparison with
 the great distances separating the outer planets may fairly be described
 as huddled together close to the sun. Their relative sizes are shown in
-Fig. 84, together with the numerical data concerning size, mass,
+[Fig. 84](Chapter-XI.md#fig84), together with the numerical data concerning size, mass,
 density, etc., which we have already found important for the
 understanding of a planet's physical condition.
 
@@ -687,24 +688,24 @@ may be seen with the naked eye in broad daylight if the observer knows
 just where to look for it. But its brilliancy is subject to considerable
 variations on account of its changing distance from the earth, and the
 apparent size of its disk varies for the same reason, as may be seen
-from Fig. 94. These drawings bring out well the phases of the planet,
-and the student should determine from Fig. 17 what are the relative
+from [Fig. 94](Chapter-XI.md#fig94). These drawings bring out well the phases of the planet,
+and the student should determine from [Fig. 17](Chapter-III.md#fig17) what are the relative
 positions in their orbits of the earth and Venus at which the planet
 would present each of these phases. As a guide to this, observe that the
 dark part of Venus's earthward side is always proportional in area to
 the angle at Venus between the earth and sun. In the first picture of
-Fig. 94 about two thirds of the surface corresponding to the full
+[Fig. 94](Chapter-XI.md#fig94) about two thirds of the surface corresponding to the full
 hemisphere of the planet is dark, and the angle at Venus between earth
-and sun is therefore two thirds of 180°--i. e., 120°. In Fig. 17 find a
+and sun is therefore two thirds of 180°--i. e., 120°. In [Fig. 17](Chapter-III.md#fig17) find a
 place on the orbit of Venus from which if lines be drawn to the sun and
 earth, as there shown, the angle between them will be 120°. Make a
-similar construction for the fourth picture in Fig. 94. Which of these
+similar construction for the fourth picture in [Fig. 94](Chapter-XI.md#fig94). Which of these
 two positions is farther from the earth? How do the distances compare
 with the apparent size of Venus in the two pictures? What is the phase
 of Venus to-day?
 
 The irregularities in the shading of the illuminated parts of the disk
-are too conspicuous in Fig. 94, on account of difficulties of
+are too conspicuous in [Fig. 94](Chapter-XI.md#fig94), on account of difficulties of
 reproduction; these shadings are at the best hard to see in the
 telescope, and distinct permanent markings upon the planet are wholly
 lacking. This absence of markings makes almost impossible a
@@ -751,7 +752,7 @@ spent most of his life in Poland, is said, despite all his efforts, to
 have gone to his grave without ever seeing it. In our more southern
 latitude it can usually be seen for about a fortnight at the time of
 each elongation--i. e., when at its greatest angular distance from the
-sun--and the student should find from Fig. 16 the time at which the next
+sun--and the student should find from [Fig. 16](Chapter-III.md#fig16) the time at which the next
 elongation occurs and look for the planet, shining like a star of the
 first magnitude, low down in the sky just after sunset or before
 sunrise, according as the elongation is to the east or west of the sun.
@@ -810,27 +811,27 @@ surpassing every other planet save Venus and presenting at these times
 especially favorable opportunities for the study of its surface. The
 explanation of this increase of brilliancy is, of course, that the
 planet approaches unusually near to the earth, and we have already seen
-from a consideration of Fig. 17 that this can only happen in the months
+from a consideration of [Fig. 17](Chapter-III.md#fig17) that this can only happen in the months
 of August and September. The last favorable epoch of this kind was in
-1894. From Fig. 17 the student should determine when the next one will
+1894. From [Fig. 17](Chapter-III.md#fig17) the student should determine when the next one will
 come.
 
 [![FIG. 95.--Mars.--SCHAEBERLE.][fig95]](assets/i272-full.jpg)
 
-Fig. 95 presents nine drawings of the planet made at one of the epochs
+[Fig. 95](Chapter-XI.md#fig95) presents nine drawings of the planet made at one of the epochs
 of close approach to the earth, and shows that its face bears certain
 faint markings which, though inconspicuous, are fixed and permanent
 features of the planet. The dark triangular projection in the lower
 half of the second drawing was seen and sketched by Huyghens, 1659
-A. D. In Fig. 96 some of these markings are shown much more plainly, but
-Fig. 95 gives a better idea of their usual appearance in the telescope.
+A. D. In [Fig. 96](Chapter-XI.md#fig96) some of these markings are shown much more plainly, but
+[Fig. 95](Chapter-XI.md#fig95) gives a better idea of their usual appearance in the telescope.
 
 [![FIG. 96.--Four views of Mars differing 90° in longitude.--BARNARD.][fig96]](assets/i273-full.jpg)
 
 ### 151. ROTATION
 
 It may be seen readily enough, from a comparison of the
-first two sketches of Fig. 95, that the planet rotates about an axis,
+first two sketches of [Fig. 95](Chapter-XI.md#fig95), that the planet rotates about an axis,
 and from a more extensive study it is found to be very like the earth in
 this respect, turning once in 24h. 37m. around an axis tipped from being
 perpendicular to the plane of its orbit about a degree and a half more
@@ -852,9 +853,9 @@ direction of Pisces.
 ### 152. THE POLAR CAPS
 
 One effect of the changing seasons upon Mars is
-shown in Fig. 97, where we have a series of drawings of the region about
+shown in [Fig. 97](Chapter-XI.md#fig97), where we have a series of drawings of the region about
 its south pole made in 1894, on dates between May 21st and December
-10th. Show from Fig. 17 that during this time it was summer in the
+10th. Show from [Fig. 17](Chapter-III.md#fig17) that during this time it was summer in the
 region here shown. Mars crossed the prime radius in 1894 on September
 5th. The striking thing in these pictures is the white spot surrounding
 the pole, which shrinks in size from the beginning to near the end of
@@ -903,7 +904,7 @@ low that vapors can not exist in any considerable quantity, or the
 surface of Mars is so dry that there is little water or other liquid to
 be evaporated. The latter alternative is adopted by those astronomers
 who look upon the polar caps as true snow fields, which serve as the
-chief reservoir of the planet's water supply, and who find in Fig. 98
+chief reservoir of the planet's water supply, and who find in [Fig. 98](Chapter-XI.md#fig98)
 evidence that as the snow melts and the water flows away over the flat,
 dry surface of the planet, vegetation springs up, as shown by the dark
 markings on the disk, and gradually dies out with the advancing season.
@@ -919,7 +920,7 @@ a sufficient accumulation of water to support vegetable life.
 
 ### 154. THE CANALS
 
-In Fig. 98 the lower part of the disk of Mars shows
+In [Fig. 98](Chapter-XI.md#fig98) the lower part of the disk of Mars shows
 certain faint dark lines which are generally called canals, and in 
 [Plate III](Plate-III.jpg) there is given a map of Mars showing many of these canals running in
 narrow, dusky streaks across the face of the planet according to a
@@ -933,7 +934,7 @@ this is now known to be an error in both cases. The curved surface of a
 planet can not be accurately reproduced upon the flat surface of paper,
 but is always more or less distorted by the various methods of
 "projecting" it which are in use. Compare the map of Mars in [Plate III](Plate-III.jpg)
-with Fig. 99, in which the projection represents very well the
+with [Fig. 99](Chapter-XI.md#fig99), in which the projection represents very well the
 equatorial parts of the planet, but enormously exaggerates the region
 around the poles.
 
@@ -1000,7 +1001,7 @@ order in which they were discovered--e. g., [circle 1] = Ceres,
 chips, world fragments, adrift in space, and naturally it was the larger
 and brighter of them that were first discovered. The size of the first
 four of them--Ceres, Pallas, Juno, and Vesta--compared with the size of
-the moon, according to Professor Barnard, is shown in Fig. 100. The
+the moon, according to Professor Barnard, is shown in [Fig. 100](Chapter-XI.md#fig100). The
 great majority of them must be much smaller than the smallest of these,
 perhaps not more than a score of miles in diameter.
 
@@ -1086,6 +1087,12 @@ planetary life, for aside from the earth, of all the hundreds of bodies
 in the solar system, not one is found in which the necessary conditions
 of life are certainly fulfilled, and only two exist in which there is a
 reasonable probability that these conditions may be satisfied.
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [img09]: assets/i265.jpg "WILLIAM HERSCHEL (1738-1822)."
 [img10]: assets/i279.jpg "PLATE III. MAP OF MARS (AFTER SCHIAPARELLI)"

@@ -70,8 +70,8 @@ useful to classify these spectra into three types, as follows:
 #### Type I. Sirian stars
 Speaking generally, the stars which are white
 or very faintly tinged with yellow, furnish spectra like that of Sirius,
-from which they take their name, or that of β Aurigæ (Fig.
-124), which is a continuous spectrum, especially rich in energy of short
+from which they take their name, or that of β Aurigæ ([Fig. 124](Chapter-XIII.md#fig124)), 
+which is a continuous spectrum, especially rich in energy of short
 wave length--i. e., violet and ultraviolet light, and is crossed by a
 relatively small number of heavy dark lines corresponding to the
 spectrum of hydrogen. Sometimes, however, these lines are much fainter
@@ -90,7 +90,7 @@ but next to them in point of numbers stands--
 
 #### Type II. Solar stars
 To this type of spectrum belong the yellow
-stars, which show spectra like that of the sun, or of Pollux (Fig. 125).
+stars, which show spectra like that of the sun, or of Pollux ([Fig. 125](Chapter-XIII.md#fig125)).
 These are not so rich in violet light as are those of Type I, but in
 complexity of spectrum and in the number of their absorption lines they
 far surpass the Sirian stars. They are supposed to be at a lower
@@ -103,7 +103,7 @@ members of one class, called _solar stars_.
 
 #### Type III. Red stars
 A small number of stars show spectra comparable
-with that of α Herculis (Fig. 134), in which the blue and the violet
+with that of α Herculis ([Fig. 134](Chapter-XIV.md#fig134)), in which the blue and the violet
 part of the spectrum is almost obliterated, and the remaining yellow and
 red parts show not only dark lines, but also numerous broad dark bands,
 sharp at one edge, and gradually fading out at the other. It is this
@@ -140,7 +140,7 @@ insensible gradations, like the transition from youth to manhood and
 from manhood to old age, and along the line of transition are to be
 found numberless peculiarities and varieties of spectra not enumerated
 above--e. g., a few stars show not only dark absorption lines in their
-spectra but bright lines as well, which, like those in Fig. 48, point to
+spectra but bright lines as well, which, like those in [Fig. 48](Chapter-VIII.md#fig48), point to
 the presence of incandescent vapors, even in the outer parts of their
 atmospheres. Among the lucid stars about 75 per cent have spectra of the
 first type, 23 per cent are of the second type, 1 per cent of the third
@@ -166,7 +166,7 @@ Præsepe as star clusters visible to the naked eye, and to them we may
 add the Hyades, near Aldebaran, and the little constellation Coma
 Berenices. But more impressive than any of these, although visible only
 in a telescope, is the splendid cluster in Hercules, whose appearance in
-a telescope of moderate size is shown in Fig. 135, while Fig. 136 is a
+a telescope of moderate size is shown in [Fig. 135](Chapter-XIV.md#fig135), while [Fig. 136](Chapter-XIV.md#fig136) is a
 photograph of the same cluster taken with a very large reflecting
 telescope. This is only a type of many telescopic clusters which are
 scattered over the sky, and which are made up of stars packed so closely
@@ -205,7 +205,7 @@ unmistakably to a common origin and cause of variability."
 
 ### 214. NEBULÆ
 
-Returning to Fig. 136, we note that its background has a
+Returning to [Fig. 136](Chapter-XIV.md#fig136), we note that its background has a
 hazy appearance, and that at its center the stars can no longer be
 distinguished, but blend one with another so as to appear like a bright
 cloud. The outer part of the cluster is _resolved_ into stars, while in
@@ -218,17 +218,17 @@ call a _nebula_ (Latin, _little cloud_).
 The most conspicuous example of this in the northern heavens is the
 great nebula in Andromeda (R. A. 0^{h} 37^{m}, Dec. + 41°), which may be
 seen with the naked eye as a faint patch of foggy light. Look for it.
-This appears in an opera glass or very small telescope not unlike Fig.
-137, which is reproduced from a sketch. Fig. 138 is from a photograph of
+This appears in an opera glass or very small telescope not unlike [Fig. 137](Chapter-XIV.md#fig137), 
+which is reproduced from a sketch. [Fig. 138](Chapter-XIV.md#fig138) is from a photograph of
 the same object showing essentially the same shape as in the preceding
 figure, but bringing out more detail. Note the two small nebulæ
 adjoining the large one, and at the bottom of the picture an object
 which might easily be taken for another nebula but which is in fact a
 tailless comet that chanced to be passing that part of the sky when the
-picture was taken. Fig. 139 is from another drawing of this nebula,
+picture was taken. [Fig. 139](Chapter-XIV.md#fig139) is from another drawing of this nebula,
 although it is hardly to be recognized as a representation of the same
 thing; but its characteristic feature, the two dark streaks near the
-center of the picture, is justified in part by Fig. 140, which is from a
+center of the picture, is justified in part by [Fig. 140](Chapter-XIV.md#fig140), which is from a
 photograph made with a large reflecting telescope.
 
 [![FIG. 141.--Types of nebulæ.][fig141]](assets/i373-full.jpg)
@@ -239,19 +239,19 @@ impressions to be derived from nebulæ depend upon the telescopes
 employed and upon the observer's own prepossessions. The differences
 among the pictures can not be due to any change in the nebula itself,
 for half a century ago it was sketched much as shown in the latest of
-them (Fig. 140).
+them ([Fig. 140](Chapter-XIV.md#fig140)).
 
 [![FIG. 142.--The Trifid nebula.--KEELER.][fig142]](assets/i374-full.jpg)
 
 ### 215. TYPICAL NEBULÆ
 
 Some of the fantastic forms which nebulæ present
-in the telescope are shown on a small scale in Fig. 141, but in recent
+in the telescope are shown on a small scale in [Fig. 141](Chapter-XIV.md#fig141), but in recent
 years astronomers have learned to place little reliance upon drawings
 such as these, which are now almost entirely supplanted by photographs
 made with long exposures in powerful telescopes. One of the most
 exquisite of these modern photographs is that of the Trifid nebula in
-Sagittarius (Fig. 142). Note especially the dark lanes that give to this
+Sagittarius ([Fig. 142](Chapter-XIV.md#fig142)). Note especially the dark lanes that give to this
 nebula its name, Trifid, and which run through its brightest parts,
 breaking it into seemingly independent sections. The area of the sky
 shown in this cut is about 15 per cent less than that covered by the
@@ -259,7 +259,7 @@ full moon.
 
 [![FIG. 143.--A nebula in Cygnus.--KEELER.][fig143]](assets/i375-full.jpg)
 
-Fig. 143 shows a very different type of nebula, found in the
+[Fig. 143](Chapter-XIV.md#fig143) shows a very different type of nebula, found in the
 constellation Cygnus, which appears made up of filaments closely
 intertwined, and stretches across the sky for a distance considerably
 greater than the moon's diameter.
@@ -267,7 +267,7 @@ greater than the moon's diameter.
 [![FIG. 144.--Spiral nebula in Canes Venatici.--KEELER.][fig144]](assets/i376-full.jpg)
 
 A much smaller but equally striking nebula is that in the constellation
-Canes Venatici (Fig. 144), which shows a most extraordinary spiral
+Canes Venatici ([Fig. 144](Chapter-XIV.md#fig144)), which shows a most extraordinary spiral
 structure, as if the stars composing it were flowing in along curved
 lines toward a center of condensation. The diameter of the circular part
 of this nebula, omitting the projection toward the bottom of the
@@ -278,20 +278,20 @@ which compose it. Note how the bright stars that appear within the area
 of this nebula fall on the streams of nebulous matter as if they were
 part of them. This characteristic grouping of the stars, which is
 followed in many other nebulæ, shows that they are really part and
-parcel of the nebula and not merely on line with it. Fig. 145 shows how
+parcel of the nebula and not merely on line with it. [Fig. 145](Chapter-XIV.md#fig145) shows how
 a great nebula is associated with the star ρ Ophiuchi.
 
 [![FIG. 145.--Great nebula about the star ρ Ophiuchi.--BARNARD.][fig145]](assets/i377-full.jpg)
 
 Probably the most impressive of all nebulæ is the great one in Orion
-(Fig. 146), whose position is shown on the star map between Rigel and
+([Fig. 146](Chapter-XIV.md#fig146)), whose position is shown on the star map between Rigel and
 ζ Orionis. Look for it with an opera glass or even with the
 unaided eye. This is sometimes called an _amorphous_--i. e.,
 shapeless--nebula, because it presents no definite form which the eye
 can grasp and little trace of structure or organization. It is "without
 form and void" at least in its central portions, although on its edges
 curved filaments may be traced streaming away from the brighter parts
-of the central region. This nebula, as shown in Fig. 146, covers an area
+of the central region. This nebula, as shown in [Fig. 146](Chapter-XIV.md#fig146), covers an area
 about equal to that of the full moon, without counting as any part of
 this the companion nebula shown at one side, but photographs made with
 suitable exposures show that faint outlying parts of the nebula extend
@@ -312,14 +312,14 @@ the cluster and not merely a background for it.
 
 [![THE PLEIADES (AFTER A PHOTOGRAPH)][img15]](Plate-IV.md)
 
-Fig. 147 shows a series of so-called double nebulæ perhaps comparable
+[Fig. 147](Chapter-XIV.md#fig147) shows a series of so-called double nebulæ perhaps comparable
 with double stars, although the most recent photographic work seems to
 indicate that they are really faint spiral nebulæ in which only the
 brightest parts are shown by the telescope.
 
 According to Keeler, the spiral is the prevailing type of nebulæ, and
-while Fig. 144 presents the most perfect example of such a nebula, the
-student should not fail to note that the Andromeda nebula (Fig. 140)
+while [Fig. 144](Chapter-XIV.md#fig144) presents the most perfect example of such a nebula, the
+student should not fail to note that the Andromeda nebula ([Fig. 140](Chapter-XIV.md#fig140))
 shows distinct traces of a spiral structure, only here we do not see its
 true shape, the nebula being turned nearly edgewise toward us so that
 its presumably circular outline is foreshortened into a narrow ellipse.
@@ -327,7 +327,7 @@ its presumably circular outline is foreshortened into a narrow ellipse.
 [![FIG. 147.--Double nebulæ. HERSCHEL.][fig147]](assets/i381-full.jpg)
 Another type of nebula of some consequence presents in the telescope
 round disks like those of Uranus or Neptune, and this appearance has
-given them the name _planetary nebulæ_. The comet in Fig. 138, if
+given them the name _planetary nebulæ_. The comet in [Fig. 138](Chapter-XIV.md#fig138), if
 smaller, would represent fairly well the nebulæ of this type. Sometimes
 a planetary nebula has a star at its center, and sometimes it appears
 hollow, like a smoke ring, and is then called a ring nebula. The most
@@ -440,7 +440,7 @@ versa_; but, on the whole, even these changes are very small.
 Closely related to nebulæ and star clusters is
 another feature of the sky, the _galaxy_ or _Milky Way_, with whose
 appearance to the unaided eye the student should become familiar by
-direct study of the thing itself. Figs. 148 and 149 are from photographs
+direct study of the thing itself. Figs. [148](Chapter-XIV.md#fig148) and [149](Chapter-XIV.md#fig149) are from photographs
 of two small parts of it, and serve to bring out the small stars of
 which it is composed. Every star shown in these pictures is invisible to
 the naked eye, although their combined light is easily seen. The general
@@ -464,7 +464,7 @@ opposite Vega, and note how even an opera glass will partially resolve
 the nebulous light into a great number of stars, which are here rather
 brighter than in other parts of its course. But the resolution into
 stars is only partial, and there still remains a background of
-unresolved shimmer. Fig. 150 is a photograph of a small part of this
+unresolved shimmer. [Fig. 150](Chapter-XIV.md#fig150) is a photograph of a small part of this
 region in which, although each fleck of light represents a separate
 star, the galaxy is not completely resolved. Compare with this region,
 rich in stars, the nearly empty space between the branches of the galaxy
@@ -578,7 +578,7 @@ outside its limits.
 The Milky Way itself is commonly thought to be a ring, or series of
 rings, like the coils of the great spiral nebula in Andromeda, and
 separated from us by a space far greater than the thickness of the ring
-itself. Note in Figs. 149 and 150 how the background is made up of
+itself. Note in Figs. [149](Chapter-XIV.md#fig149) and [150](Chapter-XIV.md#fig150) how the background is made up of
 bright and dark parts curiously interlaced, and presenting much the
 appearance of a thin sheet of cloud through which we look to barren
 space beyond. While, mathematically, this appearance can not be
@@ -606,7 +606,7 @@ stars per square degree as could Celoria with a telescope of 4 inches
 aperture; but around the poles of the galaxy the two telescopes showed
 practically the same number of stars, indicating that here even the
 smaller telescope reached to the limits of the stellar system. Very
-recently, indeed, the telescope with which Fig. 140 was photographed
+recently, indeed, the telescope with which [Fig. 140](Chapter-XIV.md#fig140) was photographed
 seems to have reached the farthest limit of the Milky Way, for on a
 photographic plate of one of its richest regions Roberts finds it
 completely resolved into stars which stand out upon a black background
@@ -677,6 +677,12 @@ the universe may well be limitless and the number of stellar systems
 infinite, although the most attenuated of dust clouds suffices to
 conceal from us and to shut off from our investigation all save a minor
 fraction of it and them.
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [img11]: assets/i379.jpg "THE PLEIADES (AFTER A PHOTOGRAPH)"
 [fig134]: assets/i367.jpg "FIG. 134.--The spectrum of α Herculis.--ESPIN."

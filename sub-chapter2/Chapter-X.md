@@ -105,7 +105,7 @@ earth, is very approximately 93,000,000 miles.
 ### 113. ANOTHER METHOD OF DETERMINING THE SUN'S DISTANCE
 
 This will be
-best appreciated by a reference to Fig. 17. It appears here that the
+best appreciated by a reference to [Fig. 17](Chapter-III.md#fig17). It appears here that the
 earth makes its nearest approach to the orbit of Mars in the month of
 August, and if in any August Mars happens to be in opposition, its
 distance from the earth will be very much less than the distance of the
@@ -182,7 +182,7 @@ arc) that the length of that diameter is 865,000 miles. We recall in
 this connection that the diameter of the moon's _orbit_ is only 480,000
 miles, but little more than half the diameter of the sun, thus affording
 abundant room inside the sun, and to spare, for the moon to perform the
-monthly revolution about its orbit, as shown in Fig. 65.
+monthly revolution about its orbit, as shown in [Fig. 65](Chapter-X.md#fig65).
 
 [![FIG. 65.--The sun's size.--YOUNG.][fig65]](assets/i210-full.jpg)
 In the same manner in which the density of the moon was found from its
@@ -211,7 +211,7 @@ than the terrestrial.
 
 As to the first of these
 alternatives, the spectroscope comes to our aid and shows in the sun's
-spectrum (Fig. 50) the characteristic line marked _D_, which we know
+spectrum ([Fig. 50](Chapter-VIII.md#fig50)) the characteristic line marked _D_, which we know
 always indicates the presence of sodium and identifies at least one
 terrestrial substance as present in the sun in considerable quantity.
 The lines marked _C_ and _F_ are produced by hydrogen, which is one of
@@ -350,7 +350,7 @@ little more. There may usually be found upon the sun's face a certain
 number of black patches called _sun spots_, such as are shown in Figs.
 66 to 69, and occasionally these are large enough to be seen through a
 smoked glass without the aid of a telescope. When seen near the edge of
-the sun they are quite frequently accompanied, as in Fig. 69, by vague
+the sun they are quite frequently accompanied, as in [Fig. 69](Chapter-X.md#fig69), by vague
 patches called _faculæ_ (Latin, _facula_ = a little torch), which look a
 little brighter than the surrounding parts of the sun. So, too, a good
 photograph of the sun usually shows that the central parts of the disk
@@ -359,7 +359,7 @@ be, since the absorption lines in the sun's spectrum have already taught
 us that the visible surface of the sun is enveloped by invisible vapors
 which in some measure absorb the emitted light and render it feebler at
 the edge where it passes through a greater thickness of this envelope
-than at the center. See Fig. 70, where it is shown that the energy
+than at the center. See [Fig. 70](Chapter-X.md#fig70), where it is shown that the energy
 coming from the edge of the sun to the earth has to traverse a much
 longer path inside the vapors than does that coming from the center.
 
@@ -417,8 +417,8 @@ curvature of the sun's surface. By September 16th this group of spots
 had disappeared absolutely from the sun's face, although when at its
 largest the group extended more than 80,000 miles in length, and several
 of the individual spots were large enough to contain the earth if it had
-been dropped upon them. From Fig. 67 determine in miles the length of
-the group on August 14th. Fig. 71 shows an enlarged view of these spots
+been dropped upon them. From [Fig. 67](Chapter-X.md#fig67) determine in miles the length of
+the group on August 14th. [Fig. 71](Chapter-X.md#fig71) shows an enlarged view of these spots
 as they appeared on August 17th, and in this we find some details not so
 well shown in the preceding pictures. The larger spots consist of a
 black part called the _nucleus_ or _umbra_ (Latin, shadow), which is
@@ -432,14 +432,14 @@ contrast with it the nucleus and penumbra appear relatively dark.
 
 [![FIG. 72.--Sun spot of March 5, 1873.--From LANGLEY, The New Astronomy. By permission of the publishers.][fig72]](assets/i223b-full.jpg)
 The bright shining surface of the sun, the background for the spots, is
-called the _photosphere_ (Greek, light sphere), and, as Fig. 71 shows,
+called the _photosphere_ (Greek, light sphere), and, as [Fig. 71](Chapter-X.md#fig71) shows,
 it assumes under a suitable magnifying power a mottled aspect quite
 different from the featureless expanse shown in the earlier pictures.
 The photosphere is, in fact, a layer of little clouds with darker
 spaces between them, and the fine detail of these clouds, their
 complicated structure, and the way in which, when projected against the
 background of a sun spot, they produce its penumbra, are all brought out
-in Fig. 72. Note that the little patch in one corner of this picture
+in [Fig. 72](Chapter-X.md#fig72). Note that the little patch in one corner of this picture
 represents North and South America drawn to the same scale as the sun
 spots.
 
@@ -449,7 +449,7 @@ spots.
 
 ### 122. FACULÆ
 
-We have seen in Fig. 69 a few of the bright spots called
+We have seen in [Fig. 69](Chapter-X.md#fig69) a few of the bright spots called
 faculæ. At the telescope or in the ordinary photograph these can be seen
 only at the edge of the sun, because elsewhere the background furnished
 by the photosphere is so bright that they are lost in it. It is
@@ -458,8 +458,8 @@ break up the sunlight into a spectrum in such a way as to diminish the
 brightness of this background, much more than the brightness of the
 faculæ is diminished, and in this way to obtain a photograph of the
 sun's surface which shall show them wherever they occur, and such a
-photograph, showing faintly the spectral lines, is reproduced in Fig.
-73. The faculæ are the bright patches which stretch inconspicuously
+photograph, showing faintly the spectral lines, is reproduced in [Fig. 73](Chapter-X.md#fig73).
+The faculæ are the bright patches which stretch inconspicuously
 across the face of the sun, in two rather irregular belts with a
 comparatively empty lane between them. This lane lies along the sun's
 equator, and it is upon either side of it between latitudes 5° and 40°
@@ -481,7 +481,7 @@ a total eclipse.
 
 [![FIG. 76.--Eclipse of January 21, 1898.--CAMPBELL.][fig76]](assets/i227-full.jpg)
 
-Fig. 74 is from a drawing, and Figs. 75 and 76 are from eclipse
+[Fig. 74](Chapter-X.md#fig74) is from a drawing, and Figs. [75](Chapter-X.md#fig75) and [76](Chapter-X.md#fig76) are from eclipse
 photographs showing this region, in which the most conspicuous object
 is the halo of soft light called the _corona_, that completely surrounds
 the sun but is seen to be of differing shapes and differing extent at
@@ -528,13 +528,13 @@ their characteristic lines to the spectrum, like that of the
 chromosphere, which the prominence presents when they are absent. None
 of the eclipse photographs (Figs. 74 to 76) show the chromosphere,
 because the color effect is lacking in them, but a great curving
-prominence may be seen near the bottom of Fig. 75, and smaller ones at
+prominence may be seen near the bottom of [Fig. 75](Chapter-X.md#fig75), and smaller ones at
 other parts of the sun's edge.
 [![FIG. 78.--A solar prominence.--HALE.][fig78]](assets/i229-full.jpg)
 
 ### 125. PROMINENCES
 
-Fig. 77 shows upon a larger scale one of these
+[Fig. 77](Chapter-X.md#fig77) shows upon a larger scale one of these
 prominences rising to a height of 160,000 miles above the photosphere;
 and another photograph, taken 18 minutes later, but not reproduced here,
 showed the same prominence grown in this brief interval to a stature of
@@ -546,14 +546,14 @@ itself. The dark base from which the prominence seems to spring is not
 the sun's edge, but a part of the apparatus used to cut off the direct
 sunlight.
 
-Fig. 78 contains a series of photographs of another prominence taken
+[Fig. 78](Chapter-X.md#fig78) contains a series of photographs of another prominence taken
 within an interval of 1 hour 47 minutes and showing changes in size and
 shape which are much more nearly typical of the ordinary prominence than
-was the very unusual change in the case of Fig. 77.
+was the very unusual change in the case of [Fig. 77](Chapter-X.md#fig77).
 
 [![FIG. 79.--Contrasted forms of solar prominences.--ZOELLNER.][fig79]](assets/i230-full.jpg)
 The preceding pictures are from photographs, and with them the student
-may compare Fig. 79, which is constructed from drawings made at the
+may compare [Fig. 79](Chapter-X.md#fig79), which is constructed from drawings made at the
 spectroscope by the German astronomer Zoellner. The changes here shown
 are most marked in the prominence at the left, which is shaped like a
 broken tree trunk, and which appears to be vibrating from one side to
@@ -564,7 +564,7 @@ while the prominence at the right in this series of drawings, which
 appears much less agitated, is called by contrast with the other a
 _quiescent_ prominence. These quiescent prominences are, as a rule, much
 longer-lived than the eruptive ones. One more picture of prominences
-(Fig. 80) is introduced to show the continuous stretch of chromosphere
+([Fig. 80](Chapter-X.md#fig80)) is introduced to show the continuous stretch of chromosphere
 out of which they spring.
 
 [![FIG. 80.--Prominences and chromosphere.--HALE.][fig80]](assets/i231-full.jpg)
@@ -711,7 +711,7 @@ are not equally numerous at all times, but, like swarms of locusts, they
 seem to come and abound for a season and then almost to disappear, as if
 the forces which produced them were of a periodic character alternately
 active and quiet. The effect of this periodic activity since 1870 is
-shown in Fig. 81, where the horizontal line is a scale of times, and the
+shown in [Fig. 81](Chapter-X.md#fig81), where the horizontal line is a scale of times, and the
 distance of the curve above this line for any year shows the relative
 number of spots which appeared upon the sun in that year. This indicates
 very plainly that 1870, 1883, and 1893 were years of great sun-spot
@@ -727,7 +727,7 @@ The sun-spot period is the interval of time from the crest or hollow of
 one wave to the corresponding part of the next one, and on the average
 this appears to be a little more than eleven years, but is subject to
 considerable variation. In accordance with this period there is drawn in
-broken lines at the right of Fig. 81 a predicted continuation of the
+broken lines at the right of [Fig. 81](Chapter-X.md#fig81) a predicted continuation of the
 sun-spot curve for the first decade of the twentieth century. The
 irregularity shown by the three preceding waves is such that we must not
 expect the actual course of future sun spots to correspond very closely
@@ -738,7 +738,7 @@ frequency can not be foretold with any approach to certainty so long as
 we remain in our present ignorance of the causes which make the sun-spot
 period.
 
-Determine from Fig. 81 as accurately as possible the length of the
+Determine from [Fig. 81](Chapter-X.md#fig81) as accurately as possible the length of the
 sun-spot period. It is hard to tell the exact position of a crest or
 hollow of the curve. Would it do to draw a horizontal line midway
 between top and bottom of the curve and determine the length of the
@@ -762,7 +762,7 @@ toward a maximum these groups shift their positions more and more toward
 the equator, thus approaching each other but leaving between them a
 vacant lane, which becomes steadily narrower until at the close of the
 period, when the next minimum is at hand, it reaches its narrowest
-dimensions, but does not altogether close up even then. In Fig. 82 these
+dimensions, but does not altogether close up even then. In [Fig. 82](Chapter-X.md#fig82) these
 relations are shown for the period falling between 1879 and 1890, by
 means of the horizontal lines; for each year one line in the northern
 and one in the southern hemisphere of the sun, their lengths being
@@ -798,7 +798,7 @@ disturbances and are most frequent at the times of sun-spot maxima.
 
 Upon the sun, however, the influence of the spot period is not limited
 to things in and near the photosphere, but extends to the outermost
-limits of the corona. Determine from Fig. 81 the particular part of the
+limits of the corona. Determine from [Fig. 81](Chapter-X.md#fig81) the particular part of the
 sun-spot period corresponding to the date of each picture of the corona
 and note how the pictures which were taken near times of sun-spot minima
 present a general agreement in the shape and extent of the corona, while
@@ -822,7 +822,7 @@ United States this year, southeast of it next year, and at the end of a
 decade should have shifted around to the opposite side of the earth from
 us. A meridian of longitude drawn down the Mississippi Valley remains
 always a straight line, or, rather, great circle, upon the surface of
-the earth, while Fig. 83 shows what would become of such a meridian
+the earth, while [Fig. 83](Chapter-X.md#fig83) shows what would become of such a meridian
 drawn through the equatorial parts of the sun's disk. In the first
 diagram it appears as a straight line running down the middle of the
 sun's disk. Twenty-five days later, when the same face of the sun comes
@@ -862,6 +862,12 @@ of the refraction of light within the sun's outer envelope of gases, and
 it seems altogether probable, in view of these combined activities, that
 a considerable addition to our store of knowledge concerning the sun may
 be expected in the not distant future.
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [img8]: assets/i219.jpg "PLATE II. THE EQUATORIAL CONSTELLATIONS"
 [fig65]: assets/i210.jpg "FIG. 65.--The sun's size.--YOUNG."

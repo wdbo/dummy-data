@@ -9,7 +9,7 @@ given for these statements, we proceed to consider the principles upon
 which the measurement of the earth's size and shape are based.
 
 ![FIG. 25.--Measuring the size of the earth.][fig25]
-In Fig. 25 the circle represents a meridian section of the earth; `P P´`
+In [Fig. 25](Chapter-V.md#fig25) the circle represents a meridian section of the earth; `P P´`
 is the axis about which it rotates, and the dotted lines represent a
 beam of light coming from a star in the plane of the meridian, and so
 distant that the dotted lines are all practically parallel to each
@@ -75,7 +75,7 @@ kilogrammes, and while the principles involved in this determination are
 simple enough, their actual application is delicate and difficult.
 
 ![FIG. 26.--Illustrating the principles involved in weighing the earth.][fig26]
-In Fig. 26 we suppose a long plumb line to be suspended above the
+In [Fig. 26](Chapter-V.md#fig26) we suppose a long plumb line to be suspended above the
 surface of the earth and to be attracted toward the center of the earth,
 `C`, by a force whose intensity is ([Chapter IV](Chapter-IV.md))
 
@@ -390,7 +390,7 @@ is much exaggerated in amount and becomes easily visible to the naked
 eye by distorting the disks of the sun and moon from circles into ovals
 with their long diameters horizontal. The refraction lifts both upper
 and lower edge of the sun, but lifts the lower edge more than the upper,
-thus shortening the vertical diameter. See Fig. 27, which shows not only
+thus shortening the vertical diameter. See [Fig. 27](Chapter-V.md#fig27), which shows not only
 this effect, but also the reflection of the sun from the curved surface
 of the sea, still further flattening the image. If the surface of the
 water were flat, the reflected image would have the same shape as the
@@ -426,7 +426,7 @@ sun is still below the horizon, giving at the beginning and end of day
 that vague and diffuse light which we call twilight.
 
 ![FIG. 28.--Twilight phenomena.][fig28]
-Fig. 28 shows a part of the earth surrounded by such a dust-laden
+[Fig. 28](Chapter-V.md#fig28) shows a part of the earth surrounded by such a dust-laden
 atmosphere, which is illuminated on the left by the rays of the sun, but
 which, on the right of the figure, lies in the shadow cast by the earth.
 To an observer placed at `1` the sun is just setting, and all the
@@ -447,7 +447,7 @@ but this is a gross exaggeration, made for the sake of clearness in the
 drawing--in fact, twilight is usually said to end when the sun is 18°
 below the horizon.
 
-Let the student redraw Fig. 28 on a large scale, so that the points `1`
+Let the student redraw [Fig. 28](Chapter-V.md#fig28) on a large scale, so that the points `1`
 and `3` shall be only 18° apart, as seen from the earth's center. He
 will find that the point `L` is brought down much closer to the surface
 of the earth, and measuring the length of the line `2 L`, he should find
@@ -469,7 +469,7 @@ Duration of twilight
     shorten the duration of twilight, and anything which retards the
     downward motion of the sun will correspondingly prolong it. Chief among
     influences of this kind is the angle which the sun's course makes with
-    the horizon. If it goes straight down, as at `a`, Fig. 29, a much
+    the horizon. If it goes straight down, as at `a`, [Fig. 29](Chapter-V.md#fig29), a much
     shorter time will suffice to carry it to a depression of 18° than is
     needed in the case shown at `b` in the same figure, where the motion is
     very oblique to the horizon. If we consider different latitudes and
@@ -501,6 +501,12 @@ The Aurora
     Aurora, or northern lights, is as purely an affair of the earth as is a
     thunderstorm, and its explanation belongs to the subject of terrestrial
     magnetism.
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [fig25]: assets/i091.png "FIG. 25.--Measuring the size of the earth."
 [fig26]: assets/i093.png "FIG. 26.--Illustrating the principles involved in weighing the earth."

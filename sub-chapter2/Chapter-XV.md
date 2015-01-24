@@ -315,7 +315,7 @@ this slowing down, the moon is pushed farther and farther away from the
 earth, so that it now moves in a larger orbit than it had some millions
 of years ago.
 
-Fig. 24 has been used to illustrate the action of the moon in raising
+[Fig. 24](Chapter-IV.md#fig24) has been used to illustrate the action of the moon in raising
 tides upon the earth, but in accordance with the third law of motion
 ([§ 36](Chapter-IV.md#36-the-third-law-of-motion)) this action must be accompanied by an equal and contrary reaction
 whose nature may readily be seen from the same figure. The moon moves
@@ -614,8 +614,8 @@ general statements.
 
 ### 243. STELLAR SPECTRA
 
-Thus the types of stellar spectra shown in Fig.
-151 are supposed to illustrate successive stages in the development of
+Thus the types of stellar spectra shown in [Fig. 151](Chapter-XV.md#fig151)
+are supposed to illustrate successive stages in the development of
 an average star. Type I corresponds to the period in which its
 temperature is near the maximum; Type II belongs to a later stage in
 which the temperature has commenced to fall; and Type III to the period
@@ -626,7 +626,7 @@ to permit a single star to be followed through all the stages of its
 career, an adequate picture of that development might be obtained by
 examining many stars, each at a different stage of progress, and,
 following this idea, numerous subdivisions of the types of stellar
-spectra shown in Fig. 151 have been proposed in order to represent with
+spectra shown in [Fig. 151](Chapter-XV.md#fig151) have been proposed in order to represent with
 more detail the process of stellar growth and decay; but for the most
 part these subdivisions and their interpretation are accepted by
 astronomers with much reserve.
@@ -659,7 +659,7 @@ The double stars present special problems of
 development growing out of the effects of tidal friction, which must
 operate in them much as it does between earth and moon, tending steadily
 to increase the distance between the components of such a star. So, too,
-in such a system as is shown in Fig. 132, gravity must tend to make each
+in such a system as is shown in [Fig. 132](Chapter-XIII.md#fig132), gravity must tend to make each
 component of the double star shrink to smaller dimensions, and this
 shrinkage must result in faster rotation and increased tidal friction,
 which in turn must push the components apart, so that in view of the
@@ -709,19 +709,19 @@ stages in one line of development; for example, the primitive nebula
 which grows into a spiral may never become a ring or planetary nebula,
 and _vice versa_. So too there is no reason to suppose that a star
 cluster will ever break up into isolated stars such as those whose
-relation to each other is shown in Fig. 122.
+relation to each other is shown in [Fig. 122](Chapter-XIII.md#fig122).
 
 ### 246. CLASSIFICATION
 
 Considering the heavenly bodies with respect to
 their stage of development, and arranging them in due order, we should
 probably find lowest down in the scale of progress the irregular nebulæ
-of chaotic appearance such as that represented in Fig. 146. Above these
+of chaotic appearance such as that represented in [Fig. 146](Chapter-XIV.md#fig146). Above these
 in point of development stand the spiral, ring, and planetary nebulæ,
 although the exact sequence in which they should be arranged remains a
 matter of doubt. Still higher up in the scale are star clusters whose
 individual members, as well as isolated stars, are to be classified by
-means of their spectra, as shown in Fig. 151, where the order of
+means of their spectra, as shown in [Fig. 151](Chapter-XV.md#fig151), where the order of
 development of each star is probably from Type I, through II, into III
 and beyond, to extinction of its light and the cutting off of most of
 its radiant energy. Jupiter and Saturn are to be regarded as stars which
@@ -801,6 +801,12 @@ forth by Goethe in the lines:
 
 >   "Thus work I at the roaring loom of Time,
     And weave for Deity a living robe sublime."
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [img12]: assets/i401.jpg "PIERRE SIMON LAPLACE (1749-1827)."
 [fig151]: assets/i414.jpg "FIG. 151.--Types of stellar spectra substantially according to SECCHI."

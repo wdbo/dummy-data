@@ -191,7 +191,7 @@ object.
 Another device more frequently used by astronomers for the production of
 images (condensation of energy) is a lens which in its simplest form is
 a round piece of glass, thick in the center and thin at the edge, with a
-cross section, such as is shown at `A B` in Fig. 38. If we suppose `E G
+cross section, such as is shown at `A B` in [Fig. 38](Chapter-VIII.md#fig38). If we suppose `E G
 D` to represent a small part of a wave front coming from a very distant
 source of radiant energy, such as a star, this wave front will be
 practically a plane surface represented by the straight line `E D`, but
@@ -232,7 +232,7 @@ The simplest kind of telescope consists of a concave
 mirror to produce images, and a magnifying glass, called an _eyepiece_,
 through which to examine them; but for convenience' sake, so that the
 observer may not stand in his own light, a small mirror is frequently
-added to this combination, as at `H` in Fig. 39, where the lines
+added to this combination, as at `H` in [Fig. 39](Chapter-VIII.md#fig39), where the lines
 represent the directions along which the energy is propagated. By
 reflection from this mirror the focal plane and the images are shifted
 to `F`, where they may be examined from one side through the magnifying
@@ -245,7 +245,7 @@ one in which the images are produced by a lens or combination of lenses
 is called a _refracting_ telescope, the adjective having reference to
 the bending, refraction, produced by the glass upon the direction in
 which the energy is propagated. The customary arrangement of parts in
-such a telescope is shown in Fig. 40, where the part marked `O` is
+such a telescope is shown in [Fig. 40](Chapter-VIII.md#fig40), where the part marked `O` is
 called the objective and `V E` (the magnifying glass) is the eyepiece,
 or ocular, as it is sometimes called.
 
@@ -259,7 +259,7 @@ and blue images much inferior in sharpness of outline (definition) to
 the images made by a good concave mirror. To remedy this defect it is
 customary to make the objective of two or more pieces of glass of
 different densities and ground to different shapes as is shown at `O` in
-Fig. 40. The two pieces of glass thus mounted in one frame constitute a
+[Fig. 40](Chapter-VIII.md#fig40). The two pieces of glass thus mounted in one frame constitute a
 compound lens having its own focal plane, shown at `F` in the figure,
 and similarly the lenses composing the eyepiece have a focal plane
 between the eyepiece and the objective which must also fall at `F`, and
@@ -274,7 +274,7 @@ carefully done with every telescope in order to obtain distinct vision.
 The amount by which a given telescope magnifies
 depends upon the focal length of the objective (or mirror) and the focal
 length of the eyepiece, and is equal to the ratio of these two
-quantities. Thus in Fig. 40 the distance of the objective from the focal
+quantities. Thus in [Fig. 40](Chapter-VIII.md#fig40) the distance of the objective from the focal
 plane `F` is about 16 times as great as the distance of the eyepiece
 from the same plane, and the magnifying power of this telescope is
 therefore 16 diameters. A magnifying power of 16 diameters means that
@@ -316,7 +316,7 @@ no other support than the hand, to the giant which must have a special
 roof to shelter it and elaborate machinery to support and direct it
 toward the sky. But for even the largest telescopes this machinery
 consists of the following parts, which are illustrated, with exception
-of the last one, in the small equatorial telescope shown in Fig. 41. It
+of the last one, in the small equatorial telescope shown in [Fig. 41](Chapter-VIII.md#fig41). It
 is not customary to place a driving clock on so small a telescope as
 this:
 
@@ -352,11 +352,11 @@ earth about its axis will speedily carry the telescope away from the
 star, but if the driving clock be started, its effect is to turn the
 telescope toward the west just as fast as the earth's rotation carries
 it toward the east, and by these compensating motions to keep it
-directed toward the star. In Fig. 42, which represents the largest and
+directed toward the star. In [Fig. 42](Chapter-VIII.md#fig42), which represents the largest and
 one of the most perfect refracting telescopes ever built, let the
 student pick out and identify the several parts of the mounting above
 described. A part of the driving clock may be seen within the head of
-the pier. In Fig. 43 trace out the corresponding parts in the mounting
+the pier. In [Fig. 43](Chapter-VIII.md#fig43) trace out the corresponding parts in the mounting
 of a reflecting telescope.
 
 ![FIG. 43.--The reflecting telescope of the Paris Observatory.][fig43]
@@ -387,7 +387,7 @@ substitute the sensitive plate in place of the observer at a telescope.
 A refracting telescope may also be used for astronomical photography,
 and is very much used, but some complications occur here on account of
 the resolution of the light into its constituent colors in passing
-through the objective. Fig. 44 shows such a telescope, or rather two
+through the objective. [Fig. 44](Chapter-VIII.md#fig44) shows such a telescope, or rather two
 telescopes, one photographic, the other visual, supported side by side
 upon the same equatorial mounting.
 
@@ -479,12 +479,12 @@ spectroscopes which are used for analyzing the light from feeble
 sources, such as a star, or a candle flame, a glass prism of triangular
 cross section is usually employed to resolve the light into its
 component colors, which it does by refracting it as shown at the edges
-of the lens in Fig. 38.
+of the lens in [Fig. 38](Chapter-VIII.md#fig38).
 
 ![FIG. 45.--Resolution of light into its component colors.][fig45]
 
 The course of a beam of light in passing through such a prism is shown
-in Fig. 45. Note that the bending of the light from its original course
+in [Fig. 45](Chapter-VIII.md#fig45). Note that the bending of the light from its original course
 into a new one, which is here shown as produced by the prism, is quite
 similar to the bending shown at the edges of a lens and comes from the
 same cause, the slower velocity of light in glass than in air. It takes
@@ -524,7 +524,7 @@ and confused one with another in a very objectionable manner. To avoid
 this difficulty there is placed between the prism and the source of
 light an opaque screen, _S_, with a very narrow slit cut in it, through
 which all the light to be analyzed must pass and must also go through a
-lens, _A_, placed between the slit and the prism, as shown in Fig. 46.
+lens, _A_, placed between the slit and the prism, as shown in [Fig. 46](Chapter-VIII.md#fig46).
 The slit and lens, together with the tube in which they are usually
 supported, are called a _collimator_. By this device a very limited
 amount of light is permitted to pass from the object through the slit
@@ -544,13 +544,13 @@ fine parallel lines ruled upon its surface at equal intervals, one from
 another. It is by virtue of such a system of fine parallel grooves that
 mother-of-pearl displays its beautiful color effects, and a brilliant
 spectrum of great purity and high dispersion is furnished by a grating
-ruled with from 10,000 to 20,000 lines to the inch. Fig. 47 represents,
+ruled with from 10,000 to 20,000 lines to the inch. [Fig. 47](Chapter-VIII.md#fig47) represents,
 rather crudely, a part of the spectrum of an arc light furnished by such
 a grating, or rather it shows three different spectra arranged side by
 side, and looking something like a rude ladder. The sides of the ladder
 are the spectra furnished by the incandescent carbons of the lamp, and
 the cross pieces are the spectrum of the electric arc filling the space
-between the carbons. Fig. 48 shows a continuation of the same spectra
+between the carbons. [Fig. 48](Chapter-VIII.md#fig48) shows a continuation of the same spectra
 into a region where the radiant energy is invisible to the eye, but is
 capable of being photographed.
 
@@ -568,7 +568,7 @@ spectroscope_, since it furnishes to each point of the slit a sample of
 the radiant energy coming from every part of the source of light, and
 thus produces only an average spectrum of that source without
 distinction of its parts. When a spectroscope is attached to a
-telescope, as is often done (see Fig. 49), the eyepiece is removed to
+telescope, as is often done (see [Fig. 49](Chapter-VIII.md#fig49)), the eyepiece is removed to
 make way for it, and the telescope objective takes the part of the
 analyzing lens. A camera is frequently combined with such an apparatus
 to photograph the spectra it furnishes, and the whole instrument is then
@@ -608,13 +608,13 @@ of these wave lengths only, and we find in the spectrum a series of
 bright lines, pictures of the slit produced by light of these particular
 wave lengths, while between these bright lines lie dark spaces showing
 the absence from the radiant energy of light of intermediate wave
-lengths. Such a spectrum is shown in the central portion of Fig. 47,
+lengths. Such a spectrum is shown in the central portion of [Fig. 47](Chapter-VIII.md#fig47),
 which, as we have already seen, is produced by the space between the
 carbons of the arc lamp. On the other hand, if the molecules are closely
 packed together under pressure they so interfere with each other as to
 give off a jumble of energy of all wave lengths, and this is translated
 by the spectroscope into a continuous ribbon of light with no dark
-spaces intervening, as in the upper and lower parts of Figs. 47 and 48,
+spaces intervening, as in the upper and lower parts of Figs. [47](Chapter-VIII.md#fig47) and [48](Chapter-VIII.md#fig48),
 produced by the incandescent solid carbons of the lamp. These two types
 are known as the continuous and discontinuous spectrum, and we may lay
 down the following principle regarding them:
@@ -631,7 +631,7 @@ considerable pressure or of great extent.
 A second principle is: The lines which appear in a spectrum are
 characteristic of the source from which the light came--e. g., the
 double line in the yellow part of the spectrum at the extreme left in
-Fig. 47 is produced by sodium vapor in and around the electric arc and
+[Fig. 47](Chapter-VIII.md#fig47) is produced by sodium vapor in and around the electric arc and
 is never produced by anything but sodium. When by laboratory experiments
 we have learned the particular set of lines corresponding to iron, we
 may treat the presence of these lines in another spectrum as proof that
@@ -662,7 +662,7 @@ unless great care is taken in assigning the exact position of these
 lines in the spectrum, confusion and wrong identifications are sure to
 result. For the measurement of the required wave length a tenth meter
 ([§ 75](Chapter-VIII.md#75-radiant-energy)) is the unit employed, and a scale of wave lengths expressed in
-this unit is presented in Fig. 50. The accuracy with which some of these
+this unit is presented in [Fig. 50](Chapter-VIII.md#fig50). The accuracy with which some of these
 wave lengths are determined is truly astounding; a ten-billionth of an
 inch! These numerical wave lengths save all necessity for referring to
 the color of any part of the spectrum, and pictures of spectra for
@@ -672,7 +672,7 @@ scientific use are not usually printed in colors.
 
 There is another kind of spectrum, of greater
 importance than either of those above considered, which is well
-illustrated by the spectrum of sunlight (Fig. 50). This is a nearly
+illustrated by the spectrum of sunlight ([Fig. 50](Chapter-VIII.md#fig50)). This is a nearly
 continuous spectrum crossed by numerous _dark_ lines due to absorption
 of radiant energy in a comparatively cool gas through which it passes on
 its way to the spectroscope. Fraunhofer, who made the first careful
@@ -687,11 +687,11 @@ and bears a very intimate relation to the dark `D` line of the solar
 spectrum.
 
 The student who has access to colored crayons should color one edge of
-Fig. 50 in accordance with the lettering there given and, so far as
+[Fig. 50](Chapter-VIII.md#fig50) in accordance with the lettering there given and, so far as
 possible, he should make the transition from one color to the next a
 gradual one, as it is in the rainbow.
 
-Fig. 50 is far from being a complete representation of the spectrum of
+[Fig. 50](Chapter-VIII.md#fig50) is far from being a complete representation of the spectrum of
 sunlight. Not only does this spectrum extend both to the right and to
 the left into regions invisible to the human eye, but within the limits
 of the figure, instead of the seventy-five lines there shown, there are
@@ -700,7 +700,7 @@ conspicuous can be shown in such a cut as this.
 
 The dark lines which appear in the spectrum of sunlight can, under
 proper conditions, be made to appear in the spectrum of an arc light,
-and Fig. 51 shows a magnified representation of a small part of such a
+and [Fig. 51](Chapter-VIII.md#fig51) shows a magnified representation of a small part of such a
 spectrum adjacent to the `D` (sodium) lines. Down the middle of each of
 these lines runs a black streak whose position (wave length) is
 precisely that of the `D` lines in the spectrum of sunlight, and whose
@@ -713,7 +713,7 @@ dark line corresponding exactly in position and wave length to the
 bright lines, and seen against these as a background, since the higher
 temperature at the center of the arc tends to broaden the bright lines
 and make them diffuse. Similarly the dark lines in the spectrum of the
-sun (Fig. 50) point to the existence of a surrounding envelope of
+sun ([Fig. 50](Chapter-VIII.md#fig50)) point to the existence of a surrounding envelope of
 relatively cool gases, which absorb from the sunlight precisely those
 kinds of radiant energy which they would themselves emit if
 incandescent. The resulting dark lines in the spectrum are to be
@@ -730,7 +730,7 @@ spectra.
 ### 88. TYPES OF SPECTRUM
 
 The sun presents by far the most complex
-spectrum known, and Fig. 50 shows only a small number of the more
+spectrum known, and [Fig. 50](Chapter-VIII.md#fig50) shows only a small number of the more
 conspicuous lines which appear in it. Spectra of stars, _per contra_,
 appear relatively simple, since their feeble light is insufficient to
 bring out faint details. In chapters [XIII](Chapter-XIII.md) and [XIV](Chapter-XIV.md) there are shown types
@@ -786,7 +786,7 @@ displacement, as if one spectrum had been slipped past the other. The
 difficulty of the observations lies in the extremely small amount of
 this slipping, which rarely if ever in the case of a moving star amounts
 to one sixth part of the interval between the close parallel lines
-marked `D` in Fig. 50. The spectral lines furnished by the headlight of
+marked `D` in [Fig. 50](Chapter-VIII.md#fig50). The spectral lines furnished by the headlight of
 a locomotive running at the rate of a hundred miles per hour would be
 displaced by this motion less than one six-thousandth part of the space
 between the `D` lines, an amount absolutely imperceptible in the most
@@ -798,7 +798,7 @@ may be detected and measured by means of the Doppler principle.
 
 Other instruments of importance to the
 astronomer, but of which only casual mention can here be made, are the
-meridian-circle; the transit, one form of which is shown in Fig. 52, and
+meridian-circle; the transit, one form of which is shown in [Fig. 52](Chapter-VIII.md#fig52), and
 the zenith telescope, which furnish refined methods for making
 observations similar in kind to those which the student has already
 learned to make with plumb line and protractor; the sextant, which is
@@ -811,6 +811,12 @@ is used for measuring the amount of light received from the celestial
 bodies.
 
 [![FIG. 52.--A combined transit instrument and zenith telescope.][fig52]](assets/i174-full.jpg)
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [img6]: assets/i148.jpg "PLATE I. THE NORTHERN CONSTELLATIONS"
 [fig38]: assets/i152.png "FIG. 38.--Illustrating the theory of lenses."

@@ -28,7 +28,7 @@ planet moves always in the same direction around a circular orbit having
 the earth at its center, and so it was said to move around in a small
 circular orbit, called an epicycle, whose center was situated upon
 and moved along a circular orbit, called the deferent, within which the
-earth was placed, as is shown in Fig. 18, where the small circle is the
+earth was placed, as is shown in [Fig. 18](Chapter-IV.md#fig18), where the small circle is the
 epicycle, the large circle is the deferent, _P_ is the planet, and _E_
 the earth. When this proved inadequate to account for the really
 complicated movements of the planets, another epicycle was put on top of
@@ -69,7 +69,7 @@ points which are called its foci.
 
 In the case of the planetary orbits one focus of the ellipse is vacant,
 and, in accordance with the first law, the center of the sun is at the
-other focus. In Fig. 17 the dot, inside the orbit of Mercury, which is
+other focus. In [Fig. 17](Chapter-III.md#fig17) the dot, inside the orbit of Mercury, which is
 marked `a`, shows the position of the vacant focus of the orbit of Mars,
 and the dot `b` is the vacant focus of Mercury's orbit. The orbits of
 Venus and the earth are so nearly circular that their vacant foci lie
@@ -87,7 +87,7 @@ If both pins were driven into the same hole, what kind of an ellipse
 would you get?
 
 The Second Law was worked out by Kepler as his answer to a problem
-suggested by the first law. In Fig. 17 it is apparent from a mere
+suggested by the first law. In [Fig. 17](Chapter-III.md#fig17) it is apparent from a mere
 inspection of the orbit of Mercury that this planet travels much faster
 on one side of its orbit than on the other, the distance covered in ten
 days between the numbers 10 and 20 being more than fifty per cent
@@ -104,7 +104,7 @@ sector, the short radii vectores being spread apart so as to include a
 long arc between them while the long radii vectores have a short arc. In
 Kepler's form of stating the law the radius vector is supposed to travel
 with the planet and in each day to sweep over the same fractional part
-of the total area of the orbit. The spacing of the numbers in Fig. 17
+of the total area of the orbit. The spacing of the numbers in [Fig. 17](Chapter-III.md#fig17)
 was done by means of this law.
 
 For the proper understanding of Kepler's Third Law we must note that the
@@ -231,7 +231,7 @@ the ground? What would be the velocity just before reaching the ground?
 
 [![GALILEO GALILEI (1564-1642).][img3]](assets/i070-full.jpg)
 
-Fig. 19 shows the path through the air of a ball which has been struck
+[Fig. 19](Chapter-IV.md#fig19) shows the path through the air of a ball which has been struck
 by a bat at the point `A`, and started off in the direction `A B` with a
 velocity of 200 feet per second. In accordance with the first law of
 motion, if it were acted upon by no other force than the impulse given
@@ -354,7 +354,7 @@ toward the body?
 
 ### 38. THE MOTION OF A PLANET
 
-In Fig. 20 `S` represents the sun and `P` a
+In [Fig. 20](Chapter-IV.md#fig20) `S` represents the sun and `P` a
 planet or other celestial body, which for the moment is moving along the
 straight line `P 1`. In accordance with the first law of motion it would
 continue to move along this line with uniform velocity if no external
@@ -434,7 +434,7 @@ this way that astronomers are able to predict, years in advance, in what
 particular part of the sky a given planet will appear at a given time.
 
 It is sometimes a source of wonder that the planets move in ellipses
-instead of circles, but it is easily seen from Fig. 20 that the planet,
+instead of circles, but it is easily seen from [Fig. 20](Chapter-IV.md#fig20) that the planet,
 `P`, could not by any possibility move in a circle, since the direction
 of its motion at _P_ is not at right angles with the line joining it to
 the sun as it must be in a circular orbit, and even if it were
@@ -446,7 +446,7 @@ required to make a pin stand upon its point, and the really surprising
 thing is that the orbits of the planets should be so nearly circular as
 they are. If the orbit of the earth were drawn accurately to scale, the
 untrained eye would not detect the slightest deviation from a true
-circle, and even the orbit of Mercury (Fig. 17), which is much more
+circle, and even the orbit of Mercury ([Fig. 17](Chapter-III.md#fig17)), which is much more
 eccentric than that of the earth, might almost pass for a circle.
 
 ![FIG. 21. An impossible orbit.][fig21]
@@ -456,7 +456,7 @@ the law of gravitation that a body might move under the sun's attraction
 in a hyperbola as well as in a parabola or ellipse; but it must move in
 some one of these curves; no other orbit is possible.[^1] Thus it would
 not be possible for a body moving under the law of gravitation to
-describe about the sun any such orbit as is shown in Fig. 21. If the
+describe about the sun any such orbit as is shown in [Fig. 21](Chapter-IV.md#fig21). If the
 body passes a second time through any point of its orbit, such as `P` in
 the figure, then it must retrace, time after time, the whole path that
 it first traversed in getting from `P` around to `P` again--i. e., the
@@ -537,7 +537,7 @@ and disturbed bodies is a matter of great consequence, for the smaller
 the distance the greater the force. When, therefore, the mass of a
 planet such as Jupiter is to be determined from the perturbations it
 produces, it is customary to select some such opportunity as is
-presented in Fig. 22, where one of the small planets, called asteroids,
+presented in [Fig. 22](Chapter-IV.md#fig22), where one of the small planets, called asteroids,
 is represented as moving in a very eccentric orbit, which at one point
 approaches close to the orbit of Jupiter, and at another place comes
 near to the orbit of the earth. For the most part Jupiter will not exert
@@ -657,7 +657,7 @@ But rotation is not the only influence that tends to pull a planet out
 of shape. The attraction which the earth exerts upon the moon is
 stronger on the near side and weaker on the far side of our satellite
 than at its center, and this difference of attraction tends to warp the
-moon, as is illustrated in Fig. 23 where `1`, `2`, and `3` represent
+moon, as is illustrated in [Fig. 23](Chapter-IV.md#fig23) where `1`, `2`, and `3` represent
 pieces of iron of equal mass placed in line on a table near a horseshoe
 magnet, `H`. Each piece of iron is attracted by the magnet and is held
 back by a weight to which it is fastened by means of a cord running over
@@ -683,7 +683,7 @@ far as the resistance of the cords will permit.
 ![FIG. 23.--Tide-raising forces.][fig23]
 
 An entirely analogous set of forces produces a similar effect upon the
-shape of the moon. The elastic cords of Fig. 23 stand for the attraction
+shape of the moon. The elastic cords of [Fig. 23](Chapter-IV.md#fig23) stand for the attraction
 of gravitation by which all the parts of the moon are bound together.
 The magnet represents the earth pulling with unequal force upon
 different parts of the moon. The weights are the inertia of the moon in
@@ -704,7 +704,7 @@ strains, which shift rapidly from one diameter to another as different
 parts of the earth are turned toward the moon, and it is chiefly the
 waters of the sea which respond to the distorting effect of the sun's
 and moon's attraction. These are heaped up on opposite sides of the
-earth so as to produce a slight elongation of its diameter, and Fig. 24
+earth so as to produce a slight elongation of its diameter, and [Fig. 24](Chapter-IV.md#fig24)
 shows how by the earth's rotation this swelling of the waters is swept
 out from under the moon and is pulled back by the moon until it finally
 takes up some such position as that shown in the figure where the effect
@@ -762,6 +762,12 @@ the law and traced out its consequences, we do not know; but whether it
 be the one or the other, this and other similar cases show that even
 here, in its most perfect chapter, astronomy still remains an incomplete
 science.
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [img2]: assets/i062.jpg "ISAAC NEWTON (1643-1727)."
 [img3]: assets/i070.jpg "GALILEO GALILEI (1564-1642)."

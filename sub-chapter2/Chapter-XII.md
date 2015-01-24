@@ -52,16 +52,16 @@ and 1898 is distinguished by the discovery of ten of these bodies, the
 largest number ever found in one year. On the average, we may expect a
 new comet to be found about once in every ten weeks, but for the most
 part they are small affairs, visible only in the telescope, and a fine
-large one, like Donati's comet of 1858 (Fig. 101), or the Great Comet of
+large one, like Donati's comet of 1858 ([Fig. 101](Chapter-XII.md#fig101)), or the Great Comet of
 September, 1882, which was visible in broad daylight close beside the
 sun, is a rare spectacle, and as striking and impressive as it is rare.
 
 [![FIG. 102.--Some famous comets.][fig102]](assets/i287-full.jpg)
 
-Note in Fig. 102 the great variety of aspect presented by some of the
+Note in [Fig. 102](Chapter-XII.md#fig102) the great variety of aspect presented by some of the
 more famous comets, which are here represented upon a very small scale.
 
-Fig. 103 is from a photograph of one of the faint comets of the year
+[Fig. 103](Chapter-XII.md#fig103) is from a photograph of one of the faint comets of the year
 1893, which appears here as a rather feeble streak of light amid the
 stars which are scattered over the background of the picture. An
 apparently detached portion of this comet is shown at the extreme left
@@ -71,9 +71,9 @@ of a bright meteor that chanced to pass within the range of the camera
 while the comet was being photographed.
 
 A more striking representation of a moderately bright telescopic comet
-is contained in Figs. 104 and 105, which present two different views of
+is contained in Figs. [104](Chapter-XII.md#fig104) and [105](Chapter-XII.md#fig105), which present two different views of
 the same comet, showing a considerable change in its appearance. A
-striking feature of Fig. 105 is the star images, which are here drawn
+striking feature of [Fig. 105](Chapter-XII.md#fig105) is the star images, which are here drawn
 out into short lines all parallel with each other. During the exposure
 of 2h. 20m. required to imprint this picture upon the photographic
 plate, the comet was continually changing its position among the stars
@@ -96,7 +96,7 @@ streams away from it is called the comet's _tail_.
 ### 160. THE PARTS OF A COMET
 
 It is not every comet that has a tail,
-though all the large ones do, and in Fig. 103 the detached piece of
+though all the large ones do, and in [Fig. 103](Chapter-XII.md#fig103) the detached piece of
 cometary matter at the left of the picture represents very well the
 appearance of a tailless comet, a rather large but not very bright star
 of a fuzzy or hairy appearance. The word comet means long-haired or
@@ -104,10 +104,10 @@ hairy star. Something of this vagueness of outline is found in all
 comets, whose exact boundaries are hard to define, instead of being
 sharp and clean-cut like those of a planet or satellite. Often,
 however, there is found in the head of a comet a much more solid
-appearing part, like the round white ball at the center of Fig. 106,
+appearing part, like the round white ball at the center of [Fig. 106](Chapter-XII.md#fig106),
 which is called the nucleus of the comet, and appears to be in some sort
-the center from which its activities radiate. As shown in Figs. 106 and
-107, the nucleus is sometimes surrounded by what are called envelopes,
+the center from which its activities radiate. As shown in Figs. [106](Chapter-XII.md#fig106) and
+[107](Chapter-XII.md#fig107), the nucleus is sometimes surrounded by what are called envelopes,
 which have the appearance of successive wrappings or halos placed about
 it, and odd, spurlike projections, called jets, are sometimes found in
 connection with the envelopes or in place of them. These figures also
@@ -117,10 +117,10 @@ hollow, a mere shell surrounding empty space.
 
 [![FIG. 104.--Swift's comet, April 17, 1892.--BARNARD.][fig104]](assets/i289-full.jpg)
 
-The amount of detail shown in Figs. 106 and 107 is, however, quite
-exceptional, and the ordinary comet is much more like Fig. 103 or 104.
+The amount of detail shown in Figs. [106](Chapter-XII.md#fig106) and [107](Chapter-XII.md#fig107) is, however, quite
+exceptional, and the ordinary comet is much more like Figs. [103](Chapter-XII.md#fig103) and [104](Chapter-XII.md#fig104).
 Even a great comet when it first appears is not unlike the detached
-fragment in Fig. 103, a faint and roundish patch of foggy light which
+fragment in [Fig. 103](Chapter-XII.md#fig103), a faint and roundish patch of foggy light which
 grows through successive stages to its maximum estate, developing a
 tail, nucleus, envelopes, etc., only to lose them again as it shrinks
 and finally disappears.
@@ -157,7 +157,7 @@ presented when it is nearest to the sun.
 
 [![FIG. 106.--Head of Coggia's comet, July 13, 1874.--TROUVELOT.][fig106]](assets/i291-full.jpg)
 
-Fig. 108 shows the path of the Great Comet of 1882 during the period in
+[Fig. 108](Chapter-XII.md#fig108) shows the path of the Great Comet of 1882 during the period in
 which it was seen, from September 3, 1882, to May 26, 1883. These
 dates--IX, 3, and V, 26--are marked in the figure opposite the parts of
 the orbit in which the comet stood at those times. Similarly, the
@@ -197,14 +197,14 @@ of the orbit in its plane, and the remaining two, which are of more
 interest to us, are the date at which the comet makes its nearest
 approach to the sun (_perihelion passage_) and its distance from the sun
 at that date (_perihelion distance_). The date, September 17th, placed
-near the center of Fig. 108, is the former of these elements, while the
+near the center of [Fig. 108](Chapter-XII.md#fig108), is the former of these elements, while the
 latter, which is too small to be accurately measured here, may be found
-from Fig. 109 to be 0.82 of the sun's diameter, or, in terms of the
+from [Fig. 109](Chapter-XII.md#fig109) to be 0.82 of the sun's diameter, or, in terms of the
 earth's distance from the sun, 0.008.
 
 ![FIG. 108.--Orbits of the earth and the Great Comet of 1882.][fig108]
 
-Fig. 109 shows on a large scale the shape of that part of the orbit near
+[Fig. 109](Chapter-XII.md#fig109) shows on a large scale the shape of that part of the orbit near
 the sun and gives the successive positions of the comet, at intervals of
 2/10 of a day, on September 16th and 17th, showing that in less than 10
 hours--17.0 to 17.4--the comet swung around the sun through an angle of
@@ -237,18 +237,18 @@ probably not more than 2 or 3 per cent are ever discovered.
 
 ### 163. DIMENSIONS OF COMETS
 
-The comet whose orbit is shown in Figs. 108
-and 109 is the finest and largest that has appeared in recent years. Its
+The comet whose orbit is shown in Figs. [108](Chapter-XII.md#fig108) and [109](Chapter-XII.md#fig109)
+is the finest and largest that has appeared in recent years. Its
 tail, which at its maximum extent would have more than bridged the space
 between sun and earth (100,000,000 miles), is made very much too short
-in Fig. 109, but when at its best was probably not inferior to that of
-the Great Comet of 1843, shown in Fig. 110. As we shall see later,
+in [Fig. 109](Chapter-XII.md#fig109), but when at its best was probably not inferior to that of
+the Great Comet of 1843, shown in [Fig. 110](Chapter-XII.md#fig110). As we shall see later,
 there is a peculiar and special relationship between these two comets.
 
 The head of the comet of 1882 was not especially large--about twice the
 diameter of the ball of Saturn--but its nucleus, according to an
 estimate made by Dr. Elkin when it was very near perihelion, was as
-large as the moon. The head of the comet shown in Fig. 107 was too large
+large as the moon. The head of the comet shown in [Fig. 107](Chapter-XII.md#fig107) was too large
 to be put in the space between the earth and the moon, and the Great
 Comet of 1811 had a head considerably larger than the sun itself. From
 these colossal sizes down to the smallest shred just visible in the
@@ -277,7 +277,7 @@ average density of the head under these circumstances must have been
 less than 1/1500 of the density of air. In ordinary laboratory practice
 this would be called a pretty good vacuum. A striking observation made
 on September 17, 1882, goes to confirm the very small density of this
-comet. It is shown in Fig. 109 that early on that day the comet crossed
+comet. It is shown in [Fig. 109](Chapter-XII.md#fig109) that early on that day the comet crossed
 the line joining earth and sun, and therefore passed in transit over the
 sun's disk. Two observers at the Cape of Good Hope saw the comet
 approach the sun, and followed it with their telescopes until the
@@ -404,7 +404,7 @@ appearance, far more conspicuous and imposing than the ordinary shooting
 star. Such a one exploded over the city of Madrid, Spain, on the morning
 of February 10, 1896, giving in broad sunlight "a brilliant flash which
 was followed ninety seconds later by a succession of terrific noises
-like the discharge of a battery of artillery." Fig. 111 shows a large
+like the discharge of a battery of artillery." [Fig. 111](Chapter-XII.md#fig111) shows a large
 meteor which was seen in California in the early evening of July 27,
 1894, and which left behind it a luminous trail or cloud visible for
 more than half an hour.
@@ -477,8 +477,8 @@ particular part of the heavens, as if here were a hole in the sky
 through which they were introduced, and from which they flow away in
 every direction, even those which do not visibly start from this place
 having paths among the stars which, if prolonged backward, would pass
-through it. The cause of this appearance may be understood from Fig.
-112, which represents a group of meteors moving together along parallel
+through it. The cause of this appearance may be understood from [Fig. 112](Chapter-XII.md#fig112), 
+which represents a group of meteors moving together along parallel
 paths toward an observer at `D`. Traveling unseen above the earth until
 they encounter the upper strata of its atmosphere, they here become
 incandescent and speed on in parallel paths, `1`, `2`, `3`, `4`, `5`,
@@ -497,7 +497,7 @@ ones. Query: As the night wears on and the stars shift toward the west,
 will the radiant share in their motion or will it be left behind? Would
 the luminous part of the path of any of these meteors pass across the
 radiant from one side to the other? Is such a crossing of the radiant
-possible under any circumstances? Fig. 113 shows how the meteor paths
+possible under any circumstances? [Fig. 113](Chapter-XII.md#fig113) shows how the meteor paths
 are grouped around the radiant of a strongly marked shower. Select from
 it the meteors which do not belong to this shower.
 
@@ -505,8 +505,8 @@ it the meteors which do not belong to this shower.
 
 Many hundreds of these radiants have been observed in the sky, each of
 which represents an orbit along which a group of meteors moves, and the
-relation of one of these orbits to that of the earth is shown in Fig.
-114. The orbit of the meteors is an ellipse extending out beyond the
+relation of one of these orbits to that of the earth is shown in [Fig. 114](Chapter-XII.md#fig114). 
+The orbit of the meteors is an ellipse extending out beyond the
 orbit of Uranus, but so eccentric that a part of it comes inside the
 orbit of the earth, and the figure shows only that part of it which lies
 nearest the sun. The Roman numerals which are placed along the earth's
@@ -582,7 +582,7 @@ earth. The fact that the Leonid shower is repeated at intervals of 33 or
 34 years (it appeared in 1799, 1832-'33, 1866-'67) shows that this is
 the "periodic time" in its orbit, which latter must of course be an
 ellipse, and presumably a long and narrow one. It is this orbit which is
-shown in Fig. 114, and the student should note in this figure that if
+shown in [Fig. 114](Chapter-XII.md#fig114), and the student should note in this figure that if
 the meteor stream at the point where it cuts through the plane of the
 earth's orbit were either nearer to or farther from the sun than is the
 earth there could be no shower; the earth and the meteors would pass by
@@ -602,7 +602,7 @@ present time uncertain.
 ### 173. CAPTURE OF THE LEONIDS
 
 But a far more striking effect of
-perturbations is to be found in Fig. 115, which shows the relation of
+perturbations is to be found in [Fig. 115](Chapter-XII.md#fig115), which shows the relation of
 the Leonid orbit to those of the principal planets, and illustrates a
 curious chapter in the history of the meteor swarm that has been worked
 out by mathematical analysis, and is probably a pretty good account of
@@ -705,7 +705,7 @@ of the comet's velocity, for we have already learned that it is this
 velocity which determines the character of the orbit, and anything less
 than the velocity appropriate to a parabola must produce an
 ellipse--i. e., a closed orbit around which the body will revolve time
-after time in endless succession. We note in Fig. 115 that when the
+after time in endless succession. We note in [Fig. 115](Chapter-XII.md#fig115) that when the
 Leonid swarm encountered Uranus it passed _in front of_ the planet and
 had its velocity diminished and its orbit changed into an ellipse
 thereby. It might have passed behind Uranus, it would have passed behind
@@ -715,7 +715,7 @@ hyperbola, and it would have left the solar system more rapidly than it
 came into it, thrust out instead of held in by the disturbing planet. Of
 such cases we can expect no record to remain, but the captured comet is
 its own witness to what has happened, and bears imprinted upon its orbit
-the brand of the planet which slowed down its motion. Thus in Fig. 115
+the brand of the planet which slowed down its motion. Thus in [Fig. 115](Chapter-XII.md#fig115)
 the changed orbit of the meteors has its _aphelion_ (part remotest from
 the sun) quite close to the orbit of Uranus, and one of its nodes, ℧,
 the point in which it cuts through the plane of the ecliptic from north
@@ -726,7 +726,7 @@ capture is found by working back with their respective periodic times to
 an epoch at which planet and comet were simultaneously near this node.
 
 Jupiter, by reason of his great mass, is an especially efficient
-capturer of comets, and Fig. 116 shows his group of captives, his
+capturer of comets, and [Fig. 116](Chapter-XII.md#fig116) shows his group of captives, his
 family of comets as they are sometimes called. The several orbits are
 marked with the names commonly given to the comets. Frequently this is
 the name of their discoverer, but often a different system is
@@ -814,7 +814,7 @@ considerable percentage of them have their velocities slowed down
 within the solar system, perhaps not so much by the attraction of the
 planets as by the resistance offered to their motion by meteor particles
 and swarms along their paths. A striking instance of what may befall a
-comet in this way is shown in Fig. 117, where the tail of a comet
+comet in this way is shown in [Fig. 117](Chapter-XII.md#fig117), where the tail of a comet
 appears sadly distorted and broken by what is presumed to have been a
 collision with a meteor swarm. A more famous case of impeded motion is
 offered by the comet which bears the name of Encke. This has a periodic
@@ -850,8 +850,8 @@ the small density of comets, and prepares us in their case for an
 outflow of particles at both ends of the diameter directed toward the
 sun. Something of this kind actually occurs, for the tail of a comet
 streams out on the side opposite to the sun, and in general points away
-from the sun, as is shown in Fig. 109, and the envelopes and jets rise
-up toward the sun; but an inspection of Fig. 106 will show that the tail
+from the sun, as is shown in [Fig. 109](Chapter-XII.md#fig109), and the envelopes and jets rise
+up toward the sun; but an inspection of [Fig. 106](Chapter-XII.md#fig106) will show that the tail
 and the envelope are too unlike to be produced by one and the same set
 of forces.
 
@@ -890,7 +890,7 @@ in the direction opposite to the sun with different velocities, the
 heavy ones slowly and the light ones faster, much as particles of smoke
 stream away from a smokestack, making for the comet a tail which like a
 trail of smoke is composed of constantly changing particles. The result
-of this process is shown in Fig. 118, where the positions of the comet
+of this process is shown in [Fig. 118](Chapter-XII.md#fig118), where the positions of the comet
 in its orbit on successive days are marked by the Roman numerals, and
 the broken lines represent the paths of molecules \(m^{I}\), \(m^{II}\),
 \(m^{III}\), etc., expelled from it on their several dates and traveling
@@ -911,12 +911,12 @@ carbon and iron, would be repelled as strongly by the electric forces,
 but they would be more strongly pulled back by the gravitative forces,
 thus producing a much slower separation between them and the head of the
 comet. Construct a figure such as the above, in which the molecules
-shall recede from the comet only one eighth as fast as in Fig. 118, and
+shall recede from the comet only one eighth as fast as in [Fig. 118](Chapter-XII.md#fig118), and
 note what a different position it gives to the comet's tail. Instead of
 pointing directly away from the sun, it will be bent strongly to one
 side, as is the large plume-shaped tail of the Donati comet shown in
-Fig. 101. But observe that this comet has also a nearly straight tail,
-like the theoretical one of Fig. 118. We have here two distinct types of
+[Fig. 101](Chapter-XII.md#fig101). But observe that this comet has also a nearly straight tail,
+like the theoretical one of [Fig. 118](Chapter-XII.md#fig118). We have here two distinct types of
 comet tails, and according to Bredichin there is still another but
 unusual type, even more strongly bent to one side of the line joining
 comet and sun, and appearing quite short and stubby. The existence of
@@ -957,7 +957,7 @@ away as independent though small comets and other more recent comets
 have been seen to do the same. An even more striking phenomenon was the
 gradual breaking up of the nucleus of the same comet, 1882, II, into a
 half dozen nuclei arranged in line like beads upon a string, and
-pointing along the axis of the tail. See Fig. 119, which shows the
+pointing along the axis of the tail. See [Fig. 119](Chapter-XII.md#fig119), which shows the
 series of changes observed in the head of this comet.
 
 ### 182. COMETS AND THE SPECTROSCOPE
@@ -968,7 +968,7 @@ much progress has been made toward an understanding of it. In general it
 consists of two quite distinct parts--first, a faint background of
 continuous spectrum due to ordinary sunlight reflected from the comet;
 and, second, superposed upon this, three bright bands like the carbon
-band shown at the middle of Fig. 48, only not so sharply defined. These
+band shown at the middle of [Fig. 48](Chapter-VIII.md#fig48), only not so sharply defined. These
 bands make a discontinuous spectrum quite similar to that given off by
 compounds of hydrogen and carbon, and of course indicate that a part of
 the comet's light originates in the body itself, which must therefore be
@@ -1031,6 +1031,12 @@ any such result as the wrecking of the earth, or the destruction of all
 life upon it, does not seem probable. The 40 meteors of [§ 169](Chapter-XII.md#169-great-meteors) may stand
 for a collision with a small comet. Consult the Bible (Joshua x, 11) for
 an example of what might happen with a larger one.
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [fig101]: assets/i286.jpg "FIG. 101.--Donati's comet.--BOND."
 [fig102]: assets/i287.jpg "FIG. 102.--Some famous comets."

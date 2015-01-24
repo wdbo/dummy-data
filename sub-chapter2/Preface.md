@@ -54,3 +54,9 @@ Dr. Charles Boynton, who has kindly read and criticised the proofs.
 
 UNIVERSITY OF WISCONSIN, _February, 1901_.
 
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
+

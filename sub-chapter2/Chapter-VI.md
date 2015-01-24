@@ -76,7 +76,7 @@ which is perfectly uniform in its lapse and which, by comparison with
 sidereal time, loses exactly one day per year. "The time" in this system
 never differs much from true solar time, and the difference between the
 two for any particular day may be found in any good almanac, or may be
-read from the curve in Fig. 30, in which the part of the curve above the
+read from the curve in [Fig. 30](Chapter-VI.md#fig30), in which the part of the curve above the
 line marked _0m_ shows how many minutes mean solar time is faster than
 true solar time. The correct name for this difference between the two
 kinds of solar time is the _equation of time_, but in the almanacs it is
@@ -160,7 +160,7 @@ meridian. Solar time is the angular distance of the sun past the
 meridian. Sidereal time was determined by observing transits of stars
 over a meridian line actually laid out upon the ground, etc. But every
 place upon the earth has its own meridian from which "the time" may be
-reckoned, and in Fig. 31, where the rays of sunlight are represented as
+reckoned, and in [Fig. 31](Chapter-VI.md#fig31), where the rays of sunlight are represented as
 falling upon a part of the earth's equator through which the meridians
 of New York, Chicago, and San Francisco pass, it is evident that these
 rays make different angles with the meridians, and that the sun is
@@ -168,8 +168,8 @@ farther from the meridian of New York than from that of San Francisco by
 an amount just equal to the angle at _O_ between these meridians. This
 angle is called by geographers the difference of longitude between the
 two places, and the student should note that the word longitude is here
-used in a different sense from that on page 36. From Fig. 31 we obtain
-the
+used in a different sense from that [*[on § 27](#27-a-typical-case-of-planetary-motion)]*]. 
+From [Fig. 31](Chapter-VI.md#fig31) we obtain the
 
 ##### Theorem
 The difference between "the times" at any two meridians is
@@ -199,7 +199,7 @@ Greenwich, England.
     Mountain "      7  "      "     "    "         "
     Pacific  "      8  "      "     "    "         "
 
-In Fig. 32 the broken lines indicate roughly the parts of the United
+In [Fig. 32](Chapter-VI.md#fig32) the broken lines indicate roughly the parts of the United
 States and Canada in which these several kinds of time are used, and
 illustrate how irregular are the boundaries of these parts.
 
@@ -211,7 +211,7 @@ to the almost complete exclusion of local time.
 
 With an ordinary watch observe the time
 of the sun's transit over your local meridian, and correct the observed
-time for the equation of time by means of the curve in Fig. 30. The
+time for the equation of time by means of the curve in [Fig. 30](Chapter-VI.md#fig30). The
 difference between the corrected time and 12 o'clock will be the
 correction of your watch referred to local mean solar time. Compare your
 watch with the time signals in the nearest telegraph office and find its
@@ -459,6 +459,12 @@ the lapse of time the student may consult the articles Calendar and
 Chronology in any good encyclopædia.
 
 [![THE YERKES OBSERVATORY, WILLIAMS BAY, WIS.][img5]](assets/i122-full.jpg)
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [img5]: assets/i122.jpg "THE YERKES OBSERVATORY, WILLIAMS BAY, WIS."
 [fig30]: assets/i109.png "FIG. 30.--The equation of time."

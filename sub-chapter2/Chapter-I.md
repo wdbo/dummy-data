@@ -66,7 +66,7 @@ which is usually written 30°, at three o'clock it is 90°, at six o'clock
 180°, etc.
 
 A watch may be used to measure angles. How? But a more convenient
-instrument is the protractor, which is shown in Fig. 1, applied to the
+instrument is the protractor, which is shown in [Fig. 1](Chapter-I.md#fig1), applied to the
 angle `A B C` and showing that `A B C = 85°` as nearly as the protractor
 scale can be read.
 
@@ -91,7 +91,7 @@ sum falls short of 180°, as in the following example:
 
 |           | Measured angles. | Correction. | Corrected angles. |
 |           |   °              |    °        |     °             |
-|-----------|:----------------:|:-----------:|:-----------------:|
+|-----------|:----------------:|:------------|-------------------|
 | A         |  73.4            |  + 0.1      |    73.5           |
 | B         |  49.3            |  + 0.1      |    49.4           |
 | C         |  57.0            |  + 0.1      |    57.1           |
@@ -112,7 +112,7 @@ between lines drawn from the instrument to two distant objects, such as
 two church steeples or the sun and moon, and this is usually called the
 angle between the objects. By measuring angles in this way it is
 possible to determine the distance to an inaccessible point, as shown in
-Fig. 2. A surveyor at `A` desires to know the distance to `C`, on the
+[Fig. 2](Chapter-I.md#fig2). A surveyor at `A` desires to know the distance to `C`, on the
 opposite side of a river which he can not cross. He measures with a tape
 line along his own side of the stream the distance `A B = 100 yards` and
 then, with a suitable instrument, measures the angle at `A` between the
@@ -140,7 +140,7 @@ expect the results to agree.
 ![FIG. 3.--Finding the moon's distance from the earth.][fig3]
 
 In the same manner, by sighting at the moon from widely different parts
-of the earth, as in Fig. 3, the moon's distance from us is found to be
+of the earth, as in [Fig. 3](Chapter-I.md#fig3), the moon's distance from us is found to be
 about a quarter of a million miles. What is the base line in this case?
 
 ### 4. THE HORIZON--ALTITUDES
@@ -186,7 +186,7 @@ a watch or clock observe the time at which the two shadows coincide.
 Without lifting the board from the plane, turn it around so that the
 opposite edge is directed toward the sun and set a third pin just as the
 second one was placed, and again take the time. Remove the pins and draw
-fine pencil lines, connecting the holes, as shown in Fig. 4, and with
+fine pencil lines, connecting the holes, as shown in [Fig. 4](Chapter-I.md#fig4), and with
 the protractor measure the angle thus marked. The student who has
 studied elementary geometry should be able to demonstrate that at the
 mean of the two recorded times the sun's altitude was equal to one half
@@ -210,13 +210,13 @@ in it.
 ### 6. GRAPHICAL REPRESENTATIONS
 
 Make a graph (drawing) of all the
-observations, similar to Fig. 5, and find by bisecting a set of chords
+observations, similar to [Fig. 5](Chapter-I.md#fig5), and find by bisecting a set of chords
 `g` to `g`, `e` to `e`, `d` to `d`, drawn parallel to `B B`, the time at
-which the sun's altitude was greatest. In Fig. 5 we see from the
+which the sun's altitude was greatest. In [Fig. 5](Chapter-I.md#fig5) we see from the
 intersection of `M M` with `B B` that this time was `11h. 50m`.
 
 The method of graphs which is here introduced is of great importance in
-physical science, and the student should carefully observe in Fig. 5
+physical science, and the student should carefully observe in [Fig. 5](Chapter-I.md#fig5)
 that the line `B B` is a scale of times, which may be made long or
 short, provided only the intervals between consecutive hours 9 to 10, 10
 to 11, 11 to 12, etc., are equal. The distance of each little circle
@@ -229,7 +229,7 @@ not necessary, for such diagrams. It is especially to be noted that from
 the few observations which are represented in the figure a smooth curve
 has been drawn through the circles which represent the sun's altitude,
 and this curve shows the altitude of the sun at every moment between 9
-A. M. and 3 P. M. In Fig. 5 the sun's altitude at noon was `57°`. What was
+A. M. and 3 P. M. In [Fig. 5](Chapter-I.md#fig5) the sun's altitude at noon was `57°`. What was
 it at half past two?
 
 ![FIG. 5.--A graph of the sun's altitude.][fig5]
@@ -254,6 +254,12 @@ The astronomer who measures with an appropriate instrument the angle
 subtended by the moon may in an entirely similar manner find the moon's
 diameter and has, in fact, found it to be `2,163 miles`. Can the same
 method be used to find the diameter of the sun? A planet? The earth?
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [fig1]: assets/i016.png "FIG. 1.--A protractor." 
 [fig2]: assets/i017.png "FIG. 2.--Triangulation."

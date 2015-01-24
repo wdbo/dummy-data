@@ -149,4 +149,10 @@ See [§ 20](Chapter-II.md#20-time).
 
 ![PROTRACTOR TO ACCOMPANY COMSTOCK'S ASTRONOMY][img13]
 
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
+
 [img13]: assets/i431.jpg "PROTRACTOR TO ACCOMPANY COMSTOCK'S ASTRONOMY"

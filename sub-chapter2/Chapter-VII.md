@@ -16,7 +16,7 @@ between him and the sun, and casts upon his broad surface a shadow too
 small to cover more than a fraction of it.
 
 But the eclipses of most interest to us are those of the sun and moon,
-called respectively solar and lunar eclipses. In Fig. 33 the full moon,
+called respectively solar and lunar eclipses. In [Fig. 33](Chapter-VII.md#fig33) the full moon,
 `M´`, is shown immersed in the shadow cast by the earth, and therefore
 eclipsed, and in the same figure the new moon, `M`, is shown as casting
 its shadow upon the earth and producing an eclipse of the sun. From a
@@ -55,7 +55,7 @@ the earth would they be visible?
 ### 64. THE SHADOW CONE
 
 The shape and position of the earth's shadow are
-indicated in Fig. 33 by the lines drawn tangent to the circles which
+indicated in [Fig. 33](Chapter-VII.md#fig33) by the lines drawn tangent to the circles which
 represent the sun and earth, since it is only between these lines that
 the earth interferes with the free radiation of sunlight, and since both
 sun and earth are spheres, and the earth is much the smaller of the two,
@@ -98,7 +98,7 @@ one class, which is called central eclipses, since in these eclipses the
 line of centers of sun and moon strikes the earth, while in ordinary
 partial eclipses it passes to one side of the earth without striking it.
 In this latter case we have to consider another cone called the
-_penumbra_--i. e., partial shadow--which is shown in Fig. 33 by the
+_penumbra_--i. e., partial shadow--which is shown in [Fig. 33](Chapter-VII.md#fig33) by the
 broken lines tangent to the sun and moon, and crossing at the point `V`,
 which is the vertex of this cone. This penumbral cone includes within
 its surface all that region of space within which the moon cuts off any
@@ -123,7 +123,7 @@ those parts of the earth nearest the axis of the shadow?
 
 One marked
 difference between lunar and solar eclipses which has been already
-suggested, may be learned from Fig. 33. The full moon, `M´`, will be
+suggested, may be learned from [Fig. 33](Chapter-VII.md#fig33). The full moon, `M´`, will be
 seen eclipsed from every part of the earth where it is visible at all at
 the time of the eclipse--that is, from the whole night side of the
 earth; while the eclipsed sun will be seen eclipsed only from those
@@ -140,7 +140,7 @@ hand, the earth coming between sun and moon cuts off the light from the
 latter, but, curiously enough, does not cut it off so completely that
 the moon disappears altogether from sight even in mid-eclipse. The
 explanation of this continued visibility is furnished by the broken
-lines extending, in Fig. 33, from the earth through the moon. These
+lines extending, in [Fig. 33](Chapter-VII.md#fig33), from the earth through the moon. These
 represent sunlight, which, entering the earth's atmosphere near the edge
 of the earth (edge as seen from sun and moon), passes through it and
 emerges in a changed direction, refracted, into the shadow cone and
@@ -162,7 +162,7 @@ were heavily laden with clouds?
 
 We may regard the moon's shadow cone as a
 huge pencil attached to the moon, moving with it along its orbit in the
-direction of the arrowhead (Fig. 34), and as it moves drawing a black
+direction of the arrowhead ([Fig. 34](Chapter-VII.md#fig34)), and as it moves drawing a black
 line across the face of the earth at the time of total eclipse. This
 black line is the path of the shadow and marks out those regions within
 which the eclipse will be total at some stage of its progress. If the
@@ -200,7 +200,7 @@ the equator.
 
 The duration of a lunar eclipse depends mainly upon the position of the
 moon with respect to the earth's shadow. If it strikes the shadow
-centrally, as at `M´`, Fig. 33, a total eclipse may last for about two
+centrally, as at `M´`, [Fig. 33](Chapter-VII.md#fig33), a total eclipse may last for about two
 hours, with an additional hour at the beginning and end, during which
 the moon is entering and leaving the earth's shadow. If the moon meets
 the shadow at one side of the axis, as at `P`, the total phase of the
@@ -213,7 +213,7 @@ totality may be anything from two hours downward.
 
 To show why the moon
 sometimes encounters the earth's shadow centrally and more frequently at
-full moon passes by without touching it at all, we resort to Fig. 34,
+full moon passes by without touching it at all, we resort to [Fig. 34](Chapter-VII.md#fig34),
 which represents a part of the orbit of the earth about the sun, with
 dates showing the time in each year at which the earth passes the part
 of its orbit thus marked. The orbit of the moon about the earth, `M M´`,
@@ -342,7 +342,7 @@ eclipse of the moon.
 It is the custom of astronomers to prepare, in
 advance of the more important eclipses, maps showing the trace of the
 moon's shadow across the earth, and indicating the times of beginning
-and ending of the eclipses, as is shown in Fig. 35. While the actual
+and ending of the eclipses, as is shown in [Fig. 35](Chapter-VII.md#fig35). While the actual
 construction of such a map requires much technical knowledge, the
 principles involved are simple enough: the straight line passed through
 the center of sun and moon is the axis of the shadow cone, and the map
@@ -390,7 +390,7 @@ gives the total duration of the eclipse upon the earth--i. e., 5 hours
 ### 71. FUTURE ECLIPSES
 
 An eclipse map of a different kind is shown in
-Fig. 36, which represents the shadow paths of all the central eclipses
+[Fig. 36](Chapter-VII.md#fig36), which represents the shadow paths of all the central eclipses
 of the sun, visible during the period 1900-1918 A. D., in those parts of
 the earth north of the south temperate zone. Each continuous black line
 shows the path of the shadow in a total eclipse, from its beginning, at
@@ -406,7 +406,7 @@ If we examine the dates of the eclipses shown in this map we shall find
 that they are not limited to the particular seasons, May and November,
 in which those of the year 1900 occurred, but are scattered through all
 the months of the year, from January to December. This shows at once
-that the line of nodes, `N´ N´´`, of Fig. 34, does not remain in a fixed
+that the line of nodes, `N´ N´´`, of [Fig. 34](Chapter-VII.md#fig34), does not remain in a fixed
 position, but turns round in the plane of the earth's orbit so that in
 different years the earth reaches the node in different months. The
 precession has already furnished us an illustration of a similar change,
@@ -414,7 +414,7 @@ the slow rotation of the earth's axis, producing a corresponding
 shifting of the line in which the planes of the equator and ecliptic
 intersect; and in much the same way, through the disturbing influence of
 the sun's attraction, the line `N´ N´´` is made to revolve westward,
-opposite to the arrowheads in Fig. 34, at the rate of nearly 20° per
+opposite to the arrowheads in [Fig. 34](Chapter-VII.md#fig34), at the rate of nearly 20° per
 year, so that the earth comes to each node about 19 days earlier in each
 year than in the year preceding, and the eclipse season in each year
 comes on the average about 19 days earlier than in the year before,
@@ -430,9 +430,9 @@ method is that if we start with any eclipse whatever--e. g., the eclipse
 of May 28, 1900--and reckon forward or backward from that date a period
 of 18 years and 10 or 11 days, we shall find another eclipse quite
 similar in its general characteristics to the one with which we started.
-Thus, from the map of eclipses (Fig. 36), we find that a total solar
+Thus, from the map of eclipses ([Fig. 36](Chapter-VII.md#fig36)), we find that a total solar
 eclipse will occur on June 8, 1918, 18 years and 11 days after the one
-illustrated in Fig. 35. This period of 18 years and 11 days is called
+illustrated in [Fig. 35](Chapter-VII.md#fig35). This period of 18 years and 11 days is called
 _saros_, an ancient word which means cycle or repetition, and since
 every eclipse is repeated after the lapse of a saros, we may find the
 dates of all the eclipses of 1918 by adding 11 days to the dates given
@@ -468,7 +468,7 @@ relative to the node, than it was at the beginning, and the resulting
 eclipse, while very similar, is not precisely the same as before. After
 another 18 years, at the second repetition, the earth is a day farther
 from the node than at first, and the eclipse differs still more in
-character, etc. This is shown in Fig. 37, which represents the apparent
+character, etc. This is shown in [Fig. 37](Chapter-VII.md#fig37), which represents the apparent
 positions of the disks of the sun and moon as seen from the center of
 the earth at the end of each sixth saros, 108 years, where the upper row
 of figures represents the number of repetitions of the eclipse from the
@@ -501,7 +501,7 @@ the saros, but at the end of the saros the odd 0.32 of a day gives the
 earth time to make about a third of a revolution more before the eclipse
 is repeated, and in consequence the eclipse is seen in a different
 region of the earth, on the average about 116° farther west in
-longitude. Compare in Fig. 36 the regions in which the eclipses of 1900
+longitude. Compare in [Fig. 36](Chapter-VII.md#fig36) the regions in which the eclipses of 1900
 and 1918 are visible.
 
 Is this change in the region where the repeated eclipse is visible, true
@@ -565,6 +565,12 @@ was introduced into chronology. At many other points the chance record
 of an eclipse in the early annals of civilization furnishes a similar
 means of controlling and correcting the dates assigned by the historian
 to events long past.
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [fig33]: assets/i125.png "FIG. 33.--Different kinds of eclipse."
 [fig34]: assets/i131.png "FIG. 34.--Relation of the lunar nodes to eclipses."

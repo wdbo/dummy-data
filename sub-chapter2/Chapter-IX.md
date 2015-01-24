@@ -74,16 +74,16 @@ than he has given to the subject:
 ### 92. THE MOON'S MOTION
 
 The student should compare the results of his
-own observations, as well as the preceding section, with Fig. 53, in
+own observations, as well as the preceding section, with [Fig. 53](Chapter-IX.md#fig53), in
 which the lines with dates printed on them are all supposed to radiate
 from the sun and to represent the direction from the sun of earth and
 moon upon the given dates which are arbitrarily assumed for the sake of
 illustration, any other set would do equally well. The black dots, small
 and large, represent the moon revolving about the earth, but having the
-circular path shown in Fig. 34 (ellipse) transformed by the earth's
+circular path shown in [Fig. 34](Chapter-VII.md#fig34) (ellipse) transformed by the earth's
 forward motion into the peculiar sinuous line here shown. With respect
 to both earth and sun, the moon's orbit deviates but little from a
-circle, since the sinuous curve of Fig. 53 follows very closely the
+circle, since the sinuous curve of [Fig. 53](Chapter-IX.md#fig53) follows very closely the
 earth's orbit around the sun and is almost identical with it. For
 clearness of representation the distance between earth and moon in the
 figure has been made ten times too great, and to get a proper idea of
@@ -100,13 +100,13 @@ indicated by the row of circles at the right, and the student should
 show why a new moon is associated with June 30th and a full moon with
 July 15th, etc. What was the date of first quarter? Third quarter?
 
-We may find in Fig. 53 another effect of the same kind as that noted
+We may find in [Fig. 53](Chapter-IX.md#fig53) another effect of the same kind as that noted
 above in C. Between noon, June 30th, and noon, July 3d, the earth makes
 upon its axis three complete revolutions with respect to the sun, but
 the meridian which points toward the moon at noon on June 30th will not
 point toward it at noon on July 3d, since the moon has moved into a new
 position and is now 37° away from the meridian. Verify this statement by
-measuring, in Fig. 53, with the protractor, the moon's angular distance
+measuring, in [Fig. 53](Chapter-IX.md#fig53), with the protractor, the moon's angular distance
 from the meridian at noon on July 3d. When will the meridian overtake
 the moon?
 
@@ -158,7 +158,7 @@ enable us to go a step farther and to "weigh" the moon--i. e., determine
 its mass and the average density of the material of which it is made.
 
 We have seen that the moon moves around the sun in a path differing but
-little from the smooth curve shown in Fig. 53, with arrows indicating
+little from the smooth curve shown in [Fig. 53](Chapter-IX.md#fig53), with arrows indicating
 the direction of motion, and it would follow absolutely such a smooth
 path were it not for the attraction of the earth, and in less degree of
 some of the other planets, which swing it about first to one side then
@@ -299,7 +299,7 @@ to find that here, as in so many other cases, the thing we learn first
 is only approximately true and needs to be limited or added to or
 modified in some way. In general, Nature is too complex to be completely
 understood at first sight or to be perfectly represented by a simple
-statement. In Fig. 55 we have two photographs of the moon, taken nearly
+statement. In [Fig. 55](Chapter-IX.md#fig55) we have two photographs of the moon, taken nearly
 three years apart, the right-hand one a little after first quarter and
 the left-hand one a little before third quarter. They therefore
 represent different parts of the moon's surface, but along the ragged
@@ -350,7 +350,7 @@ same face toward the earth. This latter fact can have but one meaning:
 the moon revolves about an axis as does the earth, but the time required
 for this revolution is just equal to the time required to make a
 revolution in its orbit. Place two coins upon a table with their heads
-turned toward the north, as in Fig. 54, and move the smaller one around
+turned toward the north, as in [Fig. 54](Chapter-IX.md#fig54), and move the smaller one around
 the larger in such a way that its face shall always look away from the
 larger one. In making one revolution in its orbit the head on this small
 coin will be successively directed toward every point of the compass,
@@ -364,7 +364,7 @@ the small coin at any time moves faster or slower in its orbit than it
 turns about its axis, a new side will be turned toward the center, and
 the same may happen if the central coin itself shifts into a new
 position. This is what happens to the moon, for its orbital motion, like
-that of Mercury (Fig. 17), is alternately fast and slow, and in addition
+that of Mercury ([Fig. 17](Chapter-III.md#fig17)), is alternately fast and slow, and in addition
 to this there are present other minor influences, such as the fact that
 its rotation axis is not exactly perpendicular to the plane of its
 orbit; in addition to this the observer upon the earth is daily carried
@@ -398,7 +398,7 @@ although not wholly unlike it. The most characteristic feature of the
 earth's surface is its division into land and water, and nothing of this
 kind can be found upon the moon. It is true that the first generation of
 astronomers who studied the moon with telescopes fancied that the large
-dark patches shown in Fig. 55 were bodies of water, and named them
+dark patches shown in [Fig. 55](Chapter-IX.md#fig55) were bodies of water, and named them
 oceans, seas, lakes, and ponds, and to the present day we keep those
 names, although it is long since recognized that these parts of the
 moon's surface are as dry as any other. Their dark appearance indicates
@@ -414,7 +414,7 @@ craters. These we find in great number all over the moon, but, as the
 figure shows, they are seen to the best advantage near the
 _terminator_--i. e., the dividing line between day and night, since the
 long shadows cast here by the rising or setting sun bring out the
-details of the surface better than elsewhere. Carefully examine Fig. 55
+details of the surface better than elsewhere. Carefully examine [Fig. 55](Chapter-IX.md#fig55)
 with reference to these features.
 
 [![FIG. 55.--The moon at first and last quarter. Lick Observatory photographs.][fig55]](assets/i191-full.jpg)
@@ -422,7 +422,7 @@ with reference to these features.
 Another feature which exists upon both earth and moon, although far less
 common there than here, is illustrated in the chain of mountains visible
 near the terminator, a little above the center of the moon in both parts
-of Fig. 55. This particular range of mountains, which is called the
+of [Fig. 55](Chapter-IX.md#fig55). This particular range of mountains, which is called the
 Lunar Apennines, is by far the most prominent one upon the moon,
 although others, the Alps and Caucasus, exist. But for the most part the
 lunar mountains stand alone, each by itself, instead of being grouped
@@ -434,7 +434,7 @@ lowlands are buried in the shadow.
 A subordinate feature of the moon's surface is the system of _rays_
 which seem to radiate like spokes from some of the larger craters,
 extending over hill and valley sometimes for hundreds of miles. A
-suggestion of these rays may be seen in Fig. 55, extending from the
+suggestion of these rays may be seen in [Fig. 55](Chapter-IX.md#fig55), extending from the
 great crater Copernicus a little southwest of the end of the Apennines,
 but their most perfect development is to be seen at the time of full
 moon around the crater Tycho, which lies near the south pole of the
@@ -447,12 +447,12 @@ Western country.
 
 ### 101. THE MAP OF THE MOON
 
-Fig. 55 furnishes a fairly good map of a
+[Fig. 55](Chapter-IX.md#fig55) furnishes a fairly good map of a
 limited portion of the moon near the terminator, but at the edges little
 or no detail can be seen. This is always true; the whole of the moon can
 not be seen to advantage at any one time, and to remedy this we need to
 construct from many photographs or drawings a map which shall represent
-the several parts of the moon as they appear at their best. Fig. 56
+the several parts of the moon as they appear at their best. [Fig. 56](Chapter-IX.md#fig56)
 shows such a map photographed from a relief model of the moon, and
 representing the principal features of the lunar surface in a way they
 can never be seen simultaneously. Perhaps its most striking feature is
@@ -472,7 +472,7 @@ the northern. It furnishes, too, some indication of how numerous are the
 lunar craters, and how in crowded regions they overlap one another.
 
 The student should pick out upon the map those features which he has
-learned to know in the photograph (Fig. 55)--the Apennines, Copernicus,
+learned to know in the photograph ([Fig. 55](Chapter-IX.md#fig55))--the Apennines, Copernicus,
 and the continuation of the Apennines, extending into the dark part of
 the moon.
 
@@ -497,39 +497,39 @@ trifle over 56 miles. At the eastern edge of the moon, opposite the
 Apennines, is a large oval spot called the Mare Crisium (Latin, _ma-re_
 = sea). Measure its length. The large crater to the northwest of the
 Apennines is called Archimedes. Measure its diameter both in the map and
-in the photograph (Fig. 55), and see how the two results agree. The true
+in the photograph ([Fig. 55](Chapter-IX.md#fig55)), and see how the two results agree. The true
 diameter of this crater, east and west, is very approximately 50 miles.
 The great smooth surface to the west of Archimedes is the Mare Imbrium.
-Is it larger or smaller than Lake Superior? Fig. 57 is from a photograph
+Is it larger or smaller than Lake Superior? [Fig. 57](Chapter-IX.md#fig57) is from a photograph
 of the Mare Imbrium, and the amount of detail here shown at the bottom
 of the sea is a sufficient indication that, in this case at least, the
 water has been drawn off, if indeed any was ever present.
 
 [![FIG. 58.--Mare Crisium. Lick Observatory photographs.][fig58]](assets/i195-full.jpg)
-Fig. 58 is a representation of the Mare Crisium at a time when night was
+[Fig. 58](Chapter-IX.md#fig58) is a representation of the Mare Crisium at a time when night was
 beginning to encroach upon its eastern border, and it serves well to
 show the rugged character of the ring-shaped wall which incloses this
 area.
 
 With these pictures of the smoother parts of the moon's surface we may
-compare Fig. 59, which shows a region near the north pole of the moon,
-and Fig. 60, giving an early morning view of Archimedes and the
+compare [Fig. 59](Chapter-IX.md#fig59), which shows a region near the north pole of the moon,
+and [Fig. 60](Chapter-IX.md#fig60), giving an early morning view of Archimedes and the
 Apennines. Note how long and sharp are the shadows.
 [![FIG. 59.--Illustrating the rugged character of the moon's surface.--NASMYTH and CARPENTER.][fig59]](assets/i196-full.jpg)
 
 ### 103. THE MOON'S ATMOSPHERE
 
 Upon the earth the sun casts no shadows so
-sharp and black as those of Fig. 60, because his rays are here scattered
+sharp and black as those of [Fig. 60](Chapter-IX.md#fig60), because his rays are here scattered
 and reflected in all directions by the dust and vapors of the
 atmosphere ([§ 51](Chapter-V.md#51-the-twilight)), so that the place from which direct sunlight is cut
 off is at least partially illumined by this reflected light. The shadows
-of Fig. 60 show that upon the moon it must be otherwise, and suggest
+of [Fig. 60](Chapter-IX.md#fig60) show that upon the moon it must be otherwise, and suggest
 that if the moon has any atmosphere whatever, its density must be
 utterly insignificant in comparison with that of the earth. In its
 motion around the earth the moon frequently eclipses stars (_occults_ is
 the technical word), and if the moon had an atmosphere such as is shown
-in Fig. 61, the light from the star _A_ must shine through this
+in [Fig. 61](Chapter-IX.md#fig61), the light from the star _A_ must shine through this
 atmosphere just before the moon's advancing body cuts it off, and it
 must be refracted by the atmosphere so that the star would appear in a
 slightly different direction (nearer to _B_) than before. The earth's
@@ -550,10 +550,10 @@ landscapes.
 ### 104. HEIGHT OF THE LUNAR MOUNTAINS
 
 Attention has already been called
-to the detached mountain peaks, which in Fig. 55 prolong the range of
+to the detached mountain peaks, which in [Fig. 55](Chapter-IX.md#fig55) prolong the range of
 Apennines into the lunar night. These are the beginnings of the Caucasus
 mountains, and from the photograph we may measure as follows the height
-to which they rise above the surrounding level of the moon: Fig. 62
+to which they rise above the surrounding level of the moon: [Fig. 62](Chapter-IX.md#fig62)
 represents a part of the lunar surface along the boundary line between
 night and day, the horizontal line at the top of the figure representing
 a level ray of sunlight which just touches the moon at `T` and barely
@@ -575,7 +575,7 @@ or
 \[h (feet) = 2.44 s^{2}\]
 
 The distance _s_ must be expressed in miles in all of these equations.
-In Fig. 55 the distance from the terminator to the first detached peak
+In [Fig. 55](Chapter-IX.md#fig55) the distance from the terminator to the first detached peak
 of the Caucasus mountains is 1.7 millimeters = 52 miles, from which we
 find the height of the mountain to be 1.25 miles, or 6,600 feet.
 
@@ -597,7 +597,7 @@ peak appears in the lunar morning or disappears in the evening if we are
 to measure the altitude of the mountain's summit. Measure the height of
 the most northern visible mountain of the Caucasus range. This is one of
 the outlying spurs of the great mountain Calippus, whose principal peak,
-19,000 feet high, is shown in Fig. 55 as the brightest part of the
+19,000 feet high, is shown in [Fig. 55](Chapter-IX.md#fig55) as the brightest part of the
 Caucasus range.
 
 The highest peak of the lunar Apennines, Huyghens, has an altitude of
@@ -616,7 +616,7 @@ measured by means of the shadows which fall into them.
 
 ### 105. CRATERS
 
-Fig. 63 shows a typical lunar crater, and conveys a good
+[Fig. 63](Chapter-IX.md#fig63) shows a typical lunar crater, and conveys a good
 idea of the ruggedness of the lunar landscape. Compare the appearance of
 this crater with the following generalizations, which are based upon the
 accurate measurement of many such:
@@ -722,7 +722,7 @@ question whether changes of this sort large enough to be seen from the
 earth are in progress. A crater much less than a mile wide can be seen
 in the telescope, but it is not easy to tell whether so minute an object
 has changed in size or shape during a year or a decade, and even if
-changes are seen they may be apparent rather than real. Fig. 64 contains
+changes are seen they may be apparent rather than real. [Fig. 64](Chapter-IX.md#fig64) contains
 two views of the crater Archimedes, taken under a morning and an
 afternoon sun respectively, and shows a very pronounced difference
 between the two which proceeds solely from a difference of illumination.
@@ -758,6 +758,12 @@ within the range of ordinary observation, and we shall not go far wrong
 in saying that, save the moonlight and the tides, every supposed lunar
 influence upon the earth is either fictitious or too small to be readily
 detected.
+
+----
+
+"A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
+
+Public domain.
 
 [img7]: assets/i176.jpg "THE MOON, ONE DAY AFTER FIRST QUARTER. From a photograph made at the Paris Observatory."
 [fig53]: assets/i180.png "FIG. 53.--Motion of moon and earth relative to the sun."
