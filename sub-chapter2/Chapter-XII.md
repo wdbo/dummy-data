@@ -1037,23 +1037,3 @@ an example of what might happen with a larger one.
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[fig101]: assets/i286.jpg "FIG. 101.--Donati's comet.--BOND."
-[fig102]: assets/i287.jpg "FIG. 102.--Some famous comets."
-[fig103]: assets/i288.jpg "FIG. 103.--Brooks's comet, November 13, 1893. BARNARD."
-[fig104]: assets/i289.jpg "FIG. 104.--Swift's comet, April 17, 1892.--BARNARD."
-[fig105]: assets/i290.jpg "FIG. 105.--Swift's comet, April 24, 1892.--BARNARD."
-[fig106]: assets/i291.jpg "FIG. 106.--Head of Coggia's comet, July 13, 1874.--TROUVELOT."
-[fig107]: assets/i292.jpg "FIG. 107.--Head of Donati's comet, September 30, October 2, 1858.--BOND."
-[fig108]: assets/i293.png "FIG. 108.--Orbits of the earth and the Great Comet of 1882."
-[fig109]: assets/i294.png "FIG. 109.--Motion of the Great Comet of 1883 in passing around the sun."
-[fig110]: assets/i295.jpg "FIG. 110.--The Great Comet of 1843."
-[fig111]: assets/i301.jpg "FIG. 111.--The California meteor of July 27, 1894."
-[fig112]: assets/i303.jpg "FIG. 112.--Explanation of the radiant of a meteoric shower.--DENNING."
-[fig113]: assets/i304.jpg "FIG. 113.--The radiant of a meteoric shower, showing also the paths of three meteors which do not belong to this shower.--DENNING."
-[fig114]: assets/i305.jpg "FIG. 114.--The orbits of the earth and the November meteors."
-[fig115]: assets/i309.jpg "FIG. 115.--Supposed capture of the November meteors by Uranus."
-[fig116]: assets/i313.jpg "FIG. 116.--Jupiter's family of comets."
-[fig117]: assets/i316.jpg "FIG. 117.--Brooks's comet, October 21, 1893.--BARNARD."
-[fig118]: assets/i319.png "FIG. 118.--Formation of a comet's tail."
-[fig119]: assets/i322.jpg "FIG. 119.--The head of the Great Comet of 1882.--WINLOCK."

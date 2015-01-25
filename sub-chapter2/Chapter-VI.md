@@ -465,8 +465,3 @@ Chronology in any good encyclopædia.
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[img5]: assets/i122.jpg "THE YERKES OBSERVATORY, WILLIAMS BAY, WIS."
-[fig30]: assets/i109.png "FIG. 30.--The equation of time."
-[fig31]: assets/i112.png "FIG. 31.--Longitude and time"
-[fig32]: assets/i113.png "FIG. 32.--Standard time."

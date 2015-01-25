@@ -768,15 +768,3 @@ science.
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[img2]: assets/i062.jpg "ISAAC NEWTON (1643-1727)."
-[img3]: assets/i070.jpg "GALILEO GALILEI (1564-1642)."
-[img4]: assets/i080.jpg "THE LICK OBSERVATORY, MOUNT HAMILTON, CAL."
-
-[fig18]: assets/i064.png "FIG. 18.--Epicycle and deferent."
-[fig19]: assets/i072.png "FIG. 19.--The path of a ball."
-[fig20]: assets/i076.png "FIG. 20.--Different kinds of orbits."
-[fig21]: assets/i078.png "FIG. 21. An impossible orbit."
-[fig22]: assets/i083.png "FIG. 22.--A planet subject to great perturbations by Jupiter."
-[fig23]: assets/i087.png "FIG. 23.--Tide-raising forces."
-[fig24]: assets/i088.png "FIG. 24.--The tides."

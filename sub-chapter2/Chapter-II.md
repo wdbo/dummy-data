@@ -603,12 +603,3 @@ which the meridian and equator respectively intersect the horizon?
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[fig6]: assets/i026a.jpg "FIG. 6. The plumb-line apparatus."
-[fig7]: assets/i026b.jpg "FIG. 7. The plumb-line apparatus."
-[fig8]: assets/i028.jpg "FIG. 8.--Photographing the circumpolar stars.--BARNARD."
-[fig9]: assets/i030.jpg "FIG. 9.--Diurnal motion of the northern constellations."
-[fig10]: assets/i032.jpg "FIG. 10.--From a photograph of the Pleiades."
-[fig11]: assets/i034.png "FIG. 11.--Reference lines and circles."
-[fig12]: assets/i035.png "FIG. 12.--Diurnal path of Polaris."
-[img1]: assets/i038.jpg "THE HARVARD COLLEGE OBSERVATORY, CAMBRIDGE, MASS."

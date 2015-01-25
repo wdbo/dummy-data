@@ -764,17 +764,3 @@ detected.
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[img7]: assets/i176.jpg "THE MOON, ONE DAY AFTER FIRST QUARTER. From a photograph made at the Paris Observatory."
-[fig53]: assets/i180.png "FIG. 53.--Motion of moon and earth relative to the sun."
-[fig54]: assets/i188.png "FIG. 54.--Illustrating the moon's rotation."
-[fig55]: assets/i191.jpg "FIG. 55.--The moon at first and last quarter. Lick Observatory photographs."
-[fig56]: assets/i193.jpg "FIG. 56.--Relief map of the moon's surface.--After NASMYTH and CARPENTER."
-[fig57]: assets/i194.jpg "FIG. 57.--Mare Imbrium. Photographed by G. W. RITCHEY."
-[fig58]: assets/i195.jpg "FIG. 58.--Mare Crisium. Lick Observatory photographs."
-[fig59]: assets/i196.jpg "FIG. 59.--Illustrating the rugged character of the moon's surface.--NASMYTH and CARPENTER."
-[fig60]: assets/i197.jpg "FIG. 60.--Archimedes and Apennines. NASMYTH and CARPENTER."
-[fig61]: assets/i198a.png "FIG. 61.--Occultations and the moon's atmosphere."
-[fig62]: assets/i198b.png "FIG. 62.--Determining the height of a lunar mountain."
-[fig63]: assets/i200.jpg "FIG. 63.--A typical lunar crater.--NASMYTH and CARPENTER."
-[fig64]: assets/i203.jpg "FIG. 64.--Archimedes in the lunar morning and afternoon.--WEINEK."

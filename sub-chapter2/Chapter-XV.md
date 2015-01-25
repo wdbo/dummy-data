@@ -807,6 +807,3 @@ forth by Goethe in the lines:
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[img12]: assets/i401.jpg "PIERRE SIMON LAPLACE (1749-1827)."
-[fig151]: assets/i414.jpg "FIG. 151.--Types of stellar spectra substantially according to SECCHI."

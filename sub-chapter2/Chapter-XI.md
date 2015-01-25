@@ -1093,23 +1093,3 @@ reasonable probability that these conditions may be satisfied.
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[img09]: assets/i265.jpg "WILLIAM HERSCHEL (1738-1822)."
-[img10]: assets/i279.jpg "PLATE III. MAP OF MARS (AFTER SCHIAPARELLI)"
-[fig84]: assets/i243a.png "FIG. 84.--The inner planets and the moon."
-[fig85]: assets/i243b.png "FIG. 85.--The outer planets."
-[fig86]: assets/i247.jpg "FIG. 86.--Jupiter and his satellites."
-[fig87]: assets/i248.jpg "FIG. 87.--Drawings of Jupiter made at the 36-inch telescope of the Lick Observatory.--KEELER."
-[fig88]: assets/i252.png "FIG. 88.--Increase of density in the atmospheres of Jupiter and the earth."
-[fig89]: assets/i254.png "FIG. 89.--Orbits of Jupiter's satellites."
-[fig90]: assets/i255.png "FIG. 90.--Jupiter's satellites compared with the earth and moon."
-[fig91]: assets/i258.jpg "FIG. 91.--Aspects of Saturn's rings."
-[fig92]: assets/i259.png "FIG. 92.--Aspects of the ring in their relation to Saturn's orbital motion."
-[fig93]: assets/i261.jpg "FIG. 93.--Saturn."
-[fig94]: assets/i268.jpg "FIG. 94.--The phases of Venus.--ANTONIADI."
-[fig95]: assets/i272.jpg "FIG. 95.--Mars.--SCHAEBERLE."
-[fig96]: assets/i273.jpg "FIG. 96.--Four views of Mars differing 90° in longitude.--BARNARD."
-[fig97]: assets/i274.jpg "FIG. 97.--The south polar cap of Mars in 1894.--BARNARD."
-[fig98]: assets/i276.jpg "FIG. 98.--The same face of Mars at three different seasons.--LOWELL."
-[fig99]: assets/i278.jpg "FIG. 99.--A chart of Mars, 1898-'99.--CERULLI."
-[fig100]: assets/i282.png "FIG. 100.--The size of the first four asteroids.--BARNARD."

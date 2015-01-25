@@ -868,24 +868,3 @@ be expected in the not distant future.
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[img8]: assets/i219.jpg "PLATE II. THE EQUATORIAL CONSTELLATIONS"
-[fig65]: assets/i210.jpg "FIG. 65.--The sun's size.--YOUNG."
-[fig66]: assets/i215.jpg "FIG. 66.--The sun, August 11, 1894. Photographed at the Goodsell Observatory."
-[fig67]: assets/i216.jpg "FIG. 67.--The sun, August 14, 1894. Photographed at the Goodsell Observatory."
-[fig68]: assets/i217.jpg "FIG. 68.--The sun, August 18, 1894. Photographed at the Goodsell Observatory."
-[fig69]: assets/i221.jpg "FIG. 69.--The sun, August 21, 1894. Photographed at the Goodsell Observatory."
-[fig70]: assets/i222.png "FIG. 70.--Absorption at the sun's edge."
-[fig71]: assets/i223a.jpg "FIG. 71.--Sun spots, August 17, 1894. Goodsell Observatory."
-[fig72]: assets/i223b.jpg "FIG. 72.--Sun spot of March 5, 1873.--From LANGLEY, The New Astronomy. By permission of the publishers."
-[fig73]: assets/i224.jpg "FIG. 73.--Spectroheliograph, showing distribution of faculæ upon the sun.--HALE."
-[fig74]: assets/i225.jpg "FIG. 74.--Eclipse of July 20, 1878.--TROUVELOT."
-[fig75]: assets/i226.jpg "FIG. 75.--Eclipse of April 16, 1893.--SCHAEBERLE."
-[fig76]: assets/i227.jpg "FIG. 76.--Eclipse of January 21, 1898.--CAMPBELL."
-[fig77]: assets/i228.jpg "FIG. 77.--Solar prominence of March 25, 1895.--HALE."
-[fig78]: assets/i229.jpg "FIG. 78.--A solar prominence.--HALE."
-[fig79]: assets/i230.jpg "FIG. 79.--Contrasted forms of solar prominences.--ZOELLNER."
-[fig80]: assets/i231.jpg "FIG. 80.--Prominences and chromosphere.--HALE."
-[fig81]: assets/i236.png "FIG. 81.--The curve of sun-spot frequency."
-[fig82]: assets/i237.png "FIG. 82.--Illustrating change of the sun-spot zones."
-[fig83]: assets/i240.png "FIG. 83.--Effect of the sun's peculiar rotation in warping a meridian, originally straight."

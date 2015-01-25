@@ -571,9 +571,3 @@ to events long past.
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[fig33]: assets/i125.png "FIG. 33.--Different kinds of eclipse."
-[fig34]: assets/i131.png "FIG. 34.--Relation of the lunar nodes to eclipses."
-[fig35]: assets/i135.png "FIG. 35.--The eclipse of May 28, 1900."
-[fig36]: assets/i137.jpg "FIG. 36.--Central eclipses for the first two decades of the twentieth century. OPPOLZER."
-[fig37]: assets/i140.png "FIG. 37.--Graphical illustration of the saros."

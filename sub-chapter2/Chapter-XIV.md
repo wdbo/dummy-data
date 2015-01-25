@@ -683,22 +683,3 @@ fraction of it and them.
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[img11]: assets/i379.jpg "THE PLEIADES (AFTER A PHOTOGRAPH)"
-[fig134]: assets/i367.jpg "FIG. 134.--The spectrum of α Herculis.--ESPIN."
-[fig135]: assets/i369.jpg "FIG 135.--Star cluster in Hercules."
-[fig136]: assets/i370.jpg "FIG. 136.--Star cluster in Hercules.--KEELER."
-[fig137]: assets/i371a.jpg "FIG. 137.--The Andromeda nebula as seen in a very small telescope."
-[fig138]: assets/i371b.jpg "FIG. 138.--The Andromeda nebula and Holmes's comet. Photographed by BARNARD."
-[fig139]: assets/i372a.jpg "FIG. 139.--A drawing of the Andromeda nebula."
-[fig140]: assets/i372b.jpg "FIG. 140.--A photograph of the Andromeda nebula.--ROBERTS."
-[fig141]: assets/i373.jpg "FIG. 141.--Types of nebulæ."
-[fig142]: assets/i374.jpg "FIG. 142.--The Trifid nebula.--KEELER."
-[fig143]: assets/i375.jpg "FIG. 143.--A nebula in Cygnus.--KEELER."
-[fig144]: assets/i376.jpg "FIG. 144.--Spiral nebula in Canes Venatici.--KEELER."
-[fig145]: assets/i377.jpg "FIG. 145.--Great nebula about the star ρ Ophiuchi.--BARNARD."
-[fig146]: assets/i378.jpg "FIG. 146.--The Orion nebula."
-[fig147]: assets/i381.jpg "FIG. 147.--Double nebulæ. HERSCHEL."
-[fig148]: assets/i384.jpg "FIG. 148.--A part of the Milky Way."
-[fig149]: assets/i385.jpg "FIG. 149.--The Milky Way near θ Ophiuchi.--BARNARD."
-[fig150]: assets/i386.jpg "FIG. 150.--The Milky Way near β Cygni.--BARNARD."

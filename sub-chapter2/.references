@@ -1,3 +1,9 @@
+#
+# this a a WebDocBook meta file
+# see <http://webdocbook.com/>
+# comments begin with a sharp
+#
+
 # images
 [img1]: assets/i038.jpg "THE HARVARD COLLEGE OBSERVATORY, CAMBRIDGE, MASS."
 [img2]: assets/i062.jpg "ISAAC NEWTON (1643-1727)."

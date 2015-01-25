@@ -475,9 +475,3 @@ this limit.
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[fig13]: assets/i045.png "FIG. 13.--Star map of the region about Orion."
-[fig14]: assets/i050.png "FIG. 14.--The apparent motion of a planet."
-[fig15]: assets/i052.png "FIG. 15.--The real motion of a planet."
-[fig16]: assets/i053.png "FIG. 16.--The orbits of Jupiter and Saturn."
-[fig17]: assets/i055.png "FIG. 17.--The orbits of the inner planets."

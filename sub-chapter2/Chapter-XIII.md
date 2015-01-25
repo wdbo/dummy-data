@@ -1228,18 +1228,3 @@ present in nebulæ, etc.
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[fig120]: assets/i326.jpg "FIG. 120.--Illustrating the division of the sky into constellations."
-[fig121]: assets/i332.png "FIG. 121.--Determining a star's parallax."
-[fig122]: assets/i335.png "FIG. 122.--Stellar neighbors of the sun."
-[fig123]: assets/i339.jpg "FIG. 123.--Motion of Polaris in the line of sight as determined by the spectroscope. FROST."
-[fig124]: assets/i340.jpg "FIG. 124.--Spectrum of β Aurigæ.--PICKERING."
-[fig125]: assets/i341.jpg "FIG. 125.--Spectrum of Pollux.--PICKERING."
-[fig126]: assets/i342.jpg "FIG. 126.--The Great Dipper, past, present, and future."
-[fig127]: assets/i348.jpg "FIG. 127.--The orbit of α Centauri.--SEE."
-[fig128]: assets/i349.jpg "FIG. 128.--Apparent orbit and real orbit of the double star 42 Comæ Berenicis.--SEE."
-[fig129]: assets/i353.png "FIG. 129.--Illustrating the motion of a spectroscopic binary."
-[fig130]: assets/i357.png "FIG. 130.--The light curve of Algol."
-[fig131]: assets/i358.png "FIG. 131.--The light curve of β Lyræ."
-[fig132]: assets/i359.png "FIG. 132.--The system of β Lyræ.--MYERS."
-[fig133]: assets/i361.jpg "FIG. 133.--Discovery of a variable star by means of photography.--PICKERING."

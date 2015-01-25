@@ -817,20 +817,3 @@ bodies.
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[img6]: assets/i148.jpg "PLATE I. THE NORTHERN CONSTELLATIONS"
-[fig38]: assets/i152.png "FIG. 38.--Illustrating the theory of lenses."
-[fig39]: assets/i153a.png "FIG. 39.--Essential parts of a reflecting telescope."
-[fig40]: assets/i153b.png "FIG. 40.--A simple form of refracting telescope."
-[fig41]: assets/i156.png "FIG. 41.--A simple equatorial mounting."
-[fig42]: assets/i157.jpg "FIG. 42.--Equatorial mounting of the great telescope of the Yerkes Observatory."
-[fig43]: assets/i158.jpg "FIG. 43.--The reflecting telescope of the Paris Observatory."
-[fig44]: assets/i159.png "FIG. 44.--Photographic telescope of the Paris Observatory."
-[fig45]: assets/i162.png "FIG. 45.--Resolution of light into its component colors."
-[fig46]: assets/i164.png "FIG. 46.--Principal parts of a spectroscope."
-[fig47]: assets/i165.jpg "FIG. 47.--Green and blue part of the spectrum of an electric arc light."
-[fig48]: assets/i166.jpg "FIG. 48.--Violet and ultraviolet parts of spectrum of an arc lamp."
-[fig49]: assets/i167.jpg "FIG. 49.--A spectroscope attached to the Yerkes telescope."
-[fig50]: assets/i169.png "FIG. 50.--The chief lines in the spectrum of sunlight.--HERSCHEL."
-[fig51]: assets/i171.jpg "FIG. 51.--The lines reversed."
-[fig52]: assets/i174.jpg "FIG. 52.--A combined transit instrument and zenith telescope."

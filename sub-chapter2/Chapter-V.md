@@ -507,9 +507,3 @@ The Aurora
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[fig25]: assets/i091.png "FIG. 25.--Measuring the size of the earth."
-[fig26]: assets/i093.png "FIG. 26.--Illustrating the principles involved in weighing the earth."
-[fig27]: assets/i103.jpg "FIG. 27.--Flattening of the sun's disk by refraction and by reflection from the surface of the sea."
-[fig28]: assets/i104.png "FIG. 28.--Twilight phenomena."
-[fig29]: assets/i105.png "FIG. 29.--The cause of long and short twilights."

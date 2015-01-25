@@ -260,9 +260,3 @@ method be used to find the diameter of the sun? A planet? The earth?
 "A Text-Book of Astronomy", by *George C. Comstock* from [The Project Gutenberg](http://www.gutenberg.org/).
 
 Public domain.
-
-[fig1]: assets/i016.png "FIG. 1.--A protractor." 
-[fig2]: assets/i017.png "FIG. 2.--Triangulation."
-[fig3]: assets/i018.png "FIG. 3.--Finding the moon's distance from the earth."
-[fig4]: assets/i020.png "FIG. 4.--Taking the sun's altitude."
-[fig5]: assets/i021.png "FIG. 5.--A graph of the sun's altitude."
