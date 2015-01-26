@@ -371,7 +371,11 @@ photograph, very much distorted and foreshortened by the curvature of
 the sun's surface, are seen in a different part of the second picture,
 and are not only more conspicuous but show better their true shape.
 
-[![PLATE II. THE EQUATORIAL CONSTELLATIONS][img8]](Plate-II.jpg)
+<center>
+[![PLATE II. THE EQUATORIAL CONSTELLATIONS][plate II]](Plate-II.jpg)
+
+[**PLATE II. THE EQUATORIAL CONSTELLATIONS**](Plate-II.jpg)
+</center>
 
 ### 120. THE SUN'S ROTATION
 

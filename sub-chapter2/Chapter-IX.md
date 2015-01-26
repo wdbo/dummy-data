@@ -15,8 +15,6 @@ statements, although the degree of numerical precision contained in some
 of them can be reached only by more elaborate apparatus and longer study
 than he has given to the subject:
 
-[![THE MOON, ONE DAY AFTER FIRST QUARTER. From a photograph made at the Paris Observatory.][img7]](assets/i176-full.jpg)
-
 1.  The phase of the moon depends upon the distance apart of sun and moon
     in the sky, new moon coming when they are together, and full moon when
     they are as far apart as possible.
@@ -758,6 +756,12 @@ within the range of ordinary observation, and we shall not go far wrong
 in saying that, save the moonlight and the tides, every supposed lunar
 influence upon the earth is either fictitious or too small to be readily
 detected.
+
+<center>
+[![THE MOON, ONE DAY AFTER FIRST QUARTER. From a photograph made at the Paris Observatory.][moon first quarter]](assets/i176-full.jpg)
+
+[**THE MOON, ONE DAY AFTER FIRST QUARTER.** From a photograph made at the Paris Observatory.](assets/i176-full.jpg)
+</center>
 
 ----
 

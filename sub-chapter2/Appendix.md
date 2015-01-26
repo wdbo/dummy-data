@@ -147,7 +147,7 @@ See [§ 20](Chapter-II.md#20-time).
 |α Aquarii       |       3       |    22  0.6       |    -  0.8   |
 |_Fomalhaut_     |       1       |    22 52.1       |    - 30.2   |
 
-![PROTRACTOR TO ACCOMPANY COMSTOCK'S ASTRONOMY][img13]
+![PROTRACTOR TO ACCOMPANY COMSTOCK'S ASTRONOMY][img1]
 
 ----
 

@@ -5,19 +5,19 @@
 #
 
 # images
-[img1]: assets/i038.jpg "THE HARVARD COLLEGE OBSERVATORY, CAMBRIDGE, MASS."
-[img2]: assets/i062.jpg "ISAAC NEWTON (1643-1727)."
-[img3]: assets/i070.jpg "GALILEO GALILEI (1564-1642)."
-[img4]: assets/i080.jpg "THE LICK OBSERVATORY, MOUNT HAMILTON, CAL."
-[img5]: assets/i122.jpg "THE YERKES OBSERVATORY, WILLIAMS BAY, WIS."
-[img6]: assets/i148.jpg "PLATE I. THE NORTHERN CONSTELLATIONS"
-[img7]: assets/i176.jpg "THE MOON, ONE DAY AFTER FIRST QUARTER. From a photograph made at the Paris Observatory."
-[img8]: assets/i219.jpg "PLATE II. THE EQUATORIAL CONSTELLATIONS"
-[img09]: assets/i265.jpg "WILLIAM HERSCHEL (1738-1822)."
-[img10]: assets/i279.jpg "PLATE III. MAP OF MARS (AFTER SCHIAPARELLI)"
-[img11]: assets/i379.jpg "THE PLEIADES (AFTER A PHOTOGRAPH)"
-[img12]: assets/i401.jpg "PIERRE SIMON LAPLACE (1749-1827)."
-[img13]: assets/i431.jpg "PROTRACTOR TO ACCOMPANY COMSTOCK'S ASTRONOMY"
+[william herschel]: assets/i265.jpg "WILLIAM HERSCHEL (1738-1822)."
+[isaac newton]: assets/i062.jpg "ISAAC NEWTON (1643-1727)."
+[galileo galilei]: assets/i070.jpg "GALILEO GALILEI (1564-1642)."
+[pierre simon laplace]: assets/i401.jpg "PIERRE SIMON LAPLACE (1749-1827)."
+[harvard college observatory]: assets/i038.jpg "THE HARVARD COLLEGE OBSERVATORY, CAMBRIDGE, MASS."
+[lick observatory]: assets/i080.jpg "THE LICK OBSERVATORY, MOUNT HAMILTON, CAL."
+[yerkes observatory]: assets/i122.jpg "THE YERKES OBSERVATORY, WILLIAMS BAY, WIS."
+[moon first quarter]: assets/i176.jpg "THE MOON, ONE DAY AFTER FIRST QUARTER. From a photograph made at the Paris Observatory."
+[img1]: assets/i431.jpg "PROTRACTOR TO ACCOMPANY COMSTOCK'S ASTRONOMY"
+[plate I]: assets/i148.jpg "PLATE I. THE NORTHERN CONSTELLATIONS"
+[plate II]: assets/i219.jpg "PLATE II. THE EQUATORIAL CONSTELLATIONS"
+[plate III]: assets/i279.jpg "PLATE III. MAP OF MARS (AFTER SCHIAPARELLI)"
+[plate IV]: assets/i379.jpg "PLATE IV. THE PLEIADES (AFTER A PHOTOGRAPH)"
 
 # figures
 [fig1]: assets/i016.png "FIG. 1.--A protractor."

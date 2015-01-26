@@ -439,8 +439,6 @@ be provided with such a clock for his future work, but one such clock
 will serve for several persons, and a nutmeg clock or a watch of the
 cheapest kind is quite sufficient.
 
-[![THE HARVARD COLLEGE OBSERVATORY, CAMBRIDGE, MASS.][img1]](assets/i038-full.jpg)
-
 #### EXERCISE 9.
 Set such a clock to sidereal time by means of the transit
 of a star over your meridian. For this experiment it is presupposed that
@@ -597,6 +595,12 @@ Will your answer to the preceding question be true for a star? What is
 the altitude of the sun after sunset? In what direction is the north
 pole from the zenith? From the vernal equinox? Where are the points in
 which the meridian and equator respectively intersect the horizon?
+
+<center>
+[![THE HARVARD COLLEGE OBSERVATORY, CAMBRIDGE, MASS.][harvard college observatory]](assets/i038-full.jpg)
+
+[**THE HARVARD COLLEGE OBSERVATORY, CAMBRIDGE, MASS.**](assets/i038-full.jpg)
+</center>
 
 ----
 

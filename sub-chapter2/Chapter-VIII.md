@@ -114,7 +114,11 @@ length obtained by dividing a meter into \(10^{10}\) equal parts. \(10^{10} =
 |   "      "    red                 |   7,000      |
 | Extreme limit of visible red      |   7,600      |
 
-[![PLATE I. THE NORTHERN CONSTELLATIONS][img6]](Plate-I.jpg)
+<center>
+[![PLATE I. THE NORTHERN CONSTELLATIONS][plate I]](Plate-I.jpg)
+
+[**PLATE I. THE NORTHERN CONSTELLATIONS**](Plate-I.jpg)
+</center>
 
 The phrase "extreme limit of visible violet" or red used above must be
 understood to mean that in general the eye is not able to detect radiant
@@ -515,7 +519,7 @@ called a _spectrum_, and is red at one end and violet or blue at the
 other, with all the colors of the rainbow intervening in proper order
 between these extremes. Such a prism placed in front of the objective of
 a telescope is called an objective prism, and has been used for stellar
-work with marked success at the Harvard College Observatory. But if the
+work with marked success at the [Harvard College Observatory](Chapter-II.md#harvard-college-observatory). But if the
 light to be analyzed comes from an object having an appreciable extent
 of surface, such as the sun or a planet, the objective prism can not be
 successfully employed, since each point of the surface will produce its

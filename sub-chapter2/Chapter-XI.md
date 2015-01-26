@@ -514,8 +514,8 @@ the ring fades off into an obscure border called the _dusky ring_ or
 _crape ring_. This requires a pretty good telescope to show it, as may
 be inferred from the fact that it escaped notice for more than two
 centuries during which the planet was assiduously studied with
-telescopes, and was discovered at the Harvard College Observatory as
-recently as 1850.
+telescopes, and was discovered at the [Harvard College Observatory](Chapter-II.md#harvard-college-observatory) 
+as recently as 1850.
 
 Although the rings appear oval in all of the pictures, this is mainly an
 effect of perspective, and they are in fact nearly circular with the
@@ -629,12 +629,10 @@ The two remaining large planets are
 interesting chiefly as modern additions to the known members of the
 sun's family. The circumstances leading to the discovery of Neptune have
 been touched upon in [Chapter IV](Chapter-IV.md), and for Uranus we need only note that
-it was found by accident in the year 1781 by William Herschel, who for
+it was found by accident in the year 1781 by [William Herschel](Chapter-XI.md#william-herschel), who for
 some time after the discovery considered it to be only a comet. It was
 the first planet ever discovered, all of its predecessors having been
 known from prehistoric times.
-
-[![WILLIAM HERSCHEL (1738-1822).][img11]](assets/i265-full.jpg)
 
 Uranus has four satellites, all of them very faint, which present only
 one feature of special importance. Instead of moving in orbits which are
@@ -866,7 +864,7 @@ succession.
 
 [![FIG. 97.--The south polar cap of Mars in 1894.--BARNARD.][fig97]](assets/i274-full.jpg)
 
-Sir W. Herschel, who studied these appearances a century ago, compared
+[Sir W. Herschel](Chapter-XI.md#william-herschel), who studied these appearances a century ago, compared
 them with the snow fields which every winter spread out from the region
 around the terrestrial pole, and in the summer melt and shrink, although
 with us they do not entirely disappear. This explanation of the polar
@@ -962,7 +960,11 @@ overcome.
 
 ![FIG. 99.--A chart of Mars, 1898-'99.--CERULLI.][fig99]
 
-[![PLATE III. MAP OF MARS (AFTER SCHIAPARELLI)][img10]](Plate-III.jpg)
+<center>
+[![PLATE III. MAP OF MARS (AFTER SCHIAPARELLI)][plate III]](Plate-III.jpg)
+
+[**PLATE III. MAP OF MARS (AFTER SCHIAPARELLI)**](Plate-III.jpg)
+</center>
 
 ### 155. SATELLITES
 
@@ -1087,6 +1089,12 @@ planetary life, for aside from the earth, of all the hundreds of bodies
 in the solar system, not one is found in which the necessary conditions
 of life are certainly fulfilled, and only two exist in which there is a
 reasonable probability that these conditions may be satisfied.
+
+<center>
+[![WILLIAM HERSCHEL (1738-1822).][william herschel]](assets/i265-full.jpg)
+
+[**WILLIAM HERSCHEL (1738-1822).**](assets/i265-full.jpg)
+</center>
 
 ----
 

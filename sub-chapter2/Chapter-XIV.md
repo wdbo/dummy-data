@@ -310,7 +310,11 @@ in wisps extending from one star to the next, after the fashion of a
 bridge, and leaving little doubt that the nebula is actually a part of
 the cluster and not merely a background for it.
 
-[![THE PLEIADES (AFTER A PHOTOGRAPH)][img15]](Plate-IV.md)
+<center>
+[![THE PLEIADES (AFTER A PHOTOGRAPH)][plate IV]](Plate-IV.md)
+
+[**Plate IV-THE PLEIADES (AFTER A PHOTOGRAPH)**](Plate-IV.md)
+</center>
 
 [Fig. 147](Chapter-XIV.md#fig147) shows a series of so-called double nebulæ perhaps comparable
 with double stars, although the most recent photographic work seems to
@@ -344,7 +348,7 @@ discontinuous one containing only a few bright lines, showing that here
 the nebular light comes from glowing gases which are subject to no
 considerable pressure. The planetary nebulæ all have spectra of this
 kind and make up about half of all the known gaseous nebulæ. It is
-worthy of note that a century ago Sir William Herschel had observed a
+worthy of note that a century ago [Sir W. Herschel](Chapter-XI.md#william-herschel) had observed a
 green shimmer in the light of certain nebulæ which led him to believe
 that they were "not of a starry nature," a conclusion which has been
 abundantly confirmed by the spectroscope. The green shimmer is, in fact,

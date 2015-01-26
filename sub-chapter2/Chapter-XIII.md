@@ -873,7 +873,7 @@ bodies." But most astronomers were incredulous, and it was not until
 dark star was brought to light and the companion of Sirius actually
 seen. The visual discovery of the dark companion of Procyon is of still
 more recent date (November, 1896), when it was detected with the great
-telescope of the Lick Observatory. This discovery is so recent that the
+telescope of the [Lick Observatory](Chapter-IV.md#lick-observatory). This discovery is so recent that the
 orbit is still very uncertain, being based almost wholly upon the
 variations in the proper motion of the star, and while the periodic time
 must be very nearly correct, the mass of the stars and dimensions of the
@@ -911,7 +911,8 @@ be the general character of the motions in such a system.
 ### 203. SPECTROSCOPIC BINARIES
 
 In the year 1890 Professor Pickering, of
-the Harvard Observatory, announced the discovery of a new class of
+the [Harvard Observatory](Chapter-II.md#harvard-college-observatory), 
+announced the discovery of a new class of
 double stars, invisible as such in even the most powerful telescope,
 and producing no perturbations such as have been considered above, but
 showing in their spectrum that two or more bodies must be present in the

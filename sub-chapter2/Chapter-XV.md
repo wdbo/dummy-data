@@ -173,7 +173,7 @@ comparatively modern, but more than a century ago philosophic students
 of Nature had been led in quite a different way to the belief that in
 the earlier stages of its career the sun must have been an enormously
 extended body whose outer portions reached even beyond the orbit of the
-remotest planet. Laplace, whose speculations upon this subject have had
+remotest planet. [Laplace](Chapter-XV.md#pierre-simon-laplace), whose speculations upon this subject have had
 a dominant influence during the nineteenth century, has left, in a
 popular treatise upon astronomy, an admirable statement of the phenomena
 of planetary motion, which suggest and lead up to the nebular theory of
@@ -221,8 +221,6 @@ that the matter sloughed off by the nebula in the form of a ring,
 perhaps comparable to the rings of Saturn or the asteroid zone, would
 ultimately condense into a planet, which in its turn might shrink and
 cast off rings to produce satellites.
-
-[![PIERRE SIMON LAPLACE (1749-1827).][img16]](assets/i401-full.jpg)
 
 Planets and satellites would then all have similar motions, as noted at
 the beginning of this section, since in every case this motion is an
@@ -801,6 +799,12 @@ forth by Goethe in the lines:
 
 >   "Thus work I at the roaring loom of Time,
     And weave for Deity a living robe sublime."
+
+<center>
+[![PIERRE SIMON LAPLACE (1749-1827).][pierre simon laplace]](assets/i401-full.jpg)
+
+[**PIERRE SIMON LAPLACE (1749-1827).**](assets/i401-full.jpg)
+</center>
 
 ----
 

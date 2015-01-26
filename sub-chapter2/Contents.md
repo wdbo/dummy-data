@@ -67,21 +67,21 @@ wdb:    notoc
 
 *   [A Total Solar Eclipse](README.md)
 
-*   [The Harvard College Observatory, Cambridge, Mass.](Chapter-II.md)
+*   [The Harvard College Observatory, Cambridge, Mass.](Chapter-II.md#harvard-college-observatory)
 
-*   [Isaac Newton](Chapter-IV.md)
+*   [Isaac Newton](Chapter-IV.md#isaac-newton)
 
-*   [Galileo Galilei](Chapter-IV.md)
+*   [Galileo Galilei](Chapter-IV.md#galileo-galilei)
 
-*   [The Lick Observatory, Mount Hamilton, Cal.](Chapter-IV.md)
+*   [The Lick Observatory, Mount Hamilton, Cal.](Chapter-IV.md#lick-observatory)
 
-*   [The Yerkes Observatory, Williams Bay, Wis.](Chapter-VI.md)
+*   [The Yerkes Observatory, Williams Bay, Wis.](Chapter-VI.md#yerkes-observatory)
 
-*   [The Moon, one day after First Quarter](Chapter-IX.md)
+*   [The Moon, one day after First Quarter](Chapter-IX.md#moon-first-quarter)
 
-*   [William Herschel](Chapter-XI.md)
+*   [William Herschel](Chapter-XI.md#william-herschel)
 
-*   [Pierre Simon Laplace](Chapter-XV.md)
+*   [Pierre Simon Laplace](Chapter-XV.md#pierre-simon-laplace)
 
 ----
 

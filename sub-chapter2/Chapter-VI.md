@@ -458,7 +458,11 @@ For much curious and interesting information about methods of reckoning
 the lapse of time the student may consult the articles Calendar and
 Chronology in any good encyclopædia.
 
-[![THE YERKES OBSERVATORY, WILLIAMS BAY, WIS.][img5]](assets/i122-full.jpg)
+<center>
+[![THE YERKES OBSERVATORY, WILLIAMS BAY, WIS.][yerkes observatory]](assets/i122-full.jpg)
+
+[**THE YERKES OBSERVATORY, WILLIAMS BAY, WIS.**](assets/i122-full.jpg)
+</center>
 
 ----
 

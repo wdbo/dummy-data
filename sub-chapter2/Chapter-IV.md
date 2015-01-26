@@ -10,8 +10,6 @@ of the class of priests. The religions of which they were the guardians
 and teachers stood in closest relations with the movements of the stars,
 and their own power and influence were increased by a knowledge of them.
 
-![ISAAC NEWTON (1643-1727).][img2]
-
 Out of these professional needs, as well as from a spirit of scientific
 research, there grew up and flourished for many centuries a study of the
 motions of the planets, simple and crude at first, because the
@@ -138,7 +136,7 @@ Would Kepler's laws hold true for such an orbit?
 ### 34. NEWTON'S LAWS OF MOTION
 
 Kepler studied and described the motion of
-the planets. Newton, three generations later (1727 A. D.), studied and
+the planets. [Newton](Chapter-IV.md#isaac-newton), three generations later (1727 A. D.), studied and
 described the mechanism which controls that motion. To Kepler and his
 age the heavens were supernatural, while to Newton and his successors
 they are a part of Nature, governed by the same laws which obtain upon
@@ -171,7 +169,8 @@ applied additional power to the wheel, and when this speed is slackened
 it equally shows that force has been applied against the motion. It is
 force alone which can produce a change in either velocity or direction
 of motion; but simple as this law now appears it required the genius of
-Galileo to discover it and of Newton to give it the form in which it is
+[Galileo](Chapter-IV.md#galileo-galilei) to discover it and of 
+[Newton](Chapter-IV.md#isaac-newton) to give it the form in which it is
 stated above.
 
 ### 35. THE SECOND LAW OF MOTION
@@ -229,8 +228,6 @@ show that `g` is equal to 32?
 If the balloon were half a mile high how long would it take to fall to
 the ground? What would be the velocity just before reaching the ground?
 
-[![GALILEO GALILEI (1564-1642).][img3]](assets/i070-full.jpg)
-
 [Fig. 19](Chapter-IV.md#fig19) shows the path through the air of a ball which has been struck
 by a bat at the point `A`, and started off in the direction `A B` with a
 velocity of 200 feet per second. In accordance with the first law of
@@ -266,7 +263,7 @@ of the rope to this pull which lifts him along it. We shall find in a
 later chapter a curious application of this law to the history of the
 earth and moon.
 
-It is the great glory of Sir Isaac Newton that he first of all men
+It is the great glory of [Sir Isaac Newton](Chapter-IV.md#isaac-newton) that he first of all men
 recognized that these simple laws of motion hold true in the heavens as
 well as upon the earth; that the complicated motion of a planet, a
 comet, or a star is determined in accordance with these laws by the
@@ -493,8 +490,6 @@ been able to furnish a complete solution for it, although they have
 worked upon the problem for two centuries, and have developed an immense
 amount of detailed information concerning it.
 
-[![THE LICK OBSERVATORY, MOUNT HAMILTON, CAL.][img4]](assets/i080-full.jpg)
-
 In general each planet works ceaselessly upon the orbit of every other,
 changing its size and shape and position, backward and forward in
 accordance with the law of gravitation, and it is a question of serious
@@ -504,7 +499,7 @@ the other planets, the amount of heat received from the sun would be
 correspondingly changed, and the earth, perhaps, be rendered unfit
 for the support of life. The tipping of the plane of the earth's orbit
 into a new position might also produce serious consequences; but the
-great French mathematician of a century ago, Laplace, succeeded in
+great French mathematician of a century ago, [Laplace](Chapter-XV.md#pierre-simon-laplace), succeeded in
 proving from the law of gravitation that although both of these changes
 are actually in progress they can not, at least for millions of years,
 go far enough to prove of serious consequence, and the same is true for
@@ -762,6 +757,24 @@ the law and traced out its consequences, we do not know; but whether it
 be the one or the other, this and other similar cases show that even
 here, in its most perfect chapter, astronomy still remains an incomplete
 science.
+
+<center>
+![ISAAC NEWTON (1643-1727).][isaac newton]
+
+**ISAAC NEWTON (1643-1727).**
+</center>
+
+<center>
+[![GALILEO GALILEI (1564-1642).][galileo galilei]](assets/i070-full.jpg)
+
+[**GALILEO GALILEI (1564-1642).**](assets/i070-full.jpg)
+</center>
+
+<center>
+[![THE LICK OBSERVATORY, MOUNT HAMILTON, CAL.][lick observatory]](assets/i080-full.jpg)
+
+[**THE LICK OBSERVATORY, MOUNT HAMILTON, CAL.**](assets/i080-full.jpg)
+</center>
 
 ----
 
